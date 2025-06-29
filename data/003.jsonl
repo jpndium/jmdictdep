@@ -1,4 +1,3 @@
-{"ent_seq":2860474,"k_ele":[{"keb":"手のひら返し","composition":"手のひら 返し","dependencies":"掌 手のひら 返し","kanji":"手 返"},{"keb":"手の平返し","composition":"手の平 返し","dependencies":"掌 手の平 返し","kanji":"手 平 返"},{"keb":"掌返し","composition":"掌 返し","dependencies":"掌 返し","kanji":"掌 返"},{"keb":"てのひら返し","composition":"てのひら 返し","dependencies":"掌 てのひら 返し","kanji":"返"},{"keb":"手のひらがえし","composition":"手のひら がえし","dependencies":"掌 手のひら 返し がえし","kanji":"手"}]}
 {"ent_seq":2860475}
 {"ent_seq":2860476}
 {"ent_seq":2860477,"k_ele":[{"keb":"浮腫","dependents":"クインケ浮腫 リンパ浮腫 肺浮腫 脳浮腫 血管性浮腫 血管浮腫","kanji":"浮 腫"}]}
@@ -5278,7 +5277,7 @@
 {"ent_seq":2866111,"k_ele":[{"keb":"三麻","composition":"三 麻","dependencies":"三 麻","kanji":"三 麻"}]}
 {"ent_seq":2866112,"k_ele":[{"keb":"三人麻雀","composition":"三 人 麻雀","dependencies":"三 人 マージャン 麻雀","kanji":"三 人 麻 雀"}]}
 {"ent_seq":2866113,"k_ele":[{"keb":"東京都議会議員選挙","composition":"東京都 議会 議員 選挙","dependencies":"東京 都 東京都 議会 議員 選挙","kanji":"東 京 都 議 会 議 員 選 挙"}]}
-{"ent_seq":2866114,"k_ele":[{"keb":"三擦り半","composition":"三 擦り半","dependencies":"三 擦り半","kanji":"三 擦 半"}]}
+{"ent_seq":2866114,"k_ele":[{"keb":"みこすり半","composition":"みこ すり半","dependencies":"みこ 擦り半 すり半","kanji":"半"},{"keb":"三擦り半","composition":"三 擦り半","dependencies":"三 擦り半","kanji":"三 擦 半"}]}
 {"ent_seq":2866115}
 {"ent_seq":2866116,"k_ele":[{"keb":"濁色","composition":"濁 色","dependencies":"濁 色","kanji":"濁 色"}]}
 {"ent_seq":2866117,"k_ele":[{"keb":"脈波","kanji":"脈 波"}]}
@@ -5373,6 +5372,7 @@
 {"ent_seq":2866206,"k_ele":[{"keb":"融雪剤","composition":"融雪 剤","dependencies":"融雪 剤","kanji":"融 雪 剤"}]}
 {"ent_seq":2866207,"k_ele":[{"keb":"目皿","kanji":"目 皿"}]}
 {"ent_seq":2866208}
+{"ent_seq":2866209,"k_ele":[{"keb":"社給","composition":"社 給","dependencies":"社 給","kanji":"社 給"}]}
 {"ent_seq":2866210,"k_ele":[{"keb":"分角","composition":"分 角","dependencies":"分 角","kanji":"分 角"}]}
 {"ent_seq":2866211,"k_ele":[{"keb":"石倉","dependents":"石蔵","kanji":"石 倉"},{"keb":"石蔵","composition":"石倉","dependencies":"石倉","kanji":"石 蔵"}]}
 {"ent_seq":2866212,"k_ele":[{"keb":"電気シャワー","composition":"電気 シャワー","dependencies":"電気 シャワー","kanji":"電 気"}]}
@@ -5398,6 +5398,56 @@
 {"ent_seq":2866233,"k_ele":[{"keb":"関銭","kanji":"関 銭"}]}
 {"ent_seq":2866234,"k_ele":[{"keb":"鉄銭","kanji":"鉄 銭"}]}
 {"ent_seq":2866235,"k_ele":[{"keb":"変状","kanji":"変 状"}]}
+{"ent_seq":2866236,"k_ele":[{"keb":"九頭竜","kanji":"九 頭 竜"},{"keb":"九頭龍","kanji":"九 頭 龍"}]}
+{"ent_seq":2866237,"k_ele":[{"keb":"目目連","composition":"目 目連","dependencies":"目 目連","kanji":"目 目 連"},{"keb":"目々連","composition":"目々 連","dependencies":"目々 連","kanji":"目 連"}]}
+{"ent_seq":2866238}
+{"ent_seq":2866239,"k_ele":[{"keb":"史話","kanji":"史 話"}]}
+{"ent_seq":2866240}
+{"ent_seq":2866241,"k_ele":[{"keb":"熊苺","composition":"熊 苺","dependencies":"熊 苺","kanji":"熊 苺"}]}
+{"ent_seq":2866242,"k_ele":[{"keb":"苦苺","composition":"苦 苺","dependencies":"苦 苺","kanji":"苦 苺"}]}
+{"ent_seq":2866243,"k_ele":[{"keb":"教","dependents":"イスラム教 イスラム教国 イスラム教建築 イスラム教徒 イスラーム教 インド教 オウム真理教 オウム真理教事件 オウム真理教犯罪被害者救済法 カオダイ教 カトリック教 キリスト教 キリスト教ナショナリズム キリスト教国 キリスト教大学 キリスト教徒 キリスト教民主主義 キリスト教民主同盟 キリスト教短大 キリスト教社会主義 シク教 シーク教 ジャイナ教 ゾロアスター教 ドルイド教 バハーイー教 バラモン教 ヒンズー教 ヒンドゥー教 ヒンドゥ教 フイフイ教 ブードゥー教 マニ教 マホメット教 ミトラス教 ミトラ教 モルモン教 ヤジディ教 ヤジーディー教 ヤズィーディー教 ヤズディ教 ヤソ教 ユダヤ教 ユダヤ教会堂 ユダヤ教徒 ラマ教 ローマカトリック教 ローマ・カトリック教 一神教 万有神教 三教 世界基督教統一神霊協会 世界基督教統一神霊教会 五時八教 五時教 交替神教 他教 偶像教 偶像教徒的 偽善売教 全真教 内教 出雲大社教 初期キリスト教 単一神教 印度教 原始キリスト教 唯一神教 喇嘛教 回々教 国際基督教大学 垂教 基督教 多神教 大成教 大社教 天主教 天理教 天道教 婆羅門教 実行教 家教 御岳教 御嶽教 扶桑教 拝一神教 拝火教 拝火教徒 拝物教 摩尼教 教うるは学ぶの半ば 教喩 教徒 教料書 教歴 教籍 教者 末尼教 東京基督教大学 汎神教 沖縄キリスト教学院大学 沖縄キリスト教短期大学 浄土教 清真教 異教徒 白蓮教 神宮教 神教 神理教 神習教 神道大成教 禊教 耆那教 耶蘇教 脱教 自然神教 茨城キリスト教大学 蜜教 金光教 高台教 高教 黒住教","kanji":"教"}]}
+{"ent_seq":2866244,"k_ele":[{"keb":"半金属","composition":"半 金属","dependencies":"半 金属","kanji":"半 金 属"}]}
+{"ent_seq":2866245}
+{"ent_seq":2866246,"k_ele":[{"keb":"磁荷","composition":"磁 荷","dependencies":"磁 荷","kanji":"磁 荷"}]}
+{"ent_seq":2866247,"k_ele":[{"keb":"電束","kanji":"電 束"}]}
+{"ent_seq":2866248,"k_ele":[{"keb":"コウ争い","composition":"コウ 争い","dependencies":"こう コウ 争い","kanji":"争"},{"keb":"劫争い","composition":"劫 争い","dependencies":"劫 争い","kanji":"劫 争"}]}
+{"ent_seq":2866249,"k_ele":[{"keb":"界磁","composition":"界 磁","dependencies":"界 磁","kanji":"界 磁"}]}
+{"ent_seq":2866250,"k_ele":[{"keb":"劫立て","kanji":"劫 立"},{"keb":"コウ立て","composition":"コウ 立て","dependencies":"こう コウ 立て","kanji":"立"}]}
+{"ent_seq":2866251}
+{"ent_seq":2866252}
+{"ent_seq":2866254,"k_ele":[{"keb":"ぎなた読み","composition":"ぎ な た 読み","dependencies":"ぎ だ な た 読み","kanji":"読"}]}
+{"ent_seq":2866255,"k_ele":[{"keb":"麻苧","kanji":"麻 苧"}]}
+{"ent_seq":2866256,"k_ele":[{"keb":"剃り込み","kanji":"剃 込"},{"keb":"そり込み","composition":"そり 込み","dependencies":"そり 込み","kanji":"込"}]}
+{"ent_seq":2866257,"k_ele":[{"keb":"剛性率","composition":"剛性 率","dependencies":"剛性 率","kanji":"剛 性 率"}]}
+{"ent_seq":2866258,"k_ele":[{"keb":"素線","composition":"素 線","dependencies":"素 線","kanji":"素 線"}]}
+{"ent_seq":2866259,"k_ele":[{"keb":"冷間加工","composition":"冷間 加工","dependencies":"冷間 加工","kanji":"冷 間 加 工"}]}
+{"ent_seq":2866260,"k_ele":[{"keb":"熟度","kanji":"熟 度"}]}
+{"ent_seq":2866261,"k_ele":[{"keb":"団粒","kanji":"団 粒"}]}
+{"ent_seq":2866262,"k_ele":[{"keb":"樹勢","kanji":"樹 勢"}]}
+{"ent_seq":2866263,"k_ele":[{"keb":"お礼肥","composition":"お 礼肥","dependencies":"御 お 礼肥","kanji":"礼 肥"},{"keb":"お礼肥え","composition":"お 礼肥 え","dependencies":"御 お 礼肥 えー え","kanji":"礼 肥"},{"keb":"御礼肥","composition":"御 礼肥","dependencies":"御 礼肥","kanji":"御 礼 肥"}]}
+{"ent_seq":2866265,"k_ele":[{"keb":"直播","composition":"直播き","dependencies":"直播き","kanji":"直 播"},{"keb":"直播き","dependents":"直まき 直播","kanji":"直 播"},{"keb":"直蒔き","composition":"直 蒔き","dependencies":"直 蒔く 蒔き","kanji":"直 蒔"},{"keb":"直まき","composition":"直播き","dependencies":"直播き","kanji":"直"},{"keb":"直蒔","composition":"直 蒔","dependencies":"直 蒔","kanji":"直 蒔"}]}
+{"ent_seq":2866266,"k_ele":[{"keb":"単肥","kanji":"単 肥"}]}
+{"ent_seq":2866267,"k_ele":[{"keb":"中耕","dependents":"中耕機","kanji":"中 耕"}]}
+{"ent_seq":2866268,"k_ele":[{"keb":"摘蕾","kanji":"摘 蕾"}]}
+{"ent_seq":2866269,"k_ele":[{"keb":"網船","composition":"網 船","dependencies":"網 船","kanji":"網 船"}]}
+{"ent_seq":2866270,"k_ele":[{"keb":"灯標","kanji":"灯 標"},{"keb":"燈標","composition":"燈 標","dependencies":"明かり 燈 標","kanji":"燈 標"}]}
+{"ent_seq":2866271,"k_ele":[{"keb":"灯浮標","composition":"灯 浮標","dependencies":"明かり 灯 浮標","kanji":"灯 浮 標"}]}
+{"ent_seq":2866272,"k_ele":[{"keb":"田下駄","composition":"田下 駄","dependencies":"田下 駄","kanji":"田 下 駄"}]}
+{"ent_seq":2866273}
+{"ent_seq":2866275,"k_ele":[{"keb":"経口薬","composition":"経口 薬","dependencies":"経口 薬","kanji":"経 口 薬"}]}
+{"ent_seq":2866276,"k_ele":[{"keb":"在泊","composition":"在 泊","dependencies":"有る 在る 在り 在 泊","kanji":"在 泊"}]}
+{"ent_seq":2866277,"k_ele":[{"keb":"避退","kanji":"避 退"}]}
+{"ent_seq":2866278,"k_ele":[{"keb":"近接信管","composition":"近接 信管","dependencies":"近接 信管","kanji":"近 接 信 管"}]}
+{"ent_seq":2866279,"k_ele":[{"keb":"略意","kanji":"略 意"}]}
+{"ent_seq":2866280,"k_ele":[{"keb":"海人草","dependents":"海仁草","kanji":"海 人 草"},{"keb":"海仁草","composition":"海人草","dependencies":"海人草","kanji":"海 仁 草"},{"keb":"鷓鴣菜","composition":"鷓鴣 菜","dependencies":"鷓鴣 菜","kanji":"鷓 鴣 菜"}]}
+{"ent_seq":2866281,"k_ele":[{"keb":"教義学","composition":"教義 学","dependencies":"教義 学","kanji":"教 義 学"}]}
+{"ent_seq":2866282,"k_ele":[{"keb":"測器","kanji":"測 器"}]}
+{"ent_seq":2866283,"k_ele":[{"keb":"繁体","dependents":"繁体字","kanji":"繁 体"}]}
+{"ent_seq":2866285}
+{"ent_seq":2866286}
+{"ent_seq":2866287,"k_ele":[{"keb":"口頭伝承","composition":"口頭 伝承","dependencies":"口頭 伝承","kanji":"口 頭 伝 承"}]}
+{"ent_seq":2866288,"k_ele":[{"keb":"アスコルビン酸ナトリウム","composition":"アスコルビン 酸 ナトリウム","dependencies":"アスコルビン 酸 ナトリウム","kanji":"酸"}]}
+{"ent_seq":2866307,"k_ele":[{"keb":"星漢","composition":"星 漢","dependencies":"星 漢","kanji":"星 漢"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}

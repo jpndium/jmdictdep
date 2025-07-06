@@ -1470,7 +1470,7 @@
 {"ent_seq":2862046,"k_ele":[{"keb":"電動工具","composition":"電動 工具","dependencies":"電動 工具","kanji":"電 動 工 具"}]}
 {"ent_seq":2862047,"k_ele":[{"keb":"ネジ止め","composition":"ネジ 止め","dependencies":"螺子 ネジ 止める 止め","kanji":"止"},{"keb":"ねじ止め","composition":"ねじ 止め","dependencies":"螺子 ねじ 止める 止め","kanji":"止"}]}
 {"ent_seq":2862048,"k_ele":[{"keb":"珈琲フィルター","composition":"珈琲 フィルター","dependencies":"コーヒー 珈琲 フィルター","kanji":"珈 琲"}]}
-{"ent_seq":2862049,"k_ele":[{"keb":"螺子","dependents":"ねじ ねじを巻く ねじ上げる ねじ伏せる ねじ切り ねじ切る ねじ向ける ねじ式 ねじ曲がる ねじ曲げる ねじ止め ねじ込む ねじ開ける ネジ ネジを巻く ネジ止め プラス螺子 ボール螺子 十字ねじ 十字ネジ 十字穴付きねじ 十字螺子 右ねじ 右ねじの法則 右ネジの法則 右螺子 右螺子の法則 女ねじ 押さえねじ 捩子 捻子 木ねじ 木ネジ 木螺子 皿ねじ 皿ネジ 皿螺子 螺子を巻く 螺子プロペラ 螺子ポンプ 雄ねじ 雄ネジ 雄螺子 雌ねじ 雌ネジ 雌螺子","kanji":"螺 子"}]}
+{"ent_seq":2862049,"k_ele":[{"keb":"螺子","dependents":"ねじ ねじを巻く ねじ上げる ねじ伏せる ねじ切り ねじ切る ねじ向ける ねじ式 ねじ曲がる ねじ曲げる ねじ止め ねじ込む ねじ開ける ネジ ネジを巻く ネジ止め プラス螺子 ボール螺子 十字ねじ 十字ネジ 十字穴付きねじ 十字螺子 右ねじ 右ねじの法則 右ネジの法則 右螺子 右螺子の法則 女ねじ 押さえねじ 捩子 捻子 木ねじ 木ネジ 木螺子 皿ねじ 皿ネジ 皿螺子 蝶ねじ 蝶ネジ 蝶螺子 螺子を巻く 螺子プロペラ 螺子ポンプ 雄ねじ 雄ネジ 雄螺子 雌ねじ 雌ネジ 雌螺子","kanji":"螺 子"}]}
 {"ent_seq":2862050}
 {"ent_seq":2862051,"k_ele":[{"keb":"ペラ回す","composition":"ペラ 回す","dependencies":"ぺら ペラ 回す","kanji":"回"}]}
 {"ent_seq":2862052}
@@ -5447,7 +5447,71 @@
 {"ent_seq":2866286}
 {"ent_seq":2866287,"k_ele":[{"keb":"口頭伝承","composition":"口頭 伝承","dependencies":"口頭 伝承","kanji":"口 頭 伝 承"}]}
 {"ent_seq":2866288,"k_ele":[{"keb":"アスコルビン酸ナトリウム","composition":"アスコルビン 酸 ナトリウム","dependencies":"アスコルビン 酸 ナトリウム","kanji":"酸"}]}
+{"ent_seq":2866289,"k_ele":[{"keb":"空き三角","composition":"空き 三角","dependencies":"空く 空き 三角","kanji":"空 三 角"},{"keb":"アキ三角","composition":"アキ 三角","dependencies":"アキ 三角","kanji":"三 角"}]}
+{"ent_seq":2866290,"k_ele":[{"keb":"竹節","dependents":"竹節人参 竹節虫","kanji":"竹 節"}]}
+{"ent_seq":2866291,"k_ele":[{"keb":"太刀音","composition":"太刀 音","dependencies":"太刀 音","kanji":"太 刀 音"}]}
+{"ent_seq":2866292,"k_ele":[{"keb":"蓄冷剤","composition":"蓄冷 剤","dependencies":"蓄冷 剤","kanji":"蓄 冷 剤"}]}
+{"ent_seq":2866293,"k_ele":[{"keb":"側脈","composition":"側 脈","dependencies":"側 脈","kanji":"側 脈"}]}
+{"ent_seq":2866296}
+{"ent_seq":2866297,"k_ele":[{"keb":"姫赤立羽","composition":"姫 赤 立羽","dependencies":"姫 赤 立羽","kanji":"姫 赤 立 羽"}]}
+{"ent_seq":2866298,"k_ele":[{"keb":"青条揚羽","composition":"青 条 揚羽","dependencies":"青 条 揚羽","kanji":"青 条 揚 羽"}]}
+{"ent_seq":2866299}
+{"ent_seq":2866302,"k_ele":[{"keb":"鼻差","kanji":"鼻 差"}]}
+{"ent_seq":2866303,"k_ele":[{"keb":"鼻の差","composition":"鼻 の 差","dependencies":"鼻 の 差","kanji":"鼻 差"}]}
+{"ent_seq":2866304}
+{"ent_seq":2866305,"k_ele":[{"keb":"戦術爆撃","composition":"戦術 爆撃","dependencies":"戦術 爆撃","kanji":"戦 術 爆 撃"}]}
+{"ent_seq":2866306,"k_ele":[{"keb":"河川漁業","composition":"河川 漁業","dependencies":"河川 漁業","kanji":"河 川 漁 業"}]}
 {"ent_seq":2866307,"k_ele":[{"keb":"星漢","composition":"星 漢","dependencies":"星 漢","kanji":"星 漢"}]}
+{"ent_seq":2866308,"k_ele":[{"keb":"夏白菊","composition":"夏 白菊","dependencies":"夏 白菊","kanji":"夏 白 菊"}]}
+{"ent_seq":2866309,"k_ele":[{"keb":"尿細管","composition":"尿 細管","dependencies":"尿 細管","kanji":"尿 細 管"}]}
+{"ent_seq":2866310,"k_ele":[{"keb":"スキール音","composition":"スキール 音","dependencies":"スキール 音","kanji":"音"}]}
+{"ent_seq":2866311,"k_ele":[{"keb":"雲板","composition":"雲 板","dependencies":"雲 板","kanji":"雲 板"},{"keb":"雲版","composition":"雲 版","dependencies":"雲 版","kanji":"雲 版"}]}
+{"ent_seq":2866312}
+{"ent_seq":2866313,"k_ele":[{"keb":"伝熱","dependents":"伝熱工学","kanji":"伝 熱"}]}
+{"ent_seq":2866314,"k_ele":[{"keb":"砕米","composition":"砕け米","dependencies":"砕け米","kanji":"砕 米"}]}
+{"ent_seq":2866315}
+{"ent_seq":2866316}
+{"ent_seq":2866317,"k_ele":[{"keb":"鮭とば","composition":"鮭 と ば","dependencies":"鮭 と ばっ ば","kanji":"鮭"},{"keb":"鮭冬葉","composition":"鮭 冬葉","dependencies":"鮭 冬葉","kanji":"鮭 冬 葉"}]}
+{"ent_seq":2866318,"k_ele":[{"keb":"冷風扇","composition":"冷風 扇","dependencies":"冷風 扇","kanji":"冷 風 扇"}]}
+{"ent_seq":2866319,"k_ele":[{"keb":"鬼熊","kanji":"鬼 熊"}]}
+{"ent_seq":2866323,"k_ele":[{"keb":"空弁","kanji":"空 弁"}]}
+{"ent_seq":2866326,"k_ele":[{"keb":"ロケ弁","composition":"ロケ 弁","dependencies":"ロケ 弁","kanji":"弁"}]}
+{"ent_seq":2866332,"k_ele":[{"keb":"餌木ング","composition":"餌木 ング","dependencies":"餌木 ング","kanji":"餌 木"}]}
+{"ent_seq":2866336,"k_ele":[{"keb":"輪中","kanji":"輪 中"}]}
+{"ent_seq":2866337,"k_ele":[{"keb":"蝶ネジ","composition":"蝶 ネジ","dependencies":"蝶 螺子 ネジ","kanji":"蝶"},{"keb":"蝶ねじ","composition":"蝶 ねじ","dependencies":"蝶 螺子 ねじ","kanji":"蝶"},{"keb":"蝶螺子","composition":"蝶 螺子","dependencies":"蝶 螺子","kanji":"蝶 螺 子"}]}
+{"ent_seq":2866340}
+{"ent_seq":2866345,"k_ele":[{"keb":"グルタコン酸","composition":"グルタコン 酸","dependencies":"グルタコン 酸","kanji":"酸"}]}
+{"ent_seq":2866346,"k_ele":[{"keb":"鮭児","kanji":"鮭 児"}]}
+{"ent_seq":2866348,"k_ele":[{"keb":"ヘキサン酸","composition":"ヘキサン 酸","dependencies":"ヘキサン 酸","kanji":"酸"}]}
+{"ent_seq":2866349,"k_ele":[{"keb":"ヘキソン酸","composition":"ヘキソン 酸","dependencies":"ヘキソン 酸","kanji":"酸"}]}
+{"ent_seq":2866350,"k_ele":[{"keb":"ヘミメリト酸","composition":"ヘミメリト 酸","dependencies":"ヘミメリト 酸","kanji":"酸"}]}
+{"ent_seq":2866353,"k_ele":[{"keb":"導尿","kanji":"導 尿"}]}
+{"ent_seq":2866354,"k_ele":[{"keb":"優占","dependents":"優占種","kanji":"優 占"}]}
+{"ent_seq":2866355,"k_ele":[{"keb":"白髪三千丈","composition":"白髪 三千丈","dependencies":"白髪 三千丈","kanji":"白 髪 三 千 丈"}]}
+{"ent_seq":2866357,"k_ele":[{"keb":"掌状脈","composition":"掌 状 脈","dependencies":"掌 状 脈","kanji":"掌 状 脈"}]}
+{"ent_seq":2866358,"k_ele":[{"keb":"三行脈","composition":"三 行 脈","dependencies":"三 行 脈","kanji":"三 行 脈"}]}
+{"ent_seq":2866359,"k_ele":[{"keb":"平行脈","composition":"平行 脈","dependencies":"平行 脈","kanji":"平 行 脈"}]}
+{"ent_seq":2866360,"k_ele":[{"keb":"読手","composition":"読み手","dependencies":"読み手","kanji":"読 手"}]}
+{"ent_seq":2866366,"k_ele":[{"keb":"微酔","kanji":"微 酔"}]}
+{"ent_seq":2866367,"k_ele":[{"keb":"尿閉","kanji":"尿 閉"}]}
+{"ent_seq":2866371,"k_ele":[{"keb":"奇数羽状複葉","composition":"奇数 羽状 複葉","dependencies":"奇数 羽状 複葉","kanji":"奇 数 羽 状 複 葉"}]}
+{"ent_seq":2866372,"k_ele":[{"keb":"偶数羽状複葉","composition":"偶数 羽状 複葉","dependencies":"偶数 羽状 複葉","kanji":"偶 数 羽 状 複 葉"}]}
+{"ent_seq":2866373,"k_ele":[{"keb":"掌状複葉","composition":"掌 状 複葉","dependencies":"掌 状 複葉","kanji":"掌 状 複 葉"}]}
+{"ent_seq":2866374,"k_ele":[{"keb":"三出複葉","composition":"三 出 複葉","dependencies":"三 出 複葉","kanji":"三 出 複 葉"},{"keb":"３出複葉","composition":"３ 出 複葉","dependencies":"3 ３ 出 複葉","kanji":"出 複 葉"}]}
+{"ent_seq":2866375,"k_ele":[{"keb":"全縁","composition":"全 縁","dependencies":"全 縁","kanji":"全 縁"}]}
+{"ent_seq":2866376,"k_ele":[{"keb":"二段バネ","composition":"二 段 バネ","dependencies":"二 段 ばね バネ","kanji":"二 段"}]}
+{"ent_seq":2866377,"k_ele":[{"keb":"葉原基","composition":"葉原 基","dependencies":"葉原 基","kanji":"葉 原 基"}]}
+{"ent_seq":2866382,"k_ele":[{"keb":"動物収容所","composition":"動物 収容 所","dependencies":"動物 収容 所","kanji":"動 物 収 容 所"}]}
+{"ent_seq":2866387,"k_ele":[{"keb":"眼柄","composition":"眼 柄","dependencies":"目 眼 柄","kanji":"眼 柄"}]}
+{"ent_seq":2866388}
+{"ent_seq":2866392,"k_ele":[{"keb":"香色","composition":"香 色","dependencies":"香 色","kanji":"香 色"}]}
+{"ent_seq":2866402,"k_ele":[{"keb":"栽植","kanji":"栽 植"}]}
+{"ent_seq":2866403,"k_ele":[{"keb":"お湯割り","composition":"お 湯割り","dependencies":"御 お 湯割り","kanji":"湯 割"},{"keb":"お湯割","composition":"お 湯 割","dependencies":"御 お 湯 割","kanji":"湯 割"},{"keb":"御湯割","composition":"御 湯 割","dependencies":"御 湯 割","kanji":"御 湯 割"},{"keb":"御湯割り","composition":"御 湯割り","dependencies":"御 湯割り","kanji":"御 湯 割"}]}
+{"ent_seq":2866405,"k_ele":[{"keb":"糸通し","kanji":"糸 通"}]}
+{"ent_seq":2866406,"k_ele":[{"keb":"台長","composition":"台 長","dependencies":"台 長い 長","kanji":"台 長"}]}
+{"ent_seq":2866407,"k_ele":[{"keb":"くせ字","composition":"くせ 字","dependencies":"癖 くせ 字","kanji":"字"},{"keb":"癖字","kanji":"癖 字"}]}
+{"ent_seq":2866408,"k_ele":[{"keb":"社会観","composition":"社会 観","dependencies":"社会 見る 観る 観","kanji":"社 会 観"}]}
+{"ent_seq":2866409,"k_ele":[{"keb":"小穂","kanji":"小 穂"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}

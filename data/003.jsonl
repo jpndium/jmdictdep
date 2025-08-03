@@ -1,16 +1,3 @@
-{"ent_seq":2860566,"k_ele":[{"keb":"消化器官","composition":"消化 器官","dependencies":"消化 器官","kanji":"消 化 器 官"}]}
-{"ent_seq":2860567,"k_ele":[{"keb":"進適","composition":"進 適","dependencies":"進 適","kanji":"進 適"}]}
-{"ent_seq":2860568,"k_ele":[{"keb":"心臓学","composition":"心臓 学","dependencies":"心臓 学","kanji":"心 臓 学"}]}
-{"ent_seq":2860569,"k_ele":[{"keb":"副器官","composition":"副 器官","dependencies":"副 器官","kanji":"副 器 官"}]}
-{"ent_seq":2860570,"k_ele":[{"keb":"知りたがり屋","composition":"知り たがり 屋","dependencies":"知る 知り たがる たがり 屋","kanji":"知 屋"}]}
-{"ent_seq":2860571,"k_ele":[{"keb":"制御工学","composition":"制御 工学","dependencies":"制御 工学","kanji":"制 御 工 学"}]}
-{"ent_seq":2860572,"k_ele":[{"keb":"錦衣玉食","composition":"錦衣 玉 食","dependencies":"錦衣 玉 食","kanji":"錦 衣 玉 食"}]}
-{"ent_seq":2860573,"k_ele":[{"keb":"錦衣","dependents":"錦衣玉食","kanji":"錦 衣"}]}
-{"ent_seq":2860574,"k_ele":[{"keb":"刃長","kanji":"刃 長"}]}
-{"ent_seq":2860575}
-{"ent_seq":2860576,"k_ele":[{"keb":"眼内圧","composition":"眼 内圧","dependencies":"目 眼 内圧","kanji":"眼 内 圧"}]}
-{"ent_seq":2860577,"k_ele":[{"keb":"検眼士","composition":"検眼 士","dependencies":"検眼 士","kanji":"検 眼 士"}]}
-{"ent_seq":2860578,"k_ele":[{"keb":"眼内","dependents":"有水晶体眼内レンズ 眼内レンズ","kanji":"眼 内"}]}
 {"ent_seq":2860579,"k_ele":[{"keb":"一の腕","composition":"一 の 腕","dependencies":"一 の 腕","kanji":"一 腕"}]}
 {"ent_seq":2860580,"k_ele":[{"keb":"遺失届","composition":"遺失 届","dependencies":"遺失 届ける 届け 届","kanji":"遺 失 届"}]}
 {"ent_seq":2860582,"k_ele":[{"keb":"花卉栽培家","composition":"花卉 栽培 家","dependencies":"花卉 栽培 家","kanji":"花 卉 栽 培 家"},{"keb":"花き栽培家","composition":"花き 栽培 家","dependencies":"花卉 花き 栽培 家","kanji":"花 栽 培 家"}]}
@@ -438,6 +425,7 @@
 {"ent_seq":2861022,"k_ele":[{"keb":"薬さじ","composition":"薬 さじ","dependencies":"薬 匙 さじ","kanji":"薬"},{"keb":"薬匙","kanji":"薬 匙"}]}
 {"ent_seq":2861023,"k_ele":[{"keb":"麦わら帽","composition":"麦わら 帽","dependencies":"麦藁 麦わら 帽","kanji":"麦 帽"},{"keb":"麦藁帽","composition":"麦藁 帽","dependencies":"麦藁 帽","kanji":"麦 藁 帽"},{"keb":"麦稈帽","composition":"麦稈 帽","dependencies":"麦稈 帽","kanji":"麦 稈 帽"},{"keb":"むぎわら帽","composition":"むぎわら 帽","dependencies":"麦藁 むぎわら 帽","kanji":"帽"},{"keb":"麦わらぼう","composition":"麦わら ぼう","dependencies":"麦藁 麦わら ぼー ぼう","kanji":"麦"}]}
 {"ent_seq":2861024}
+{"ent_seq":2861025}
 {"ent_seq":2861026}
 {"ent_seq":2861027,"k_ele":[{"keb":"リピート率","composition":"リピート 率","dependencies":"リピート 率","kanji":"率"}]}
 {"ent_seq":2861028,"k_ele":[{"keb":"１４時","composition":"１４ 時","dependencies":"１４ 時","kanji":"時"}]}
@@ -1798,7 +1786,7 @@
 {"ent_seq":2862492,"k_ele":[{"keb":"振り向きざま","composition":"振り向き ざま","dependencies":"振り 向き 振り向き 様 ざま","kanji":"振 向"},{"keb":"振り向き様","composition":"振り向き 様","dependencies":"振り 向き 振り向き 様","kanji":"振 向 様"},{"keb":"振向きざま","composition":"振向き ざま","dependencies":"振り 振 向き 振向き 様 ざま","kanji":"振 向"},{"keb":"振向き様","composition":"振向き 様","dependencies":"振り 振 向き 振向き 様","kanji":"振 向 様"}]}
 {"ent_seq":2862493,"k_ele":[{"keb":"混泳","kanji":"混 泳"}]}
 {"ent_seq":2862494,"k_ele":[{"keb":"歯磨き剤","composition":"歯磨き 剤","dependencies":"歯磨き 剤","kanji":"歯 磨 剤"}]}
-{"ent_seq":2862495,"k_ele":[{"keb":"後方","dependents":"後方一致 後方乱気流 後方互換 後方互換性 後方地域 後方地域警備 後方境界面 後方推論 後方支援 後方端 後方視的 後方連絡線","kanji":"後 方"},{"keb":"後え","composition":"後 え","dependencies":"後 えー え","kanji":"後"},{"keb":"後","dependents":"あと あとにも先にも あとを付ける あとを尾ける あとを継ぐ あとを追う あと一歩 あと押し あと片づけ あと片付け あと追い いい後は悪い お後がよろしいようで げすの後知恵 こけの後思案 この後 この後に及んで しかる後 その後 のち 下司の後知恵 下種のあと知恵 下種の後知恵 下衆の後知恵 事前後 二死後 亡き後 交配後隔離 使用後 倒れて後やむ 其の後 其後 冷や酒と親の意見は後できく 冷や酒と親の意見は後で効く 出産後 前虎後狼 卒業後 即位後朝見の儀 夕食後 始めは処女のごとく後は脱兎のごとし 始めは処女の如く後は脱兎の如し 年後 後え 後えり 後かたづけ 後から 後から後から 後がつかえる 後がない 後が支える 後が無い 後じん 後じんを拝する 後で 後に 後にする 後になって 後になる 後にも先にも 後に倒れる 後に引けない 後ねだり 後の先 後の方 後の月 後の月見 後の朝 後の炭 後の祭 後の祭り 後の諱 後は野となれ山となれ 後へ引く 後へ退く 後をつぐ 後をつける 後を付ける 後を尾ける 後を弔う 後を引く 後を慕って 後を濁す 後を絶たず 後を絶たない 後を継ぐ 後を追う 後ジテ 後ピン 後七日 後七日の御修法 後仕手 後仕舞 後催眠暗示 後処理 後処理費用 後刷り 後加工 後半生 後取息子 後嚢 後回し蹴り 後報 後始末 後害 後工程 後廻し蹴り 後強請り 後形質 後扉 後技 後文 後昆 後株 後氷期 後炭 後燕 後片づけ 後片付け 後獣下綱 後獣類 後甲板 後番組 後療法 後発々展途上国 後知恵 後立 後羽 後脳 後腎 後腹膜 後臼歯 後舌 後襟 後語り 後軍 後追 後配株 後鉢巻 後鼻漏 心的外傷後ストレス障害 戦争後 接合後 接合後隔離 放課後 放課後学習 数分後 数年後 数日後 斃れて後已む 日本後紀 日没後 日焼けあと 昼食後 晴れ後曇り 晴れ後雨 晴後曇 晴後雨 業後 此の後 死してのちやむ 死してのち已む 死して後已む 水入り二番後撮り直し 災後 然る後 爪あと 発つ鳥あとを濁さず 発つ鳥後を濁さず 真正後生動物 真正後生動物亜界 立つ鳥あとを濁さず 立つ鳥後を濁さず 紀元後 終了後 終戦後 続日本後紀 翻訳後修飾 虚仮の後思案 言葉後 踏みあと 退職後 道の後 閉経後 開発後評価 順後業","kanji":"後"}]}
+{"ent_seq":2862495,"k_ele":[{"keb":"後方","dependents":"後方一致 後方乱気流 後方互換 後方互換性 後方地域 後方地域警備 後方境界面 後方推論 後方支援 後方端 後方視的 後方連絡線","kanji":"後 方"},{"keb":"後え","composition":"後 え","dependencies":"後 えー え","kanji":"後"},{"keb":"後","dependents":"あと あとにも先にも あとを付ける あとを尾ける あとを継ぐ あとを追う あと一歩 あと押し あと片づけ あと片付け あと追い いい後は悪い お後がよろしいようで げすの後知恵 こけの後思案 この後 この後に及んで しかる後 その後 のち 下司の後知恵 下種のあと知恵 下種の後知恵 下衆の後知恵 事前後 二死後 亡き後 交配後隔離 使用後 倒れて後やむ 其の後 其後 冷や酒と親の意見は後できく 冷や酒と親の意見は後で効く 出産後 前虎後狼 卒業後 即位後朝見の儀 夕食後 始めは処女のごとく後は脱兎のごとし 始めは処女の如く後は脱兎の如し 年後 後え 後えり 後かたづけ 後から 後から後から 後がつかえる 後がない 後が支える 後が無い 後じん 後じんを拝する 後で 後に 後にする 後になって 後になる 後にも先にも 後に倒れる 後に引けない 後ねだり 後の先 後の方 後の月 後の月見 後の朝 後の炭 後の祭 後の祭り 後の諱 後は野となれ山となれ 後へ引く 後へ退く 後をつぐ 後をつける 後を付ける 後を尾ける 後を弔う 後を引く 後を慕って 後を濁す 後を絶たず 後を絶たない 後を継ぐ 後を追う 後ジテ 後ピン 後七日 後七日の御修法 後仕手 後仕舞 後催眠暗示 後処理 後処理費用 後刷り 後加工 後半生 後取息子 後嚢 後回し蹴り 後報 後始末 後害 後工程 後廻し蹴り 後強請り 後形質 後扉 後技 後文 後昆 後株 後氷期 後炭 後燕 後片づけ 後片付け 後獣下綱 後獣類 後甲板 後番組 後療法 後発々展途上国 後知恵 後立 後羽 後脳 後腎 後腹膜 後臼歯 後舌 後襟 後語り 後軍 後追 後配株 後鉢巻 後頸部 後鼻漏 心的外傷後ストレス障害 戦争後 接合後 接合後隔離 放課後 放課後学習 数分後 数年後 数日後 斃れて後已む 日本後紀 日没後 日焼けあと 昼食後 晴れ後曇り 晴れ後雨 晴後曇 晴後雨 業後 此の後 死してのちやむ 死してのち已む 死して後已む 水入り二番後撮り直し 災後 然る後 爪あと 発つ鳥あとを濁さず 発つ鳥後を濁さず 真正後生動物 真正後生動物亜界 立つ鳥あとを濁さず 立つ鳥後を濁さず 紀元後 終了後 終戦後 続日本後紀 翻訳後修飾 虚仮の後思案 言葉後 踏みあと 退職後 道の後 閉経後 開発後評価 順後業","kanji":"後"}]}
 {"ent_seq":2862496,"k_ele":[{"keb":"版築","kanji":"版 築"}]}
 {"ent_seq":2862497,"k_ele":[{"keb":"練り土","kanji":"練 土"},{"keb":"煉り土","composition":"煉り 土","dependencies":"練る 練り 煉り 土","kanji":"煉 土"},{"keb":"練土","composition":"練 土","dependencies":"練 土","kanji":"練 土"},{"keb":"煉土","composition":"煉 土","dependencies":"練る 練り 煉 土","kanji":"煉 土"}]}
 {"ent_seq":2862498,"k_ele":[{"keb":"訓練地","composition":"訓練 地","dependencies":"訓練 地","kanji":"訓 練 地"}]}
@@ -4382,7 +4370,6 @@
 {"ent_seq":2865267,"k_ele":[{"keb":"大胞子嚢","composition":"大 胞子 嚢","dependencies":"大 胞子 嚢","kanji":"大 胞 子 嚢"}]}
 {"ent_seq":2865268,"k_ele":[{"keb":"珠柄","composition":"珠 柄","dependencies":"珠 柄","kanji":"珠 柄"}]}
 {"ent_seq":2865269}
-{"ent_seq":2865271,"k_ele":[{"keb":"材木チョーク","composition":"材木 チョーク","dependencies":"材木 チョーク","kanji":"材 木"}]}
 {"ent_seq":2865272}
 {"ent_seq":2865273,"k_ele":[{"keb":"オート銃","composition":"オート 銃","dependencies":"オート 銃","kanji":"銃"}]}
 {"ent_seq":2865274,"k_ele":[{"keb":"相手コート","composition":"相手 コート","dependencies":"相手 コート","kanji":"相 手"}]}
@@ -5621,6 +5608,7 @@
 {"ent_seq":2866556,"k_ele":[{"keb":"水樽","kanji":"水 樽"}]}
 {"ent_seq":2866557,"k_ele":[{"keb":"水先案内船","composition":"水先案内 船","dependencies":"水先 案内 水先案内 船","kanji":"水 先 案 内 船"}]}
 {"ent_seq":2866559,"k_ele":[{"keb":"水占い","composition":"水 占い","dependencies":"水 占い","kanji":"水 占"}]}
+{"ent_seq":2866560,"k_ele":[{"keb":"豊葦原","composition":"豊 葦原","dependencies":"豊 葦原","kanji":"豊 葦 原"}]}
 {"ent_seq":2866561,"k_ele":[{"keb":"痩せ脛","composition":"痩せ 脛","dependencies":"痩せ 脛","kanji":"痩 脛"},{"keb":"痩せ臑","composition":"痩せ 臑","dependencies":"痩せ 脛 臑","kanji":"痩 臑"}]}
 {"ent_seq":2866562,"k_ele":[{"keb":"大人","dependents":"いい大人 おとな おとな向け オトナ オトナの事情 オトナ向け オトナ女子 オトナ語 オトナ買い 大の大人 大人かわいい 大人げ 大人げない 大人じみた 大人じみる 大人っぽい 大人にきび 大人になる 大人のおもちゃ 大人のおもちゃ屋 大人のオモチャ 大人の事情 大人の対応 大人の玩具 大人の玩具屋 大人の都合 大人は赤子の心を失わず 大人ぶる 大人可愛い 大人向け 大人女子 大人染みる 大人版 大人用 良い大人","kanji":"大 人"}]}
 {"ent_seq":2866563,"k_ele":[{"keb":"接面","composition":"接 面","dependencies":"接 面","kanji":"接 面"}]}
@@ -5693,6 +5681,7 @@
 {"ent_seq":2866639,"k_ele":[{"keb":"たが回し","composition":"た が 回し","dependencies":"た が 回し","kanji":"回"},{"keb":"タガ回し","composition":"タガ 回し","dependencies":"箍 タガ 回し","kanji":"回"},{"keb":"箍回し","composition":"箍 回し","dependencies":"箍 回し","kanji":"箍 回"}]}
 {"ent_seq":2866640,"k_ele":[{"keb":"船舶修理","composition":"船舶 修理","dependencies":"船舶 修理","kanji":"船 舶 修 理"}]}
 {"ent_seq":2866641,"k_ele":[{"keb":"庭球場","composition":"庭球 場","dependencies":"庭球 場","kanji":"庭 球 場"}]}
+{"ent_seq":2866642,"k_ele":[{"keb":"模式産地","composition":"模式 産地","dependencies":"模式 産地","kanji":"模 式 産 地"}]}
 {"ent_seq":2866643,"k_ele":[{"keb":"恩物","composition":"恩 物","dependencies":"恩 物","kanji":"恩 物"}]}
 {"ent_seq":2866644,"k_ele":[{"keb":"学群","kanji":"学 群"}]}
 {"ent_seq":2866645,"k_ele":[{"keb":"改刷","kanji":"改 刷"}]}
@@ -5715,8 +5704,67 @@
 {"ent_seq":2866663,"k_ele":[{"keb":"専任読手","composition":"専任 読手","dependencies":"専任 読み手 読手","kanji":"専 任 読 手"}]}
 {"ent_seq":2866664,"k_ele":[{"keb":"寒咲きアヤメ","composition":"寒 咲き アヤメ","dependencies":"寒 咲き アヤメ","kanji":"寒 咲"},{"keb":"寒咲アヤメ","composition":"寒咲 アヤメ","dependencies":"寒咲 アヤメ","kanji":"寒 咲"}]}
 {"ent_seq":2866665,"k_ele":[{"keb":"瓦割り","composition":"瓦 割り","dependencies":"瓦 割り","kanji":"瓦 割"}]}
+{"ent_seq":2866666,"k_ele":[{"keb":"ＮＡＳ","composition":"NAS","dependencies":"NAS"}]}
 {"ent_seq":2866667,"k_ele":[{"keb":"太陽同期軌道","composition":"太陽 同期 軌道","dependencies":"太陽 同期 軌道","kanji":"太 陽 同 期 軌 道"}]}
 {"ent_seq":2866668,"k_ele":[{"keb":"ＳＳＯ","composition":"SSO","dependencies":"SSO"}]}
+{"ent_seq":2866669,"k_ele":[{"keb":"ＳＳＭ","composition":"SSM","dependencies":"SSM"}]}
+{"ent_seq":2866672,"k_ele":[{"keb":"万年ヒラ","composition":"万 年 ヒラ","dependencies":"万 年 平 ヒラ","kanji":"万 年"}]}
+{"ent_seq":2866673}
+{"ent_seq":2866674,"k_ele":[{"keb":"ネットワーク接続ストレージ","composition":"ネットワーク 接続 ストレージ","dependencies":"ネットワーク 接続 ストレージ","kanji":"接 続"}]}
+{"ent_seq":2866675}
+{"ent_seq":2866676,"k_ele":[{"keb":"野外コンサート","composition":"野外 コンサート","dependencies":"野外 コンサート","kanji":"野 外"}]}
+{"ent_seq":2866677,"k_ele":[{"keb":"記紀歌謡","composition":"記紀 歌謡","dependencies":"記紀 歌謡","kanji":"記 紀 歌 謡"}]}
+{"ent_seq":2866678,"k_ele":[{"keb":"移動撮影","composition":"移動 撮影","dependencies":"移動 撮影","kanji":"移 動 撮 影"}]}
+{"ent_seq":2866679,"k_ele":[{"keb":"町住","composition":"町 住","dependencies":"町 住","kanji":"町 住"}]}
+{"ent_seq":2866680,"k_ele":[{"keb":"町住まい","composition":"町 住まい","dependencies":"町 住まい","kanji":"町 住"},{"keb":"町住い","composition":"町 住い","dependencies":"町 住まい 住い","kanji":"町 住"}]}
+{"ent_seq":2866681,"k_ele":[{"keb":"中心柱","composition":"中心 柱","dependencies":"中心 柱","kanji":"中 心 柱"}]}
+{"ent_seq":2866682}
+{"ent_seq":2866683}
+{"ent_seq":2866684,"k_ele":[{"keb":"かぶと煮","composition":"兜煮","dependencies":"兜煮","kanji":"煮"},{"keb":"兜煮","dependents":"かぶと煮","kanji":"兜 煮"}]}
+{"ent_seq":2866685,"k_ele":[{"keb":"卯の花腐し","composition":"卯の花 腐し","dependencies":"卯の花 腐す 腐し","kanji":"卯 花 腐"},{"keb":"卯の花くたし","composition":"卯の花 くた し","dependencies":"卯の花 くた き し","kanji":"卯 花"},{"keb":"卯の花くだし","composition":"卯の花 くだし","dependencies":"卯の花 下す くだす くだし","kanji":"卯 花"}]}
+{"ent_seq":2866686}
+{"ent_seq":2866687,"k_ele":[{"keb":"黙す","dependents":"黙止す","kanji":"黙"},{"keb":"黙止す","composition":"黙す","dependencies":"黙す","kanji":"黙 止"},{"keb":"默す","composition":"默 す","dependencies":"默 です す","kanji":"默"}]}
+{"ent_seq":2866689,"k_ele":[{"keb":"舌癖","composition":"舌 癖","dependencies":"舌 癖","kanji":"舌 癖"}]}
+{"ent_seq":2866690,"k_ele":[{"keb":"歯舌","kanji":"歯 舌"}]}
+{"ent_seq":2866691}
+{"ent_seq":2866692,"k_ele":[{"keb":"模式地","composition":"模式 地","dependencies":"模式 地","kanji":"模 式 地"}]}
+{"ent_seq":2866693,"k_ele":[{"keb":"模式","dependents":"模式図 模式地 模式標本 模式産地","kanji":"模 式"}]}
+{"ent_seq":2866694,"k_ele":[{"keb":"基準標本","composition":"基準 標本","dependencies":"基準 標本","kanji":"基 準 標 本"}]}
+{"ent_seq":2866695,"k_ele":[{"keb":"鉤","dependents":"ひっかけ鉤 アメリカ鉤虫 ズビニ鉤虫 引っ掛け鉤 擬餌鉤 有鉤条虫 有鉤条虫症 符鉤 自在鉤 釣り鉤 鉤なり 鉤ホック 鉤十字 鉤手海月 鉤括弧 鉤欄 鉤状 鉤素 鉤虫 鉤虫症 鉤頭動物 鉤頭動物門 鉤頭虫 鉤頭虫類","kanji":"鉤"},{"keb":"鈎","composition":"針","dependencies":"針","dependents":"引目鈎鼻 毛鈎 鈎なり 鈎型 鈎形 鈎括弧 鈎爪 鈎状 鈎股弦 鈎股弦の定理 鈎虫 鈎鼻","kanji":"鈎"}]}
+{"ent_seq":2866697}
+{"ent_seq":2866698,"k_ele":[{"keb":"緑のおばさん","composition":"緑 の おば さん","dependencies":"緑 の おば さん","kanji":"緑"},{"keb":"緑の小母さん","composition":"緑 の 小母 さん","dependencies":"緑 の 小母 さん","kanji":"緑 小 母"}]}
+{"ent_seq":2866699,"k_ele":[{"keb":"池塘","kanji":"池 塘"},{"keb":"地塘","composition":"地 塘","dependencies":"地 塘","kanji":"地 塘"},{"keb":"池溏","composition":"池 溏","dependencies":"池 溏","kanji":"池 溏"}]}
+{"ent_seq":2866700,"k_ele":[{"keb":"溺れ谷","kanji":"溺 谷"},{"keb":"おぼれ谷","composition":"おぼれ 谷","dependencies":"御 お 惚れ ぼれ おぼれ 谷","kanji":"谷"}]}
+{"ent_seq":2866701,"k_ele":[{"keb":"自律システム","composition":"自律 システム","dependencies":"自律 システム","kanji":"自 律"}]}
+{"ent_seq":2866702,"k_ele":[{"keb":"ＡＳ","composition":"AS","dependencies":"AS"}]}
+{"ent_seq":2866703,"k_ele":[{"keb":"高層湿原","composition":"高層 湿原","dependencies":"高層 湿原","kanji":"高 層 湿 原"}]}
+{"ent_seq":2866704,"k_ele":[{"keb":"副乳","kanji":"副 乳"}]}
+{"ent_seq":2866705,"k_ele":[{"keb":"直会","kanji":"直 会"}]}
+{"ent_seq":2866706,"k_ele":[{"keb":"湿り雪","composition":"湿り 雪","dependencies":"湿り 雪","kanji":"湿 雪"}]}
+{"ent_seq":2866707,"k_ele":[{"keb":"南天萩","kanji":"南 天 萩"}]}
+{"ent_seq":2866708,"k_ele":[{"keb":"かす間草","composition":"かす 間 草","dependencies":"かす 間 草","kanji":"間 草"},{"keb":"カス間草","composition":"カス 間 草","dependencies":"滓 カス 間 草","kanji":"間 草"},{"keb":"カスマ草","composition":"カスマ 草","dependencies":"カスマ 草","kanji":"草"},{"keb":"かすま草","composition":"かすま 草","dependencies":"霞む かすむ かすま 草","kanji":"草"}]}
+{"ent_seq":2866709}
+{"ent_seq":2866711,"k_ele":[{"keb":"岩桜","kanji":"岩 桜"}]}
+{"ent_seq":2866712,"k_ele":[{"keb":"爪蓮華","kanji":"爪 蓮 華"},{"keb":"爪レンゲ","composition":"爪 レンゲ","dependencies":"爪 蓮華 レンゲ","kanji":"爪"}]}
+{"ent_seq":2866713,"k_ele":[{"keb":"眠れる","composition":"眠る","dependencies":"眠る","kanji":"眠"}]}
+{"ent_seq":2866715,"k_ele":[{"keb":"郵便受箱","composition":"郵便 受箱","dependencies":"郵便 受け箱 受箱","kanji":"郵 便 受 箱"},{"keb":"郵便受け箱","composition":"郵便受け 箱","dependencies":"郵便 受ける 受け 郵便受け 箱","kanji":"郵 便 受 箱"}]}
+{"ent_seq":2866716,"k_ele":[{"keb":"放り込み","kanji":"放 込"}]}
+{"ent_seq":2866717,"k_ele":[{"keb":"遊漁","dependents":"遊漁船","kanji":"遊 漁"}]}
+{"ent_seq":2866718,"k_ele":[{"keb":"吹き戻し","composition":"吹き 戻し","dependencies":"吹き 戻す 戻し","kanji":"吹 戻"}]}
+{"ent_seq":2866719,"k_ele":[{"keb":"逆先手","composition":"逆 先手","dependencies":"逆 先手","kanji":"逆 先 手"}]}
+{"ent_seq":2866720,"k_ele":[{"keb":"逆ヨセ","composition":"逆 ヨセ","dependencies":"逆 ヨス 止す ヨセ","kanji":"逆"}]}
+{"ent_seq":2866721,"k_ele":[{"keb":"両先手","composition":"両 先手","dependencies":"両 先手","kanji":"両 先 手"}]}
+{"ent_seq":2866722,"k_ele":[{"keb":"両後手","composition":"両 後手","dependencies":"両 後手","kanji":"両 後 手"}]}
+{"ent_seq":2866723,"k_ele":[{"keb":"過硼酸","composition":"過 硼酸","dependencies":"過ぎる 過る 過 硼酸","kanji":"過 硼 酸"}]}
+{"ent_seq":2866724,"k_ele":[{"keb":"解離度","composition":"解離 度","dependencies":"解離 度","kanji":"解 離 度"}]}
+{"ent_seq":2866725,"k_ele":[{"keb":"通時","dependents":"通時的 通時言語学","kanji":"通 時"}]}
+{"ent_seq":2866726,"k_ele":[{"keb":"共時","dependents":"共時性 共時的 共時言語学","kanji":"共 時"}]}
+{"ent_seq":2866727,"k_ele":[{"keb":"後頸部","composition":"後 頸部","dependencies":"後 頸部","kanji":"後 頸 部"}]}
+{"ent_seq":2866728,"k_ele":[{"keb":"栄養神経","composition":"栄養 神経","dependencies":"栄養 神経","kanji":"栄 養 神 経"}]}
+{"ent_seq":2866730,"k_ele":[{"keb":"潤香","kanji":"潤 香"},{"keb":"鱁鮧","composition":"なしもの","dependencies":"なしもの","kanji":"鱁 鮧"}]}
+{"ent_seq":2866731,"k_ele":[{"keb":"蒸解","kanji":"蒸 解"}]}
+{"ent_seq":2866732}
+{"ent_seq":2866733,"k_ele":[{"keb":"薬売り","kanji":"薬 売"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -12935,3 +12983,4 @@
 {"ent_seq":5747362}
 {"ent_seq":5747363,"k_ele":[{"keb":"ＡｃｔｉｖｅＸ"}]}
 {"ent_seq":5747364,"k_ele":[{"keb":"ＬＹＣＯＳ"}]}
+{"ent_seq":5747372,"k_ele":[{"keb":"紅はこべ","composition":"紅繁縷","dependencies":"紅繁縷","kanji":"紅"}]}

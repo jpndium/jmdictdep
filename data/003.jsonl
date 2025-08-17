@@ -1,4 +1,3 @@
-{"ent_seq":2860579,"k_ele":[{"keb":"一の腕","composition":"一 の 腕","dependencies":"一 の 腕","kanji":"一 腕"}]}
 {"ent_seq":2860580,"k_ele":[{"keb":"遺失届","composition":"遺失 届","dependencies":"遺失 届ける 届け 届","kanji":"遺 失 届"}]}
 {"ent_seq":2860582,"k_ele":[{"keb":"花卉栽培家","composition":"花卉 栽培 家","dependencies":"花卉 栽培 家","kanji":"花 卉 栽 培 家"},{"keb":"花き栽培家","composition":"花き 栽培 家","dependencies":"花卉 花き 栽培 家","kanji":"花 栽 培 家"}]}
 {"ent_seq":2860583,"k_ele":[{"keb":"花卉栽培","composition":"花卉 栽培","dependencies":"花卉 栽培","kanji":"花 卉 栽 培"},{"keb":"花き栽培","composition":"花き 栽培","dependencies":"花卉 花き 栽培","kanji":"花 栽 培"}]}
@@ -5828,6 +5827,7 @@
 {"ent_seq":2866797,"k_ele":[{"keb":"ＶＵＣＡ","composition":"VUCA","dependencies":"VUCA"}]}
 {"ent_seq":2866798}
 {"ent_seq":2866799,"k_ele":[{"keb":"ＨＵＤ"}]}
+{"ent_seq":2866800,"k_ele":[{"keb":"白竹","kanji":"白 竹"}]}
 {"ent_seq":2866801,"k_ele":[{"keb":"尿石症","composition":"尿石 症","dependencies":"尿石 症","kanji":"尿 石 症"}]}
 {"ent_seq":2866802,"k_ele":[{"keb":"茶毒蛾","kanji":"茶 毒 蛾"}]}
 {"ent_seq":2866803,"k_ele":[{"keb":"菜刀","kanji":"菜 刀"}]}
@@ -5846,6 +5846,7 @@
 {"ent_seq":2866818,"k_ele":[{"keb":"束沸石","composition":"束 沸石","dependencies":"束 沸石","kanji":"束 沸 石"}]}
 {"ent_seq":2866819,"k_ele":[{"keb":"玉滴石","composition":"玉 滴 石","dependencies":"玉 滴 石","kanji":"玉 滴 石"}]}
 {"ent_seq":2866820,"k_ele":[{"keb":"日長石","composition":"日 長石","dependencies":"日 長石","kanji":"日 長 石"}]}
+{"ent_seq":2866821,"k_ele":[{"keb":"灰硝石","composition":"灰 硝石","dependencies":"灰 硝石","kanji":"灰 硝 石"}]}
 {"ent_seq":2866822,"k_ele":[{"keb":"氷堆石","composition":"氷 堆石","dependencies":"氷 堆石","kanji":"氷 堆 石"}]}
 {"ent_seq":2866823,"k_ele":[{"keb":"氷州石","composition":"氷 州 石","dependencies":"氷 州 石","kanji":"氷 州 石"}]}
 {"ent_seq":2866824,"k_ele":[{"keb":"石油業者","composition":"石油 業 者","dependencies":"石油 業 者","kanji":"石 油 業 者"}]}
@@ -5853,6 +5854,10 @@
 {"ent_seq":2866826,"k_ele":[{"keb":"源氏蛍","dependents":"源氏ボタル","kanji":"源 氏 蛍"},{"keb":"源氏ボタル","composition":"源氏蛍","dependencies":"源氏蛍","kanji":"源 氏"},{"keb":"ゲンジ蛍","composition":"ゲンジ 蛍","dependencies":"ゲンジ 蛍","kanji":"蛍"},{"keb":"源氏ぼたる","composition":"源氏 ぼたる","dependencies":"源氏 蛍 ぼたる","kanji":"源 氏"}]}
 {"ent_seq":2866827,"k_ele":[{"keb":"紅電気石","composition":"紅 電気石","dependencies":"紅 電気 石 電気石","kanji":"紅 電 気 石"}]}
 {"ent_seq":2866828,"k_ele":[{"keb":"風信子石","composition":"風信 子石","dependencies":"風信 子石","kanji":"風 信 子 石"}]}
+{"ent_seq":2866829,"k_ele":[{"keb":"斜方沸石","composition":"斜方 沸石","dependencies":"斜方 沸石","kanji":"斜 方 沸 石"}]}
+{"ent_seq":2866830,"k_ele":[{"keb":"曹灰長石","composition":"曹 灰 長石","dependencies":"曹 灰 長石","kanji":"曹 灰 長 石"}]}
+{"ent_seq":2866831,"k_ele":[{"keb":"灰曹長石","composition":"灰 曹長石","dependencies":"灰 曹長 石 曹長石","kanji":"灰 曹 長 石"}]}
+{"ent_seq":2866832,"k_ele":[{"keb":"方トリウム石","composition":"方 トリウム 石","dependencies":"方 トリウム 石","kanji":"方 石"}]}
 {"ent_seq":2866833,"k_ele":[{"keb":"平家蛍","composition":"平家 蛍","dependencies":"平家 蛍","kanji":"平 家 蛍"}]}
 {"ent_seq":2866834,"k_ele":[{"keb":"外製化","composition":"外 製 化","dependencies":"外 製 化る 化ける 化","kanji":"外 製 化"}]}
 {"ent_seq":2866835,"k_ele":[{"keb":"点耳","dependents":"点耳薬","kanji":"点 耳"}]}
@@ -5876,26 +5881,38 @@
 {"ent_seq":2866854,"k_ele":[{"keb":"空気浄化機","composition":"空気 浄化 機","dependencies":"空気 浄化 機","kanji":"空 気 浄 化 機"}]}
 {"ent_seq":2866856,"k_ele":[{"keb":"航空機操縦術","composition":"航空機 操縦 術","dependencies":"航空 機 航空機 操縦 術","kanji":"航 空 機 操 縦 術"}]}
 {"ent_seq":2866857,"k_ele":[{"keb":"更衣所","composition":"更衣 所","dependencies":"更衣 所","kanji":"更 衣 所"}]}
+{"ent_seq":2866858,"k_ele":[{"keb":"裸用船","composition":"裸 用船","dependencies":"裸 傭船 用船","kanji":"裸 用 船"},{"keb":"裸傭船","composition":"裸 傭船","dependencies":"裸 傭船","kanji":"裸 傭 船"}]}
 {"ent_seq":2866859}
+{"ent_seq":2866860,"k_ele":[{"keb":"表情豊か","composition":"表情 豊か","dependencies":"表情 豊か","kanji":"表 情 豊"}]}
 {"ent_seq":2866861}
+{"ent_seq":2866862,"k_ele":[{"keb":"桜煮","kanji":"桜 煮"}]}
+{"ent_seq":2866863,"k_ele":[{"keb":"カツ煮","composition":"カツ 煮","dependencies":"カツ 煮る 煮","kanji":"煮"},{"keb":"かつ煮","composition":"かつ 煮","dependencies":"且つ かつ 煮る 煮","kanji":"煮"}]}
 {"ent_seq":2866864,"k_ele":[{"keb":"離婚式","composition":"離婚 式","dependencies":"離婚 式","kanji":"離 婚 式"}]}
+{"ent_seq":2866865,"k_ele":[{"keb":"貝輪","kanji":"貝 輪"}]}
 {"ent_seq":2866866,"k_ele":[{"keb":"石棒","kanji":"石 棒"}]}
 {"ent_seq":2866867,"k_ele":[{"keb":"だだちゃ豆","kanji":"豆"}]}
+{"ent_seq":2866868,"k_ele":[{"keb":"雲外蒼天","composition":"雲外 蒼天","dependencies":"雲外 蒼天","kanji":"雲 外 蒼 天"}]}
+{"ent_seq":2866869,"k_ele":[{"keb":"雲平","kanji":"雲 平"}]}
 {"ent_seq":2866870,"k_ele":[{"keb":"産霊の神","composition":"結びの神","dependencies":"結びの神","kanji":"産 霊 神"}]}
 {"ent_seq":2866871,"k_ele":[{"keb":"角壔","composition":"角 壔","dependencies":"角 壔","kanji":"角 壔"}]}
 {"ent_seq":2866872,"k_ele":[{"keb":"山駕籠","kanji":"山 駕 籠"}]}
 {"ent_seq":2866873,"k_ele":[{"keb":"親分風","composition":"親分 風","dependencies":"親分 風","kanji":"親 分 風"}]}
 {"ent_seq":2866874,"k_ele":[{"keb":"通貨改革","composition":"通貨 改革","dependencies":"通貨 改革","kanji":"通 貨 改 革"}]}
 {"ent_seq":2866875,"k_ele":[{"keb":"通貨縮小","composition":"通貨 縮小","dependencies":"通貨 縮小","kanji":"通 貨 縮 小"}]}
+{"ent_seq":2866876,"k_ele":[{"keb":"吹雪月","composition":"吹雪 月","dependencies":"吹雪 月","kanji":"吹 雪 月"}]}
 {"ent_seq":2866877,"k_ele":[{"keb":"肉交","kanji":"肉 交"}]}
 {"ent_seq":2866878,"k_ele":[{"keb":"核分裂物質","composition":"核分裂 物質","dependencies":"核 分裂 核分裂 物質","kanji":"核 分 裂 物 質"}]}
 {"ent_seq":2866879,"k_ele":[{"keb":"勝手連","composition":"勝手 連","dependencies":"勝手 連","kanji":"勝 手 連"}]}
 {"ent_seq":2866880}
 {"ent_seq":2866881,"k_ele":[{"keb":"停止液","composition":"停止 液","dependencies":"停止 液","kanji":"停 止 液"}]}
+{"ent_seq":2866882,"k_ele":[{"keb":"西洋茜","composition":"西洋 茜","dependencies":"西洋 茜","kanji":"西 洋 茜"}]}
+{"ent_seq":2866883,"k_ele":[{"keb":"船淦","composition":"船 淦","dependencies":"船 淦","kanji":"船 淦"}]}
 {"ent_seq":2866884,"k_ele":[{"keb":"高巣","kanji":"高 巣"}]}
 {"ent_seq":2866885,"k_ele":[{"keb":"高這い","composition":"高 這い","dependencies":"高 這い","kanji":"高 這"}]}
 {"ent_seq":2866886,"k_ele":[{"keb":"高張","composition":"高張り","dependencies":"高張り","dependents":"高張提灯","kanji":"高 張"}]}
 {"ent_seq":2866887,"k_ele":[{"keb":"指南所","composition":"指南 所","dependencies":"指南 所","kanji":"指 南 所"}]}
+{"ent_seq":2866888,"k_ele":[{"keb":"選鉱所","composition":"選鉱 所","dependencies":"選鉱 所","kanji":"選 鉱 所"}]}
+{"ent_seq":2866889,"k_ele":[{"keb":"癩療養所","composition":"癩 療養所","dependencies":"癩 療養 所 療養所","kanji":"癩 療 養 所"}]}
 {"ent_seq":2866890,"k_ele":[{"keb":"渡渉場","composition":"渡渉 場","dependencies":"渡渉 場","kanji":"渡 渉 場"},{"keb":"徒渉場","composition":"徒渉 場","dependencies":"徒渉 場","kanji":"徒 渉 場"}]}
 {"ent_seq":2866891,"k_ele":[{"keb":"らい患者","composition":"らい 患者","dependencies":"癩 らい 患者","kanji":"患 者"},{"keb":"癩患者","composition":"癩 患者","dependencies":"癩 患者","kanji":"癩 患 者"}]}
 {"ent_seq":2866892,"k_ele":[{"keb":"戦車長","composition":"戦車 長","dependencies":"戦車 長い 長","kanji":"戦 車 長"}]}
@@ -5908,7 +5925,7 @@
 {"ent_seq":2866900,"k_ele":[{"keb":"三角骨","composition":"三角 骨","dependencies":"三角 骨","kanji":"三 角 骨"}]}
 {"ent_seq":2866901,"k_ele":[{"keb":"豆状骨","composition":"豆 状 骨","dependencies":"豆 状 骨","kanji":"豆 状 骨"}]}
 {"ent_seq":2866902,"k_ele":[{"keb":"追星","composition":"追 星","dependencies":"追 星","kanji":"追 星"},{"keb":"追い星","composition":"追い 星","dependencies":"追う 追い 星","kanji":"追 星"}]}
-{"ent_seq":2866903,"k_ele":[{"keb":"箒目","composition":"箒 目","dependencies":"箒 目","kanji":"箒 目"}]}
+{"ent_seq":2866903,"k_ele":[{"keb":"箒目","composition":"箒 目","dependencies":"箒 目","kanji":"箒 目"},{"keb":"ほうき目","composition":"ほうき 目","dependencies":"箒 ほうき 目","kanji":"目"}]}
 {"ent_seq":2866904,"k_ele":[{"keb":"職場放棄","composition":"職場 放棄","dependencies":"職場 放棄","kanji":"職 場 放 棄"}]}
 {"ent_seq":2866905,"k_ele":[{"keb":"労働法規","composition":"労働 法規","dependencies":"労働 法規","kanji":"労 働 法 規"}]}
 {"ent_seq":2866906,"k_ele":[{"keb":"遡及法","composition":"遡及 法","dependencies":"遡及 法","kanji":"遡 及 法"}]}
@@ -5916,6 +5933,106 @@
 {"ent_seq":2866908,"k_ele":[{"keb":"暴食家","composition":"暴食 家","dependencies":"暴食 家","kanji":"暴 食 家"}]}
 {"ent_seq":2866909,"k_ele":[{"keb":"脂肪種子","composition":"脂肪 種子","dependencies":"脂肪 種子","kanji":"脂 肪 種 子"}]}
 {"ent_seq":2866910,"k_ele":[{"keb":"無遺言死亡者","composition":"無 遺言 死亡者","dependencies":"無 遺言 死亡 者 死亡者","kanji":"無 遺 言 死 亡 者"}]}
+{"ent_seq":2866911,"k_ele":[{"keb":"帰陣","kanji":"帰 陣"}]}
+{"ent_seq":2866912,"k_ele":[{"keb":"五炭糖","composition":"五 炭 糖","dependencies":"五 炭 糖","kanji":"五 炭 糖"}]}
+{"ent_seq":2866913}
+{"ent_seq":2866914,"k_ele":[{"keb":"美術展覧会","composition":"美術 展覧会","dependencies":"美術 展覧 会 展覧会","kanji":"美 術 展 覧 会"}]}
+{"ent_seq":2866915,"k_ele":[{"keb":"貿易省","composition":"貿易 省","dependencies":"貿易 省","kanji":"貿 易 省"}]}
+{"ent_seq":2866916,"k_ele":[{"keb":"ボタン電話","composition":"ボタン 電話","dependencies":"ボタン 電話","kanji":"電 話"}]}
+{"ent_seq":2866917,"k_ele":[{"keb":"孤独恐怖症","composition":"孤独 恐怖症","dependencies":"孤独 恐怖 症 恐怖症","kanji":"孤 独 恐 怖 症"}]}
+{"ent_seq":2866918,"k_ele":[{"keb":"冬営","kanji":"冬 営"}]}
+{"ent_seq":2866919,"k_ele":[{"keb":"スソ空き","composition":"スソ 空き","dependencies":"裾 スソ 空く 空き","kanji":"空"},{"keb":"裾空き","composition":"裾 空き","dependencies":"裾 空く 空き","kanji":"裾 空"},{"keb":"裾開き","composition":"裾 開き","dependencies":"裾 開き","kanji":"裾 開"}]}
+{"ent_seq":2866920,"k_ele":[{"keb":"六死八生","composition":"六 死 八生","dependencies":"六 死 八生","kanji":"六 死 八 生"}]}
+{"ent_seq":2866921,"k_ele":[{"keb":"四日熱","composition":"四 日 熱","dependencies":"四 日 熱","kanji":"四 日 熱"}]}
+{"ent_seq":2866922,"k_ele":[{"keb":"世の覚え","composition":"世 の 覚え","dependencies":"世 の 覚える 覚え","kanji":"世 覚"}]}
+{"ent_seq":2866923,"k_ele":[{"keb":"塾頭","kanji":"塾 頭"}]}
+{"ent_seq":2866924,"k_ele":[{"keb":"御旗","kanji":"御 旗"}]}
+{"ent_seq":2866925,"k_ele":[{"keb":"閉鎖花","composition":"閉鎖 花","dependencies":"閉鎖 花","kanji":"閉 鎖 花"}]}
+{"ent_seq":2866926,"k_ele":[{"keb":"雲助運転手","composition":"雲助 運転手","dependencies":"雲助 運転 手 運転手","kanji":"雲 助 運 転 手"}]}
+{"ent_seq":2866927,"k_ele":[{"keb":"洋猫","composition":"洋 猫","dependencies":"洋 猫","kanji":"洋 猫"}]}
+{"ent_seq":2866928,"k_ele":[{"keb":"和猫","kanji":"和 猫"}]}
+{"ent_seq":2866929,"k_ele":[{"keb":"網脂","composition":"網 脂","dependencies":"網 脂","kanji":"網 脂"}]}
+{"ent_seq":2866930,"k_ele":[{"keb":"中身汁","composition":"中身 汁","dependencies":"中身 汁","kanji":"中 身 汁"},{"keb":"中味汁","composition":"中味 汁","dependencies":"中身 中味 汁","kanji":"中 味 汁"}]}
+{"ent_seq":2866931,"k_ele":[{"keb":"バブル世代","composition":"バブル 世代","dependencies":"バブル 世代","kanji":"世 代"}]}
+{"ent_seq":2866932}
+{"ent_seq":2866933,"k_ele":[{"keb":"主要動","composition":"主要 動","dependencies":"主要 動","kanji":"主 要 動"}]}
+{"ent_seq":2866934,"k_ele":[{"keb":"ひずみ計","composition":"歪み計","dependencies":"歪み計","kanji":"計"}]}
+{"ent_seq":2866935}
+{"ent_seq":2866936,"k_ele":[{"keb":"文字論","composition":"文字 論","dependencies":"文字 論","kanji":"文 字 論"}]}
+{"ent_seq":2866937,"k_ele":[{"keb":"遊歩場","composition":"遊歩 場","dependencies":"遊歩 場","kanji":"遊 歩 場"}]}
+{"ent_seq":2866938,"k_ele":[{"keb":"聖化","kanji":"聖 化"}]}
+{"ent_seq":2866940,"k_ele":[{"keb":"立方骨","composition":"立方 骨","dependencies":"立方 骨","kanji":"立 方 骨"}]}
+{"ent_seq":2866941,"k_ele":[{"keb":"碑文学","composition":"碑文 学","dependencies":"碑文 学","kanji":"碑 文 学"}]}
+{"ent_seq":2866942,"k_ele":[{"keb":"肛門鏡","composition":"肛門 鏡","dependencies":"肛門 鏡","kanji":"肛 門 鏡"}]}
+{"ent_seq":2866943}
+{"ent_seq":2866944}
+{"ent_seq":2866945,"k_ele":[{"keb":"船室兼料理室","composition":"船室 兼 料理 室","dependencies":"船室 兼 料理 室","kanji":"船 室 兼 料 理 室"}]}
+{"ent_seq":2866946,"k_ele":[{"keb":"毛状晶子","composition":"毛状 晶子","dependencies":"毛状 晶子","kanji":"毛 状 晶 子"}]}
+{"ent_seq":2866947}
+{"ent_seq":2866948,"k_ele":[{"keb":"彩光","composition":"彩 光","dependencies":"彩 光","kanji":"彩 光"}]}
+{"ent_seq":2866949}
+{"ent_seq":2866950,"k_ele":[{"keb":"ＦＤＲ","composition":"FDR","dependencies":"FDR"}]}
+{"ent_seq":2866952,"k_ele":[{"keb":"カロメル電極","composition":"カロメル 電極","dependencies":"カロメル 電極","kanji":"電 極"}]}
+{"ent_seq":2866953,"k_ele":[{"keb":"百分位数","composition":"百 分 位数","dependencies":"百 分 位数","kanji":"百 分 位 数"}]}
+{"ent_seq":2866954,"k_ele":[{"keb":"葉茶屋","composition":"葉茶 屋","dependencies":"葉茶 屋","kanji":"葉 茶 屋"}]}
+{"ent_seq":2866955,"k_ele":[{"keb":"店屋者","composition":"店屋 者","dependencies":"店屋 者","kanji":"店 屋 者"}]}
+{"ent_seq":2866956,"k_ele":[{"keb":"灰砂レンガ","composition":"灰 砂 レンガ","dependencies":"灰 砂 煉瓦 レンガ","kanji":"灰 砂"},{"keb":"灰砂れんが","composition":"灰 砂 れんが","dependencies":"灰 砂 れんが","kanji":"灰 砂"},{"keb":"灰砂煉瓦","composition":"灰 砂 煉瓦","dependencies":"灰 砂 煉瓦","kanji":"灰 砂 煉 瓦"}]}
+{"ent_seq":2866957,"k_ele":[{"keb":"御料車","composition":"御料 車","dependencies":"御料 車","kanji":"御 料 車"},{"keb":"ご料車","composition":"ご料 車","dependencies":"御料 ご料 車","kanji":"料 車"}]}
+{"ent_seq":2866958}
+{"ent_seq":2866959}
+{"ent_seq":2866960,"k_ele":[{"keb":"主観的輪郭","composition":"主観的 輪郭","dependencies":"主観 的 主観的 輪郭","kanji":"主 観 的 輪 郭"}]}
+{"ent_seq":2866961,"k_ele":[{"keb":"薄造り","kanji":"薄 造"},{"keb":"薄作り","composition":"薄 作り","dependencies":"薄い 薄 作り","kanji":"薄 作"}]}
+{"ent_seq":2866962}
+{"ent_seq":2866963,"k_ele":[{"keb":"陪審員席","composition":"陪審員 席","dependencies":"陪審 員 陪審員 席","kanji":"陪 審 員 席"}]}
+{"ent_seq":2866965,"k_ele":[{"keb":"選鉱機","composition":"選鉱 機","dependencies":"選鉱 機","kanji":"選 鉱 機"}]}
+{"ent_seq":2866966,"k_ele":[{"keb":"前頭葉白質切截術","composition":"前頭葉 白質 切 截術","dependencies":"前頭 葉 前頭葉 白質 切 截術","kanji":"前 頭 葉 白 質 切 截 術"}]}
+{"ent_seq":2866967,"k_ele":[{"keb":"頭蓋変形","composition":"頭蓋 変形","dependencies":"頭蓋 変形","kanji":"頭 蓋 変 形"}]}
+{"ent_seq":2866968,"k_ele":[{"keb":"発源地","composition":"発 源地","dependencies":"発 源地","kanji":"発 源 地"}]}
+{"ent_seq":2866969,"k_ele":[{"keb":"限外発行","composition":"限外 発行","dependencies":"限外 発行","kanji":"限 外 発 行"}]}
+{"ent_seq":2866971,"k_ele":[{"keb":"自動閉塞信号","composition":"自動 閉塞 信号","dependencies":"自動 閉塞 信号","kanji":"自 動 閉 塞 信 号"}]}
+{"ent_seq":2866972,"k_ele":[{"keb":"互恵主義","composition":"互恵 主義","dependencies":"互恵 主義","kanji":"互 恵 主 義"}]}
+{"ent_seq":2866973,"k_ele":[{"keb":"軍刑法","composition":"軍 刑法","dependencies":"軍 刑法","kanji":"軍 刑 法"}]}
+{"ent_seq":2866974,"k_ele":[{"keb":"氷晶核","composition":"氷晶 核","dependencies":"氷晶 核","kanji":"氷 晶 核"}]}
+{"ent_seq":2866975}
+{"ent_seq":2866976}
+{"ent_seq":2866977,"k_ele":[{"keb":"土版","composition":"土 版","dependencies":"土 版","kanji":"土 版"}]}
+{"ent_seq":2866978,"k_ele":[{"keb":"頭部白癬","composition":"頭部 白癬","dependencies":"頭部 白癬","kanji":"頭 部 白 癬"}]}
+{"ent_seq":2866980,"k_ele":[{"keb":"自然砒","composition":"自然 砒","dependencies":"自然 砒","kanji":"自 然 砒"}]}
+{"ent_seq":2866981,"k_ele":[{"keb":"投げ綱","composition":"投げ 綱","dependencies":"投げ 綱","kanji":"投 綱"}]}
+{"ent_seq":2866982,"k_ele":[{"keb":"流れ木","composition":"流れ 木","dependencies":"流れ 木","kanji":"流 木"}]}
+{"ent_seq":2866984,"k_ele":[{"keb":"武装強盗","composition":"武装 強盗","dependencies":"武装 強盗","kanji":"武 装 強 盗"}]}
+{"ent_seq":2866985,"k_ele":[{"keb":"行平","dependents":"行平鍋","kanji":"行 平"}]}
+{"ent_seq":2866986,"k_ele":[{"keb":"強毒","dependents":"強毒性","kanji":"強 毒"}]}
+{"ent_seq":2866988,"k_ele":[{"keb":"移染","kanji":"移 染"}]}
+{"ent_seq":2866989,"k_ele":[{"keb":"色移り","kanji":"色 移"}]}
+{"ent_seq":2866990,"k_ele":[{"keb":"燃料漏れ","composition":"燃料 漏れ","dependencies":"燃料 漏れ","kanji":"燃 料 漏"}]}
+{"ent_seq":2866991,"k_ele":[{"keb":"透熱療法","composition":"透 熱 療法","dependencies":"透 熱 療法","kanji":"透 熱 療 法"}]}
+{"ent_seq":2866992,"k_ele":[{"keb":"二塩基酸","composition":"二 塩基 酸","dependencies":"二 塩基 酸","kanji":"二 塩 基 酸"}]}
+{"ent_seq":2866993,"k_ele":[{"keb":"人間化","composition":"人間 化","dependencies":"人間 化る 化ける 化","kanji":"人 間 化"}]}
+{"ent_seq":2866994}
+{"ent_seq":2866995,"k_ele":[{"keb":"脳蓋骨","composition":"脳蓋 骨","dependencies":"脳蓋 骨","kanji":"脳 蓋 骨"}]}
+{"ent_seq":2866996,"k_ele":[{"keb":"麻酔科","composition":"麻酔 科","dependencies":"麻酔 科","dependents":"麻酔科医","kanji":"麻 酔 科"}]}
+{"ent_seq":2866997,"k_ele":[{"keb":"昇圧","dependents":"昇圧機","kanji":"昇 圧"}]}
+{"ent_seq":2866998,"k_ele":[{"keb":"降圧","dependents":"降圧トランス 降圧剤 降圧変圧器 降圧薬","kanji":"降 圧"}]}
+{"ent_seq":2866999,"k_ele":[{"keb":"不完全型","composition":"不完全 型","dependencies":"不 完全 不完全 型","kanji":"不 完 全 型"}]}
+{"ent_seq":2867000,"k_ele":[{"keb":"視軸","composition":"視 軸","dependencies":"見る 視る 視 軸","kanji":"視 軸"}]}
+{"ent_seq":2867001,"k_ele":[{"keb":"麦とろ","composition":"麦薯蕷","dependencies":"麦薯蕷","kanji":"麦"},{"keb":"麦薯蕷","dependents":"麦とろ","kanji":"麦 薯 蕷"}]}
+{"ent_seq":2867002,"k_ele":[{"keb":"石水母","kanji":"石 水 母"}]}
+{"ent_seq":2867003}
+{"ent_seq":2867004,"k_ele":[{"keb":"修羅界","composition":"修羅 界","dependencies":"修羅 界","kanji":"修 羅 界"}]}
+{"ent_seq":2867005}
+{"ent_seq":2867006,"k_ele":[{"keb":"全摘","kanji":"全 摘"}]}
+{"ent_seq":2867007,"k_ele":[{"keb":"温サラダ","composition":"温 サラダ","dependencies":"温 サラダ","kanji":"温"}]}
+{"ent_seq":2867008,"k_ele":[{"keb":"晒竹","composition":"晒 竹","dependencies":"晒し 晒 竹","kanji":"晒 竹"}]}
+{"ent_seq":2867009,"k_ele":[{"keb":"木船","kanji":"木 船"}]}
+{"ent_seq":2867010,"k_ele":[{"keb":"分析室","composition":"分析 室","dependencies":"分析 室","kanji":"分 析 室"}]}
+{"ent_seq":2867011,"k_ele":[{"keb":"折り畳み機","composition":"折り畳み 機","dependencies":"折 折り 畳 畳み 折り畳み 機","kanji":"折 畳 機"}]}
+{"ent_seq":2867013,"k_ele":[{"keb":"馬糞海胆","composition":"馬糞 海胆","dependencies":"馬糞 雲丹 海胆","kanji":"馬 糞 海 胆"}]}
+{"ent_seq":2867014,"k_ele":[{"keb":"空鼾","composition":"空 鼾","dependencies":"空 鼾","kanji":"空 鼾"}]}
+{"ent_seq":2867015,"k_ele":[{"keb":"輪状軟骨","composition":"輪状 軟骨","dependencies":"輪状 軟骨","kanji":"輪 状 軟 骨"}]}
+{"ent_seq":2867016,"k_ele":[{"keb":"披裂軟骨","composition":"披裂 軟骨","dependencies":"披裂 軟骨","kanji":"披 裂 軟 骨"}]}
+{"ent_seq":2867017,"k_ele":[{"keb":"披針形","composition":"披針 形","dependencies":"披針 形","kanji":"披 針 形"}]}
+{"ent_seq":2867018,"k_ele":[{"keb":"群読","kanji":"群 読"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -13135,3 +13252,4 @@
 {"ent_seq":5747363,"k_ele":[{"keb":"ＡｃｔｉｖｅＸ"}]}
 {"ent_seq":5747364,"k_ele":[{"keb":"ＬＹＣＯＳ"}]}
 {"ent_seq":5747372,"k_ele":[{"keb":"紅はこべ","composition":"紅繁縷","dependencies":"紅繁縷","kanji":"紅"}]}
+{"ent_seq":5747394}

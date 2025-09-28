@@ -2307,7 +2307,7 @@
 {"ent_seq":2863063,"k_ele":[{"keb":"パックご飯","composition":"パック ご飯","dependencies":"パック 御飯 ご飯","kanji":"飯"},{"keb":"パック御飯","composition":"パック 御飯","dependencies":"パック 御飯","kanji":"御 飯"}]}
 {"ent_seq":2863064,"k_ele":[{"keb":"レトルトご飯","composition":"レトルト ご飯","dependencies":"レトルト 御飯 ご飯","kanji":"飯"}]}
 {"ent_seq":2863066,"k_ele":[{"keb":"塾講師","composition":"塾 講師","dependencies":"塾 講師","kanji":"塾 講 師"}]}
-{"ent_seq":2863067,"k_ele":[{"keb":"陰嚢","dependents":"大犬の陰嚢 松陰嚢 陰のう 陰嚢無し 陰囊","kanji":"陰 嚢"},{"keb":"陰囊","composition":"陰嚢","dependencies":"陰嚢","kanji":"陰 囊"}]}
+{"ent_seq":2863067,"k_ele":[{"keb":"陰嚢","dependents":"大犬の陰嚢 松陰嚢 犬の陰嚢 陰のう 陰嚢無し 陰囊","kanji":"陰 嚢"},{"keb":"陰囊","composition":"陰嚢","dependencies":"陰嚢","kanji":"陰 囊"}]}
 {"ent_seq":2863068,"k_ele":[{"keb":"火鼠","kanji":"火 鼠"}]}
 {"ent_seq":2863069,"k_ele":[{"keb":"矢筈豌豆","composition":"矢筈 豌豆","dependencies":"矢筈 豌豆","kanji":"矢 筈 豌 豆"}]}
 {"ent_seq":2863070,"k_ele":[{"keb":"鼠","dependents":"ねずみ ねずみの嫁入り ねずみ入らず ねずみ大根 ねずみ年 ねずみ目 ねずみ色 ねずみ花火 ねずみ返し アマゾン天竺鼠 カンガルー鼠 ネズミ ネズミの嫁入り ネズミチフス菌 ネズミ亜目 ネズミ大根 ネズミ年 ネズミ目 ネズミ算 ネズミ色 ネズミ花火 ネズミ返し パンパス天竺鼠 ペルー天竺鼠 ラオス岩鼠 二十日鼠 二十日鼠と人間 冬眠鼠 出歯鼠 利休ねずみ 利休鼠 刺鼠 南京鼠 堀り鼠 大冬眠鼠 大山鳴動してねずみ一匹 大山鳴動して鼠一匹 大水鼠 天竺鼠 天鼠 天鼠矢 奄美棘鼠 小頭鼠海豚 山ねずみ 廿日鼠 旅鼠 梅鼠 棘鼠 毛長鼠 沖縄棘鼠 河鼠 泰山鳴動してねずみ一匹 泰山鳴動して鼠一匹 盲ネズミ 盲鼠 砂鼠 米鼠 絹毛鼠 背筋鼠 舞鼠 茶鼠 荒地鼠 葡萄鼠 藤海鼠 袋ねずみ 袋のねずみ 袋のネズミ 袋の鼠 袋ネズミ 袋鼠 裸出歯鼠 西鼠鮫 谷地鼠 跳びネズミ 跳び鼠 野地鼠 鎧鼠 頭の黒いねずみ 頭の黒いネズミ 頭の黒い鼠 飛鼠 鬼鼠 鳴く猫は鼠を捕らぬ 麝香鼠 黒ネズミ 鼠がえし 鼠けい部 鼠の嫁入り 鼠カンガルー 鼠チフス菌 鼠亜目 鼠入らず 鼠大根 鼠害 鼠巣 鼠李 鼠桜 鼠毛 鼠海豚 鼠疫 鼠盗 鼠目 鼠窃 鼠繻子 鼠色 鼠花火 鼠頚 鼠頚部 鼠頭魚 鼠頸 鼠頸部 鼠鮫 鼠鯒 鼠鹿 鼠麦 鼬鼠","kanji":"鼠"}]}
@@ -6288,8 +6288,41 @@
 {"ent_seq":2867277,"k_ele":[{"keb":"毬杖","kanji":"毬 杖"},{"keb":"毬打","composition":"毬 打","dependencies":"毬 打","kanji":"毬 打"}]}
 {"ent_seq":2867278}
 {"ent_seq":2867279,"k_ele":[{"keb":"新生突然変異","composition":"新生 突然変異","dependencies":"新生 突然 変異 突然変異","kanji":"新 生 突 然 変 異"}]}
+{"ent_seq":2867280,"k_ele":[{"keb":"一点突破","composition":"一 点 突破","dependencies":"一 点 突破","kanji":"一 点 突 破"}]}
 {"ent_seq":2867281}
+{"ent_seq":2867282,"k_ele":[{"keb":"ハリハリ鍋","composition":"ハリハリ 鍋","dependencies":"はりはり ハリハリ 鍋","kanji":"鍋"},{"keb":"はりはり鍋","composition":"はりはり 鍋","dependencies":"はりはり 鍋","kanji":"鍋"}]}
 {"ent_seq":2867283}
+{"ent_seq":2867284}
+{"ent_seq":2867285,"k_ele":[{"keb":"白根葵","kanji":"白 根 葵"}]}
+{"ent_seq":2867288,"k_ele":[{"keb":"燕万年青","kanji":"燕 万 年 青"}]}
+{"ent_seq":2867289,"k_ele":[{"keb":"柿蘭","composition":"柿 蘭","dependencies":"柿 蘭","kanji":"柿 蘭"}]}
+{"ent_seq":2867290,"k_ele":[{"keb":"麓菫","composition":"麓 菫","dependencies":"麓 菫","kanji":"麓 菫"}]}
+{"ent_seq":2867291,"k_ele":[{"keb":"蛍葛","composition":"蛍 葛","dependencies":"蛍 葛","kanji":"蛍 葛"}]}
+{"ent_seq":2867292,"k_ele":[{"keb":"四葉鵯","composition":"四葉 鵯","dependencies":"四葉 鵯","kanji":"四 葉 鵯"}]}
+{"ent_seq":2867293,"k_ele":[{"keb":"菫細辛","composition":"菫 細 辛","dependencies":"菫 細い 細 辛","kanji":"菫 細 辛"}]}
+{"ent_seq":2867294,"k_ele":[{"keb":"姫風露","composition":"姫 風 露","dependencies":"姫 風 露","kanji":"姫 風 露"}]}
+{"ent_seq":2867295,"k_ele":[{"keb":"峰蘇芳","composition":"峰 蘇芳","dependencies":"峰 蘇芳","kanji":"峰 蘇 芳"}]}
+{"ent_seq":2867296,"k_ele":[{"keb":"銀合歓","kanji":"銀 合 歓"}]}
+{"ent_seq":2867297,"k_ele":[{"keb":"青松虫","composition":"青 松虫","dependencies":"青 松虫","kanji":"青 松 虫"}]}
+{"ent_seq":2867298,"k_ele":[{"keb":"露虫","composition":"露 虫","dependencies":"露 虫","kanji":"露 虫"}]}
+{"ent_seq":2867299,"k_ele":[{"keb":"犬の陰嚢","composition":"犬 の 陰嚢","dependencies":"犬 の 陰嚢","kanji":"犬 陰 嚢"}]}
+{"ent_seq":2867300,"k_ele":[{"keb":"卵茸","kanji":"卵 茸"}]}
+{"ent_seq":2867301,"k_ele":[{"keb":"鱒茸","composition":"鱒 茸","dependencies":"鱒 茸","kanji":"鱒 茸"}]}
+{"ent_seq":2867302,"k_ele":[{"keb":"栗茸","kanji":"栗 茸"}]}
+{"ent_seq":2867303,"k_ele":[{"keb":"網茸","composition":"網 茸","dependencies":"網 茸","kanji":"網 茸"}]}
+{"ent_seq":2867304,"k_ele":[{"keb":"田芋","composition":"田 芋","dependencies":"田 芋","kanji":"田 芋"}]}
+{"ent_seq":2867308,"k_ele":[{"keb":"土師器","kanji":"土 師 器"}]}
+{"ent_seq":2867310,"k_ele":[{"keb":"大コロンビア","composition":"大 コロンビア","dependencies":"大 コロンビア","kanji":"大"}]}
+{"ent_seq":2867311,"k_ele":[{"keb":"悪うございました","composition":"悪う ござい まし た","dependencies":"悪い 悪う 御座る ござる ござい 増し まし た","kanji":"悪"},{"keb":"悪う御座いました","composition":"悪う 御座い まし た","dependencies":"悪い 悪う 御座る 御座い 増し まし た","kanji":"悪 御 座"}]}
+{"ent_seq":2867312,"k_ele":[{"keb":"麻薬国家","composition":"麻薬 国家","dependencies":"麻薬 国家","kanji":"麻 薬 国 家"}]}
+{"ent_seq":2867313,"k_ele":[{"keb":"麻薬カルテル","composition":"麻薬 カルテル","dependencies":"麻薬 カルテル","kanji":"麻 薬"}]}
+{"ent_seq":2867314}
+{"ent_seq":2867315,"k_ele":[{"keb":"麻薬テロ","composition":"麻薬 テロ","dependencies":"麻薬 テロ","kanji":"麻 薬"}]}
+{"ent_seq":2867316,"k_ele":[{"keb":"生徒指導室","composition":"生徒 指導室","dependencies":"生徒 指導 室 指導室","kanji":"生 徒 指 導 室"}]}
+{"ent_seq":2867317,"k_ele":[{"keb":"抜け荷","kanji":"抜 荷"}]}
+{"ent_seq":2867318,"k_ele":[{"keb":"ガチャ切り","composition":"ガチャ 切り","dependencies":"がちゃ ガチャ 切り","kanji":"切"},{"keb":"がちゃ切り","composition":"がちゃ 切り","dependencies":"がちゃ 切り","kanji":"切"}]}
+{"ent_seq":2867324,"k_ele":[{"keb":"逆柱","composition":"逆 柱","dependencies":"逆 柱","kanji":"逆 柱"}]}
+{"ent_seq":2867340,"k_ele":[{"keb":"夏芽","kanji":"夏 芽"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}

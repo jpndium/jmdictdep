@@ -1,6 +1,3 @@
-{"ent_seq":2860599}
-{"ent_seq":2860600}
-{"ent_seq":2860601,"k_ele":[{"keb":"生存戦略","composition":"生存 戦略","dependencies":"生存 戦略","kanji":"生 存 戦 略"}]}
 {"ent_seq":2860602,"k_ele":[{"keb":"消防ヘリコプター","composition":"消防 ヘリコプター","dependencies":"消防 ヘリコプター","kanji":"消 防"}]}
 {"ent_seq":2860603}
 {"ent_seq":2860604,"k_ele":[{"keb":"二角形","composition":"二 角形","dependencies":"二 角形","kanji":"二 角 形"},{"keb":"２角形","composition":"２ 角形","dependencies":"2 ２ 角形","kanji":"角 形"}]}
@@ -1438,8 +1435,8 @@
 {"ent_seq":2862141}
 {"ent_seq":2862142,"k_ele":[{"keb":"即席めん","composition":"即席 めん","dependencies":"即席 めん","kanji":"即 席"},{"keb":"即席麺","composition":"即席 麺","dependencies":"即席 麺","kanji":"即 席 麺"}]}
 {"ent_seq":2862143,"k_ele":[{"keb":"胸腺腫","composition":"胸 腺腫","dependencies":"胸 腺腫","kanji":"胸 腺 腫"}]}
-{"ent_seq":2862144,"k_ele":[{"keb":"一色","dependents":"一色二順 一色同順 字一色 清一色 白一色 緑一色","kanji":"一 色"}]}
-{"ent_seq":2862145,"k_ele":[{"keb":"一色","dependents":"一色二順 一色同順 字一色 清一色 白一色 緑一色","kanji":"一 色"}]}
+{"ent_seq":2862144,"k_ele":[{"keb":"一色","dependents":"一色二順 一色同順 一色碁 字一色 清一色 白一色 緑一色","kanji":"一 色"}]}
+{"ent_seq":2862145,"k_ele":[{"keb":"一色","dependents":"一色二順 一色同順 一色碁 字一色 清一色 白一色 緑一色","kanji":"一 色"}]}
 {"ent_seq":2862146,"k_ele":[{"keb":"八段","composition":"八 段","dependencies":"八 段","kanji":"八 段"}]}
 {"ent_seq":2862147,"k_ele":[{"keb":"七段","composition":"七 段","dependencies":"七 段","kanji":"七 段"}]}
 {"ent_seq":2862148,"k_ele":[{"keb":"六段","composition":"六 段","dependencies":"六 段","kanji":"六 段"}]}
@@ -5155,7 +5152,7 @@
 {"ent_seq":2866107,"k_ele":[{"keb":"芸術学","composition":"芸術 学","dependencies":"芸術 学","dependents":"芸術学部","kanji":"芸 術 学"}]}
 {"ent_seq":2866108}
 {"ent_seq":2866109,"k_ele":[{"keb":"称え","kanji":"称"}]}
-{"ent_seq":2866110,"k_ele":[{"keb":"深山","dependents":"深山嫁菜 深山小米草 深山川蜻蛉 深山幽谷 深山東菊 深山桜 深山樒 深山烏 深山烏揚羽 深山独活 深山秋の麒麟草 深山花忍 深山莢迷 深山金梅 深山金鳳花 深山鍬形 深山頬白 深山鸚鵡","kanji":"深 山"}]}
+{"ent_seq":2866110,"k_ele":[{"keb":"深山","dependents":"深山嫁菜 深山小米草 深山川蜻蛉 深山幽谷 深山東菊 深山桜 深山樒 深山烏 深山烏揚羽 深山独活 深山秋の麒麟草 深山花忍 深山莢蒾 深山莢迷 深山金梅 深山金鳳花 深山鍬形 深山頬白 深山鸚鵡","kanji":"深 山"}]}
 {"ent_seq":2866111,"k_ele":[{"keb":"三麻","composition":"三 麻","dependencies":"三 麻","kanji":"三 麻"}]}
 {"ent_seq":2866112,"k_ele":[{"keb":"三人麻雀","composition":"三 人 麻雀","dependencies":"三 人 マージャン 麻雀","kanji":"三 人 麻 雀"}]}
 {"ent_seq":2866113,"k_ele":[{"keb":"東京都議会議員選挙","composition":"東京都 議会 議員 選挙","dependencies":"東京 都 東京都 議会 議員 選挙","kanji":"東 京 都 議 会 議 員 選 挙"}]}
@@ -6308,7 +6305,7 @@
 {"ent_seq":2867299,"k_ele":[{"keb":"犬の陰嚢","composition":"犬 の 陰嚢","dependencies":"犬 の 陰嚢","kanji":"犬 陰 嚢"}]}
 {"ent_seq":2867300,"k_ele":[{"keb":"卵茸","kanji":"卵 茸"}]}
 {"ent_seq":2867301,"k_ele":[{"keb":"鱒茸","composition":"鱒 茸","dependencies":"鱒 茸","kanji":"鱒 茸"}]}
-{"ent_seq":2867302,"k_ele":[{"keb":"栗茸","kanji":"栗 茸"}]}
+{"ent_seq":2867302,"k_ele":[{"keb":"栗茸","dependents":"苦栗茸","kanji":"栗 茸"}]}
 {"ent_seq":2867303,"k_ele":[{"keb":"網茸","composition":"網 茸","dependencies":"網 茸","kanji":"網 茸"}]}
 {"ent_seq":2867304,"k_ele":[{"keb":"田芋","composition":"田 芋","dependencies":"田 芋","kanji":"田 芋"}]}
 {"ent_seq":2867305,"k_ele":[{"keb":"蔓菜","kanji":"蔓 菜"}]}
@@ -6346,6 +6343,7 @@
 {"ent_seq":2867338,"k_ele":[{"keb":"静けし","kanji":"静"}]}
 {"ent_seq":2867339,"k_ele":[{"keb":"逆さ柱","composition":"逆さ 柱","dependencies":"逆さ 柱","kanji":"逆 柱"}]}
 {"ent_seq":2867340,"k_ele":[{"keb":"夏芽","kanji":"夏 芽"}]}
+{"ent_seq":2867341,"k_ele":[{"keb":"空気調節器","composition":"空気調節 器","dependencies":"空気 調節 空気調節 器","kanji":"空 気 調 節 器"}]}
 {"ent_seq":2867342,"k_ele":[{"keb":"食す","composition":"食する","dependencies":"食する","dependents":"思し食す 思食す 知ろし食す","kanji":"食"}]}
 {"ent_seq":2867343,"k_ele":[{"keb":"建御名方神","composition":"建御名方 神","dependencies":"建御名方 神","kanji":"建 御 名 方 神"}]}
 {"ent_seq":2867344,"k_ele":[{"keb":"八坂刀売神","composition":"八坂 刀 売 神","dependencies":"八坂 刀 売り 売 神","kanji":"八 坂 刀 売 神"}]}
@@ -6428,6 +6426,7 @@
 {"ent_seq":2867421,"k_ele":[{"keb":"水赤鉄鉱","composition":"水 赤鉄鉱","dependencies":"水 赤 鉄鉱 赤鉄鉱","kanji":"水 赤 鉄 鉱"}]}
 {"ent_seq":2867422,"k_ele":[{"keb":"雲母片岩","composition":"雲母 片岩","dependencies":"雲母 片岩","kanji":"雲 母 片 岩"}]}
 {"ent_seq":2867423,"k_ele":[{"keb":"角閃安山岩","composition":"角閃 安山岩","dependencies":"角閃 安山 岩 安山岩","kanji":"角 閃 安 山 岩"}]}
+{"ent_seq":2867424,"k_ele":[{"keb":"灰華","composition":"灰 華","dependencies":"灰 華","kanji":"灰 華"}]}
 {"ent_seq":2867425,"k_ele":[{"keb":"庇面","composition":"庇 面","dependencies":"庇 面","kanji":"庇 面"}]}
 {"ent_seq":2867426,"k_ele":[{"keb":"珪華","composition":"珪 華","dependencies":"珪 華","kanji":"珪 華"},{"keb":"硅華","composition":"硅 華","dependencies":"硅 華","kanji":"硅 華"}]}
 {"ent_seq":2867427,"k_ele":[{"keb":"藍鉄土","composition":"藍 鉄 土","dependencies":"藍 鉄 土","kanji":"藍 鉄 土"}]}
@@ -6495,6 +6494,8 @@
 {"ent_seq":2867493,"k_ele":[{"keb":"発熱者","composition":"発熱 者","dependencies":"発熱 者","kanji":"発 熱 者"}]}
 {"ent_seq":2867494,"k_ele":[{"keb":"総総分離","composition":"総 総 分離","dependencies":"総 分離","kanji":"総 総 分 離"}]}
 {"ent_seq":2867495}
+{"ent_seq":2867497,"k_ele":[{"keb":"観光過剰","composition":"観光 過剰","dependencies":"観光 過剰","kanji":"観 光 過 剰"}]}
+{"ent_seq":2867498,"k_ele":[{"keb":"過剰観光","composition":"過剰 観光","dependencies":"過剰 観光","kanji":"過 剰 観 光"}]}
 {"ent_seq":2867499,"k_ele":[{"keb":"放置子","composition":"放置 子","dependencies":"放置 子","kanji":"放 置 子"}]}
 {"ent_seq":2867500,"k_ele":[{"keb":"孟買","composition":"孟 買","dependencies":"孟 買い 買","kanji":"孟 買"}]}
 {"ent_seq":2867501,"k_ele":[{"keb":"ライン越え","composition":"ライン 越え","dependencies":"ライン 越える 越え","kanji":"越"},{"keb":"ライン超え","composition":"ライン 超え","dependencies":"ライン 越える 越え 超え","kanji":"超"}]}
@@ -6614,6 +6615,9 @@
 {"ent_seq":2867615}
 {"ent_seq":2867616,"k_ele":[{"keb":"腺窩炎","composition":"腺 窩 炎","dependencies":"腺 窩 炎","kanji":"腺 窩 炎"}]}
 {"ent_seq":2867617,"k_ele":[{"keb":"自維","composition":"自 維","dependencies":"自 維","kanji":"自 維"}]}
+{"ent_seq":2867618,"k_ele":[{"keb":"滲出性体質","composition":"滲出性 体質","dependencies":"滲出 性 滲出性 体質","kanji":"滲 出 性 体 質"}]}
+{"ent_seq":2867619,"k_ele":[{"keb":"滲出性中耳炎","composition":"滲出性 中耳炎","dependencies":"滲出 性 滲出性 中耳 炎 中耳炎","kanji":"滲 出 性 中 耳 炎"}]}
+{"ent_seq":2867620,"k_ele":[{"keb":"従魔","composition":"従 魔","dependencies":"従 魔","kanji":"従 魔"}]}
 {"ent_seq":2867621,"k_ele":[{"keb":"ＳＰＯＦ"}]}
 {"ent_seq":2867622,"k_ele":[{"keb":"償却資産","composition":"償却 資産","dependencies":"償却 資産","kanji":"償 却 資 産"}]}
 {"ent_seq":2867623,"k_ele":[{"keb":"検索拡張生成","composition":"検索 拡張 生成","dependencies":"検索 拡張 生成","kanji":"検 索 拡 張 生 成"}]}
@@ -6632,14 +6636,17 @@
 {"ent_seq":2867637,"k_ele":[{"keb":"列宿","composition":"列 宿","dependencies":"列 宿","kanji":"列 宿"}]}
 {"ent_seq":2867638,"k_ele":[{"keb":"地動儀","composition":"地動 儀","dependencies":"地動 儀","kanji":"地 動 儀"}]}
 {"ent_seq":2867639,"k_ele":[{"keb":"小熊星","composition":"小熊 星","dependencies":"小熊 星","kanji":"小 熊 星"}]}
+{"ent_seq":2867640,"k_ele":[{"keb":"画像生成ＡＩ","composition":"画像 生成ＡＩ","dependencies":"画像 生成 AI ＡＩ 生成ＡＩ","kanji":"画 像 生 成"}]}
 {"ent_seq":2867641,"k_ele":[{"keb":"音楽生成ＡＩ","composition":"音楽 生成ＡＩ","dependencies":"音楽 生成 AI ＡＩ 生成ＡＩ","kanji":"音 楽 生 成"}]}
 {"ent_seq":2867642,"k_ele":[{"keb":"製品情報","composition":"製品 情報","dependencies":"製品 情報","kanji":"製 品 情 報"}]}
 {"ent_seq":2867643,"k_ele":[{"keb":"無乳糖","composition":"無 乳糖","dependencies":"無 乳糖","kanji":"無 乳 糖"}]}
 {"ent_seq":2867644,"k_ele":[{"keb":"発展主義","composition":"発展 主義","dependencies":"発展 主義","kanji":"発 展 主 義"}]}
+{"ent_seq":2867645,"k_ele":[{"keb":"開発主義","composition":"開発 主義","dependencies":"開発 主義","kanji":"開 発 主 義"}]}
 {"ent_seq":2867646}
 {"ent_seq":2867647,"k_ele":[{"keb":"権貴資本主義","composition":"権貴 資本主義","dependencies":"権貴 資本 主義 資本主義","kanji":"権 貴 資 本 主 義"}]}
 {"ent_seq":2867648}
 {"ent_seq":2867649,"k_ele":[{"keb":"充電ケーブル","composition":"充電 ケーブル","dependencies":"充電 ケーブル","kanji":"充 電"}]}
+{"ent_seq":2867650,"k_ele":[{"keb":"級章","composition":"級 章","dependencies":"級 章","kanji":"級 章"}]}
 {"ent_seq":2867651,"k_ele":[{"keb":"型推論","composition":"型 推論","dependencies":"型 推論","kanji":"型 推 論"}]}
 {"ent_seq":2867652,"k_ele":[{"keb":"剝茸","kanji":"剝 茸"},{"keb":"剥茸","kanji":"剥 茸"}]}
 {"ent_seq":2867653,"k_ele":[{"keb":"毒鶴茸","composition":"毒 鶴茸","dependencies":"毒 鶴茸","kanji":"毒 鶴 茸"}]}
@@ -6647,11 +6654,14 @@
 {"ent_seq":2867656,"k_ele":[{"keb":"ＧＸ","composition":"GX","dependencies":"GX"}]}
 {"ent_seq":2867657}
 {"ent_seq":2867658,"k_ele":[{"keb":"泥中の蓮","composition":"泥中 の 蓮","dependencies":"泥中 の 蓮","kanji":"泥 中 蓮"},{"keb":"泥中のハス","composition":"泥中 の ハス","dependencies":"泥中 の はす ハス","kanji":"泥 中"},{"keb":"泥中のハチス","composition":"泥中 の ハチス","dependencies":"泥中 の ハチス","kanji":"泥 中"}]}
+{"ent_seq":2867659}
 {"ent_seq":2867660,"k_ele":[{"keb":"目もくれず","composition":"目 も くれ ず","dependencies":"目 も 呉れる くれる くれ ず","kanji":"目"}]}
 {"ent_seq":2867661,"k_ele":[{"keb":"予冷","kanji":"予 冷"}]}
 {"ent_seq":2867662}
+{"ent_seq":2867663}
 {"ent_seq":2867664,"k_ele":[{"keb":"榾場","composition":"榾 場","dependencies":"榾 場","kanji":"榾 場"}]}
 {"ent_seq":2867665,"k_ele":[{"keb":"線番","composition":"線 番","dependencies":"線 番","kanji":"線 番"}]}
+{"ent_seq":2867666}
 {"ent_seq":2867667}
 {"ent_seq":2867668,"k_ele":[{"keb":"脱走囚","composition":"脱走 囚","dependencies":"脱走 囚","kanji":"脱 走 囚"}]}
 {"ent_seq":2867669,"k_ele":[{"keb":"直衛","kanji":"直 衛"}]}
@@ -6661,6 +6671,82 @@
 {"ent_seq":2867673,"k_ele":[{"keb":"ＦＯＳＳ"}]}
 {"ent_seq":2867674,"k_ele":[{"keb":"ＦＬＯＳＳ"}]}
 {"ent_seq":2867675,"k_ele":[{"keb":"占位","composition":"占 位","dependencies":"占い 占 位","kanji":"占 位"}]}
+{"ent_seq":2867680}
+{"ent_seq":2867681,"k_ele":[{"keb":"毛孔性角化症","composition":"毛孔 性 角化症","dependencies":"毛穴 毛孔 性 角化 症 角化症","kanji":"毛 孔 性 角 化 症"}]}
+{"ent_seq":2867682,"k_ele":[{"keb":"犬の顔","composition":"犬 の 顔","dependencies":"犬 の 顔","kanji":"犬 顔"}]}
+{"ent_seq":2867683,"k_ele":[{"keb":"トックリ形","composition":"トックリ 形","dependencies":"徳利 トックリ 形","kanji":"形"},{"keb":"トックリ型","composition":"トックリ 型","dependencies":"徳利 トックリ 型","kanji":"型"}]}
+{"ent_seq":2867684,"k_ele":[{"keb":"馬の顔","composition":"馬 の 顔","dependencies":"馬 の 顔","kanji":"馬 顔"}]}
+{"ent_seq":2867685,"k_ele":[{"keb":"キリンの顔","composition":"キリン の 顔","dependencies":"キリン の 顔","kanji":"顔"}]}
+{"ent_seq":2867686,"k_ele":[{"keb":"胸のすく","composition":"胸 の すく","dependencies":"胸 の すく","kanji":"胸"},{"keb":"胸の空く","composition":"胸 の 空く","dependencies":"胸 の 空く","kanji":"胸 空"}]}
+{"ent_seq":2867689,"k_ele":[{"keb":"箒茸","kanji":"箒 茸"}]}
+{"ent_seq":2867690,"k_ele":[{"keb":"埃茸","kanji":"埃 茸"}]}
+{"ent_seq":2867691}
+{"ent_seq":2867692,"k_ele":[{"keb":"連碁","composition":"連 碁","dependencies":"連 碁","kanji":"連 碁"}]}
+{"ent_seq":2867693,"k_ele":[{"keb":"ペア碁","composition":"ペア 碁","dependencies":"ペア 碁","kanji":"碁"}]}
+{"ent_seq":2867694,"k_ele":[{"keb":"一色碁","composition":"一色 碁","dependencies":"一色 碁","kanji":"一 色 碁"}]}
+{"ent_seq":2867695,"k_ele":[{"keb":"トーラス碁","composition":"トーラス 碁","dependencies":"トーラス 碁","kanji":"碁"}]}
+{"ent_seq":2867696,"k_ele":[{"keb":"Ｌｉｎｕｘディストリビューション","composition":"Ｌｉｎｕｘ ディストリビューション","dependencies":"Linux Ｌｉｎｕｘ ディストリビューション"}]}
+{"ent_seq":2867698,"k_ele":[{"keb":"２ＦＡ","composition":"２ ＦＡ","dependencies":"2 ２ FA ＦＡ"}]}
+{"ent_seq":2867699,"k_ele":[{"keb":"蝿蛆症","composition":"蝿 蛆 症","dependencies":"蠅 蝿 蛆 症","kanji":"蝿 蛆 症"}]}
+{"ent_seq":2867700,"k_ele":[{"keb":"苦栗茸","composition":"苦 栗茸","dependencies":"苦 栗茸","kanji":"苦 栗 茸"}]}
+{"ent_seq":2867701,"k_ele":[{"keb":"黒初","composition":"黒 初","dependencies":"黒 初","kanji":"黒 初"}]}
+{"ent_seq":2867702,"k_ele":[{"keb":"赤蝦夷松","composition":"赤 蝦夷松","dependencies":"赤 蝦夷松","kanji":"赤 蝦 夷 松"}]}
+{"ent_seq":2867703,"k_ele":[{"keb":"米栂","kanji":"米 栂"}]}
+{"ent_seq":2867704,"k_ele":[{"keb":"裏白樅","composition":"裏白 樅","dependencies":"裏白 樅","kanji":"裏 白 樅"}]}
+{"ent_seq":2867705,"k_ele":[{"keb":"蔓日々草","composition":"蔓 日々 草","dependencies":"蔓 日々 草","kanji":"蔓 日 草"},{"keb":"蔓日日草","composition":"蔓 日日草","dependencies":"蔓 日日草","kanji":"蔓 日 日 草"}]}
+{"ent_seq":2867706,"k_ele":[{"keb":"唐鼠黐","composition":"唐 鼠黐","dependencies":"唐 鼠黐","kanji":"唐 鼠 黐"}]}
+{"ent_seq":2867707}
+{"ent_seq":2867709,"k_ele":[{"keb":"情報通信技術","composition":"情報 通信 技術","dependencies":"情報 通信 技術","kanji":"情 報 通 信 技 術"}]}
+{"ent_seq":2867710,"k_ele":[{"keb":"エルビス演算子","composition":"エルビス 演算子","dependencies":"エルビス 演算 子 演算子","kanji":"演 算 子"}]}
+{"ent_seq":2867711}
+{"ent_seq":2867712,"k_ele":[{"keb":"パラサイト型密輸","composition":"パラサイト 型 密輸","dependencies":"パラサイト 型 密輸","kanji":"型 密 輸"}]}
+{"ent_seq":2867713,"k_ele":[{"keb":"ＳＡＴＡ"}]}
+{"ent_seq":2867714,"k_ele":[{"keb":"ＮＶＭｅ"}]}
+{"ent_seq":2867716,"k_ele":[{"keb":"麦藁菊","composition":"麦藁 菊","dependencies":"麦藁 菊","kanji":"麦 藁 菊"}]}
+{"ent_seq":2867717,"k_ele":[{"keb":"アーベル賞","composition":"アーベル 賞","dependencies":"アーベル 賞","kanji":"賞"}]}
+{"ent_seq":2867718,"k_ele":[{"keb":"ＵＷＢ"}]}
+{"ent_seq":2867719}
+{"ent_seq":2867720}
+{"ent_seq":2867721}
+{"ent_seq":2867722,"k_ele":[{"keb":"数学オリンピック","composition":"数学 オリンピック","dependencies":"数学 オリンピック","kanji":"数 学"}]}
+{"ent_seq":2867723}
+{"ent_seq":2867724}
+{"ent_seq":2867725,"k_ele":[{"keb":"二重帝国","composition":"二 重 帝国","dependencies":"二 重 帝国","kanji":"二 重 帝 国"}]}
+{"ent_seq":2867726}
+{"ent_seq":2867727,"k_ele":[{"keb":"動確","composition":"動 確","dependencies":"動 確","kanji":"動 確"}]}
+{"ent_seq":2867730,"k_ele":[{"keb":"ハッシュ値","composition":"ハッシュ 値","dependencies":"ハッシュ 値","kanji":"値"}]}
+{"ent_seq":2867731}
+{"ent_seq":2867732}
+{"ent_seq":2867733,"k_ele":[{"keb":"骨ベラ","composition":"骨 ベラ","dependencies":"骨 ベラ","kanji":"骨"},{"keb":"骨ヘラ","composition":"骨 ヘラ","dependencies":"骨 箆 ヘラ","kanji":"骨"},{"keb":"骨箆","composition":"骨 箆","dependencies":"骨 箆","kanji":"骨 箆"}]}
+{"ent_seq":2867734,"k_ele":[{"keb":"高炭酸ガス血症","composition":"高 炭酸 ガス 血 症","dependencies":"高 炭酸 ガス 血 症","kanji":"高 炭 酸 血 症"}]}
+{"ent_seq":2867735,"k_ele":[{"keb":"高二酸化炭素血症","composition":"高 二酸化炭素 血 症","dependencies":"高 二 酸 二酸 化る 化ける 化 二酸化 炭素 二酸化炭素 血 症","kanji":"高 二 酸 化 炭 素 血 症"}]}
+{"ent_seq":2867736,"k_ele":[{"keb":"高炭酸血症","composition":"高 炭酸 血 症","dependencies":"高 炭酸 血 症","kanji":"高 炭 酸 血 症"}]}
+{"ent_seq":2867737,"k_ele":[{"keb":"高炭酸症","composition":"高 炭酸 症","dependencies":"高 炭酸 症","kanji":"高 炭 酸 症"}]}
+{"ent_seq":2867739,"k_ele":[{"keb":"ＤＮＳキャッシュポイズニング","composition":"ＤＮＳ キャッシュポイズニング","dependencies":"DNS ＤＮＳ キャッシュポイズニング"}]}
+{"ent_seq":2867740,"k_ele":[{"keb":"ＤＮＳポイズニング","composition":"ＤＮＳ ポイズニング","dependencies":"DNS ＤＮＳ ポイズニング"}]}
+{"ent_seq":2867744,"k_ele":[{"keb":"廃タイヤ","composition":"廃 タイヤ","dependencies":"廃 タイヤ","kanji":"廃"}]}
+{"ent_seq":2867745,"k_ele":[{"keb":"ヨルダン・ハシミテ王国","composition":"ヨルダン ・ ハシミテ 王国","dependencies":"ヨルダン ・ ハシミテ 王国","kanji":"王 国"},{"keb":"ヨルダンハシミテ王国","composition":"ヨルダン ハシミテ 王国","dependencies":"ヨルダン ハシミテ 王国","kanji":"王 国"}]}
+{"ent_seq":2867746}
+{"ent_seq":2867747}
+{"ent_seq":2867748,"k_ele":[{"keb":"海鮮醤","composition":"海鮮 醤","dependencies":"海鮮 醤","kanji":"海 鮮 醤"}]}
+{"ent_seq":2867749,"k_ele":[{"keb":"ＴＬＳ"}]}
+{"ent_seq":2867750,"k_ele":[{"keb":"反響言語","composition":"反響 言語","dependencies":"反響 言語","kanji":"反 響 言 語"}]}
+{"ent_seq":2867751,"k_ele":[{"keb":"社会的カモフラージュ","composition":"社会的 カモフラージュ","dependencies":"社会 的 社会的 カモフラージュ","kanji":"社 会 的"}]}
+{"ent_seq":2867752,"k_ele":[{"keb":"どんと来い","composition":"どん と 来い","dependencies":"どん と 来る 来い","kanji":"来"}]}
+{"ent_seq":2867753,"k_ele":[{"keb":"社会法","composition":"社会 法","dependencies":"社会 法","kanji":"社 会 法"}]}
+{"ent_seq":2867754,"k_ele":[{"keb":"文化浄化","composition":"文化 浄化","dependencies":"文化 浄化","kanji":"文 化 浄 化"}]}
+{"ent_seq":2867755,"k_ele":[{"keb":"文化殺戮","composition":"文化 殺戮","dependencies":"文化 殺戮","kanji":"文 化 殺 戮"}]}
+{"ent_seq":2867756}
+{"ent_seq":2867757,"k_ele":[{"keb":"火鍋","dependents":"火鍋子","kanji":"火 鍋"}]}
+{"ent_seq":2867758,"k_ele":[{"keb":"手書き入力","composition":"手書き 入力","dependencies":"手書き 入力","kanji":"手 書 入 力"},{"keb":"手書入力","composition":"手書 入力","dependencies":"手書 入力","kanji":"手 書 入 力"}]}
+{"ent_seq":2867759}
+{"ent_seq":2867760,"k_ele":[{"keb":"戦訓","kanji":"戦 訓"}]}
+{"ent_seq":2867761,"k_ele":[{"keb":"スクランブル放送","composition":"スクランブル 放送","dependencies":"スクランブル 放送","kanji":"放 送"}]}
+{"ent_seq":2867762,"k_ele":[{"keb":"弄る","kanji":"弄"}]}
+{"ent_seq":2867763,"k_ele":[{"keb":"冷帯","kanji":"冷 帯"}]}
+{"ent_seq":2867764}
+{"ent_seq":2867765,"k_ele":[{"keb":"ＣＯＯ","composition":"COO","dependencies":"COO"}]}
+{"ent_seq":2867767,"k_ele":[{"keb":"貧打戦","composition":"貧打 戦","dependencies":"貧打 戦","kanji":"貧 打 戦"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -13892,3 +13978,4 @@
 {"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁","composition":"野狐 囲碁","dependencies":"野狐 囲碁","kanji":"野 狐 囲 碁"}]}
 {"ent_seq":5747421,"k_ele":[{"keb":"野狐","dependents":"野狐囲碁","kanji":"野 狐"}]}
 {"ent_seq":5747425,"k_ele":[{"keb":"ＤｅｅｐＬ翻訳","composition":"ＤｅｅｐＬ 翻訳","dependencies":"ＤｅｅｐＬ 翻訳","kanji":"翻 訳"},{"keb":"ディープエル翻訳","composition":"ディープエル 翻訳","dependencies":"ディープエル 翻訳","kanji":"翻 訳"}]}
+{"ent_seq":5747436,"k_ele":[{"keb":"Ｐｉｘ"},{"keb":"ＰＩＸ"}]}

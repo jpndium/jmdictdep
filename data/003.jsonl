@@ -1,7 +1,3 @@
-{"ent_seq":2860610,"k_ele":[{"keb":"次高音","composition":"次 高音","dependencies":"次 高音","kanji":"次 高 音"}]}
-{"ent_seq":2860611,"k_ele":[{"keb":"翼足類","composition":"翼足 類","dependencies":"翼足 類","kanji":"翼 足 類"}]}
-{"ent_seq":2860612,"k_ele":[{"keb":"抑揚格","composition":"抑揚 格","dependencies":"抑揚 格","kanji":"抑 揚 格"}]}
-{"ent_seq":2860613,"k_ele":[{"keb":"寄せ接ぎ","composition":"寄せ 接ぎ","dependencies":"寄せ 接ぎ","kanji":"寄 接"}]}
 {"ent_seq":2860614,"k_ele":[{"keb":"小突起","composition":"小 突起","dependencies":"小 突起","kanji":"小 突 起"}]}
 {"ent_seq":2860615,"k_ele":[{"keb":"中間業者","composition":"中間 業 者","dependencies":"中間 業 者","kanji":"中 間 業 者"}]}
 {"ent_seq":2860616}
@@ -1628,7 +1624,7 @@
 {"ent_seq":2862361}
 {"ent_seq":2862362,"k_ele":[{"keb":"子供部屋未使用おばさん","composition":"子供部屋 未使用 おば さん","dependencies":"子供 部屋 子供部屋 未 使用 未使用 おば さん","kanji":"子 供 部 屋 未 使 用"}]}
 {"ent_seq":2862363,"k_ele":[{"keb":"皮膚真菌症","composition":"皮膚 真菌症","dependencies":"皮膚 真菌 症 真菌症","kanji":"皮 膚 真 菌 症"}]}
-{"ent_seq":2862364,"k_ele":[{"keb":"と雖も","composition":"と 雖も","dependencies":"と 雖も","kanji":"雖"}]}
+{"ent_seq":2862364,"k_ele":[{"keb":"と言えども","composition":"と 言え ど も","dependencies":"と 言う 言え どう ど も","kanji":"言"},{"keb":"と雖も","composition":"と 雖も","dependencies":"と 雖も","kanji":"雖"}]}
 {"ent_seq":2862365,"k_ele":[{"keb":"吹き上がる","composition":"吹き 上がる","dependencies":"吹き 上がる","kanji":"吹 上"},{"keb":"噴き上がる","composition":"噴き 上がる","dependencies":"噴き 上がる","kanji":"噴 上"},{"keb":"噴きあがる","composition":"噴き あがる","dependencies":"噴き 上がる あがる","kanji":"噴"},{"keb":"吹きあがる","composition":"吹き あがる","dependencies":"吹き 上がる あがる","kanji":"吹"},{"keb":"吹き上る","composition":"吹き 上る","dependencies":"吹き 上る","kanji":"吹 上"},{"keb":"噴き上る","composition":"噴き 上る","dependencies":"噴き 上る","kanji":"噴 上"},{"keb":"吹上がる","composition":"吹上 がる","dependencies":"吹上 がる","kanji":"吹 上"},{"keb":"吹上る","composition":"吹 上る","dependencies":"吹き 吹 上る","kanji":"吹 上"},{"keb":"噴上る","composition":"噴 上る","dependencies":"噴き 噴 上る","kanji":"噴 上"},{"keb":"噴上がる","composition":"噴 上がる","dependencies":"噴き 噴 上がる","kanji":"噴 上"},{"keb":"吹き揚がる","composition":"吹き 揚がる","dependencies":"吹き 上がる 揚がる","kanji":"吹 揚"}]}
 {"ent_seq":2862366}
 {"ent_seq":2862367,"k_ele":[{"keb":"恨めしや","kanji":"恨"}]}
@@ -1756,7 +1752,7 @@
 {"ent_seq":2862492,"k_ele":[{"keb":"振り向きざま","composition":"振り向き ざま","dependencies":"振り 向き 振り向き 様 ざま","kanji":"振 向"},{"keb":"振り向き様","composition":"振り向き 様","dependencies":"振り 向き 振り向き 様","kanji":"振 向 様"},{"keb":"振向きざま","composition":"振向き ざま","dependencies":"振り 振 向き 振向き 様 ざま","kanji":"振 向"},{"keb":"振向き様","composition":"振向き 様","dependencies":"振り 振 向き 振向き 様","kanji":"振 向 様"}]}
 {"ent_seq":2862493,"k_ele":[{"keb":"混泳","kanji":"混 泳"}]}
 {"ent_seq":2862494,"k_ele":[{"keb":"歯磨き剤","composition":"歯磨き 剤","dependencies":"歯磨き 剤","kanji":"歯 磨 剤"}]}
-{"ent_seq":2862495,"k_ele":[{"keb":"後方","dependents":"後方一致 後方乱気流 後方互換 後方互換性 後方地域 後方地域警備 後方境界面 後方推論 後方支援 後方端 後方視的 後方連絡線","kanji":"後 方"},{"keb":"後え","composition":"後 え","dependencies":"後 えー え","kanji":"後"},{"keb":"後","dependents":"あと あとにも先にも あとを付ける あとを尾ける あとを継ぐ あとを追う あと一歩 あと押し あと片づけ あと片付け あと追い いい後は悪い お後がよろしいようで げすの後知恵 こけの後思案 この後 この後に及んで しかる後 その後 のち 下司の後知恵 下種のあと知恵 下種の後知恵 下衆の後知恵 事前後 二死後 亡き後 交配後隔離 使用後 倒れて後やむ 其の後 其後 冷や酒と親の意見は後できく 冷や酒と親の意見は後で効く 出産後 前虎後狼 卒業後 即位後朝見の儀 夕食後 外傷後ストレス障害 始めは処女のごとく後は脱兎のごとし 始めは処女の如く後は脱兎の如し 年後 後え 後えり 後かたづけ 後から 後から後から 後がつかえる 後がない 後が支える 後が無い 後じん 後じんを拝する 後で 後に 後にする 後になって 後になる 後にも先にも 後に倒れる 後に引けない 後ねだり 後の先 後の方 後の月 後の月見 後の朝 後の炭 後の祭 後の祭り 後の諱 後は野となれ山となれ 後へ引く 後へ退く 後をつぐ 後をつける 後を付ける 後を尾ける 後を弔う 後を引く 後を慕って 後を濁す 後を絶たず 後を絶たない 後を継ぐ 後を追う 後ジテ 後ピン 後七日 後七日の御修法 後交通動脈 後仕手 後仕舞 後催眠暗示 後処理 後処理費用 後刷り 後加工 後半生 後取息子 後嚢 後嚢切開術 後回し蹴り 後報 後始末 後害 後工程 後廻し蹴り 後強請り 後形質 後扉 後技 後文 後昆 後株 後氷期 後炭 後燕 後片づけ 後片付け 後獣下綱 後獣類 後甲板 後番組 後療法 後発々展途上国 後知恵 後立 後羽 後耳介動脈 後脳 後腎 後腹膜 後臼歯 後舌 後襟 後語り 後軍 後追 後配株 後鉢巻 後頸部 後鼻漏 心的外傷後ストレス障害 戦争後 接合後 接合後隔離 放課後 放課後学習 数分後 数年後 数日後 斃れて後已む 日本後紀 日没後 日焼けあと 昼食後 晴れ後曇り 晴れ後雨 晴後曇 晴後雨 業後 此の後 死してのちやむ 死してのち已む 死して後已む 水入り二番後撮り直し 災後 然る後 爪あと 発つ鳥あとを濁さず 発つ鳥後を濁さず 真正後生動物 真正後生動物亜界 立つ鳥あとを濁さず 立つ鳥後を濁さず 紀元後 終了後 終戦後 続日本後紀 翻訳後修飾 虚仮の後思案 言葉後 踏みあと 退職後 道の後 閉経後 開発後評価 順後業","kanji":"後"}]}
+{"ent_seq":2862495,"k_ele":[{"keb":"後方","dependents":"後方一致 後方乱気流 後方互換 後方互換性 後方地域 後方地域警備 後方境界面 後方推論 後方支援 後方端 後方視的 後方連絡線","kanji":"後 方"},{"keb":"後え","composition":"後 え","dependencies":"後 えー え","kanji":"後"},{"keb":"後","dependents":"あと あとにも先にも あとを付ける あとを尾ける あとを継ぐ あとを追う あと一歩 あと押し あと片づけ あと片付け あと追い いい後は悪い お後がよろしいようで げすの後知恵 こけの後思案 この後 この後に及んで しかる後 その後 のち 下司の後知恵 下種のあと知恵 下種の後知恵 下衆の後知恵 事前後 二死後 亡き後 交配後隔離 使用後 倒れて後やむ 其の後 其後 冷や酒と親の意見は後できく 冷や酒と親の意見は後で効く 出産後 前虎後狼 卒業後 即位後朝見の儀 夕食後 外傷後ストレス障害 始めは処女のごとく後は脱兎のごとし 始めは処女の如く後は脱兎の如し 年後 後え 後えり 後かたづけ 後から 後から後から 後がつかえる 後がない 後が支える 後が無い 後じん 後じんを拝する 後で 後に 後にする 後になって 後になる 後にも先にも 後に倒れる 後に引けない 後ねだり 後の先 後の方 後の月 後の月見 後の朝 後の炭 後の祭 後の祭り 後の諱 後は野となれ山となれ 後へ引く 後へ退く 後をつぐ 後をつける 後を付ける 後を尾ける 後を弔う 後を引く 後を慕って 後を濁す 後を絶たず 後を絶たない 後を継ぐ 後を追う 後ジテ 後ピン 後七日 後七日の御修法 後交通動脈 後仕手 後仕舞 後催眠暗示 後処理 後処理費用 後刷り 後加工 後半生 後取息子 後嚢 後嚢切開術 後回し蹴り 後報 後始末 後害 後工程 後廻し蹴り 後強請り 後形質 後扉 後技 後文 後昆 後株 後氷期 後炭 後燕 後片づけ 後片付け 後獣下綱 後獣類 後甲板 後番組 後療法 後知恵 後立 後羽 後耳介動脈 後脳 後腎 後腹膜 後臼歯 後舌 後襟 後語り 後軍 後追 後配株 後鉢巻 後頸部 後鼻漏 心的外傷後ストレス障害 戦争後 接合後 接合後隔離 放課後 放課後学習 数分後 数年後 数日後 斃れて後已む 日本後紀 日没後 日焼けあと 昼食後 晴れ後曇り 晴れ後雨 晴後曇 晴後雨 業後 此の後 死してのちやむ 死してのち已む 死して後已む 水入り二番後撮り直し 災後 然る後 爪あと 発つ鳥あとを濁さず 発つ鳥後を濁さず 真正後生動物 真正後生動物亜界 立つ鳥あとを濁さず 立つ鳥後を濁さず 紀元後 終了後 終戦後 続日本後紀 翻訳後修飾 虚仮の後思案 言葉後 踏みあと 退職後 道の後 閉経後 開発後評価 順後業","kanji":"後"}]}
 {"ent_seq":2862496,"k_ele":[{"keb":"版築","kanji":"版 築"}]}
 {"ent_seq":2862497,"k_ele":[{"keb":"練り土","kanji":"練 土"},{"keb":"煉り土","composition":"煉り 土","dependencies":"練る 練り 煉り 土","kanji":"煉 土"},{"keb":"練土","composition":"練 土","dependencies":"練 土","kanji":"練 土"},{"keb":"煉土","composition":"煉 土","dependencies":"練る 練り 煉 土","kanji":"煉 土"}]}
 {"ent_seq":2862498,"k_ele":[{"keb":"訓練地","composition":"訓練 地","dependencies":"訓練 地","kanji":"訓 練 地"}]}
@@ -2094,7 +2090,7 @@
 {"ent_seq":2862854,"k_ele":[{"keb":"性的偏見","composition":"性的 偏見","dependencies":"性的 偏見","kanji":"性 的 偏 見"}]}
 {"ent_seq":2862855,"k_ele":[{"keb":"型キャスト","composition":"型 キャスト","dependencies":"型 キャスト","kanji":"型"},{"keb":"形キャスト","composition":"形 キャスト","dependencies":"形 キャスト","kanji":"形"}]}
 {"ent_seq":2862856,"k_ele":[{"keb":"光札","composition":"光 札","dependencies":"光 札","kanji":"光 札"}]}
-{"ent_seq":2862857,"k_ele":[{"keb":"放物","dependents":"双曲放物面 抛物 抛物線 抛物面 放物線 放物面","kanji":"放 物"},{"keb":"抛物","composition":"放物","dependencies":"放物","dependents":"抛物線 抛物面","kanji":"抛 物"}]}
+{"ent_seq":2862857,"k_ele":[{"keb":"放物","dependents":"双曲放物面 抛物 抛物線 抛物面 放物線 放物運動 放物面","kanji":"放 物"},{"keb":"抛物","composition":"放物","dependencies":"放物","dependents":"抛物線 抛物面","kanji":"抛 物"}]}
 {"ent_seq":2862858,"k_ele":[{"keb":"太郎","dependents":"ぷー太郎 ぽん太郎 天一太郎 太郎冠者 太郎月 浦島太郎 浦島太郎状態","kanji":"太 郎"}]}
 {"ent_seq":2862859,"k_ele":[{"keb":"止め字","kanji":"止 字"}]}
 {"ent_seq":2862860,"k_ele":[{"keb":"双乳","kanji":"双 乳"}]}
@@ -2465,8 +2461,8 @@
 {"ent_seq":2863257,"k_ele":[{"keb":"筒","dependents":"くじ筒 ロケット発射筒 写真天頂筒 単筒 厚紙筒 吹き矢筒 吹矢筒 多筒 多筒式 弾薬筒 排気筒 排莢桿筒 擲弾発射筒 擲弾筒 烟筒 発射筒 発炎筒 発煙筒 短筒 筒二 筒状 筒状花 箸筒 籤筒 銃の筒 閃光発音筒 鰻筒","kanji":"筒"}]}
 {"ent_seq":2863258}
 {"ent_seq":2863259,"k_ele":[{"keb":"昼会","composition":"昼 会","dependencies":"昼 会","kanji":"昼 会"}]}
-{"ent_seq":2863260,"k_ele":[{"keb":"腸","dependents":"はらわた はらわたが煮えくりかえる はらわたが煮えくり返る バンコマイシン耐性腸球菌 パンコマイシン耐性腸球菌 九回の腸 九腸 快腸 炎症性腸疾患 糞腸 美腸 肛後腸 腸がん 腸が煮えくりかえる 腸が煮えくり返る 腸が煮え繰り返る 腸の病気 腸の腐った 腸カタル 腸ガン 腸チフス 腸チフス菌 腸回転異常 腸抜き 腸捻転 腸活 腸炭疽 腸疾患 腸石 腸粉 腸結核 腸肝循環 腸重積 腸重積症 腸閉塞 腸香 腸鰓類 過敏性腸症候群 鉄石心腸","kanji":"腸"}]}
-{"ent_seq":2863261,"k_ele":[{"keb":"腸","dependents":"はらわた はらわたが煮えくりかえる はらわたが煮えくり返る バンコマイシン耐性腸球菌 パンコマイシン耐性腸球菌 九回の腸 九腸 快腸 炎症性腸疾患 糞腸 美腸 肛後腸 腸がん 腸が煮えくりかえる 腸が煮えくり返る 腸が煮え繰り返る 腸の病気 腸の腐った 腸カタル 腸ガン 腸チフス 腸チフス菌 腸回転異常 腸抜き 腸捻転 腸活 腸炭疽 腸疾患 腸石 腸粉 腸結核 腸肝循環 腸重積 腸重積症 腸閉塞 腸香 腸鰓類 過敏性腸症候群 鉄石心腸","kanji":"腸"}]}
+{"ent_seq":2863260,"k_ele":[{"keb":"腸","dependents":"はらわた はらわたが煮えくりかえる はらわたが煮えくり返る バンコマイシン耐性腸球菌 パンコマイシン耐性腸球菌 九回の腸 九腸 快腸 炎症性腸疾患 糞腸 美腸 肛後腸 腸がん 腸が煮えくりかえる 腸が煮えくり返る 腸が煮え繰り返る 腸の病気 腸の腐った 腸カタル 腸ガン 腸チフス 腸チフス菌 腸回転異常 腸抜き 腸捻転 腸活 腸炭疽 腸疾患 腸石 腸粉 腸結核 腸絨毛 腸肝循環 腸重積 腸重積症 腸閉塞 腸香 腸鰓類 過敏性腸症候群 鉄石心腸","kanji":"腸"}]}
+{"ent_seq":2863261,"k_ele":[{"keb":"腸","dependents":"はらわた はらわたが煮えくりかえる はらわたが煮えくり返る バンコマイシン耐性腸球菌 パンコマイシン耐性腸球菌 九回の腸 九腸 快腸 炎症性腸疾患 糞腸 美腸 肛後腸 腸がん 腸が煮えくりかえる 腸が煮えくり返る 腸が煮え繰り返る 腸の病気 腸の腐った 腸カタル 腸ガン 腸チフス 腸チフス菌 腸回転異常 腸抜き 腸捻転 腸活 腸炭疽 腸疾患 腸石 腸粉 腸結核 腸絨毛 腸肝循環 腸重積 腸重積症 腸閉塞 腸香 腸鰓類 過敏性腸症候群 鉄石心腸","kanji":"腸"}]}
 {"ent_seq":2863262}
 {"ent_seq":2863263}
 {"ent_seq":2863264}
@@ -6791,6 +6787,9 @@
 {"ent_seq":2867809,"k_ele":[{"keb":"電子受容体","composition":"電子 受容体","dependencies":"電子 受容 体 受容体","kanji":"電 子 受 容 体"}]}
 {"ent_seq":2867810}
 {"ent_seq":2867811,"k_ele":[{"keb":"峠バトル","composition":"峠 バトル","dependencies":"峠 バトル","kanji":"峠"}]}
+{"ent_seq":2867812,"k_ele":[{"keb":"プレセペ星団","composition":"プレセペ 星団","dependencies":"プレセペ 星団","kanji":"星 団"}]}
+{"ent_seq":2867813,"k_ele":[{"keb":"積尸気","composition":"積 尸 気","dependencies":"積 屍 尸 気","kanji":"積 尸 気"}]}
+{"ent_seq":2867814,"k_ele":[{"keb":"積屍気","composition":"積 屍 気","dependencies":"積 屍 気","kanji":"積 屍 気"}]}
 {"ent_seq":2867815,"k_ele":[{"keb":"擦傷","composition":"擦り傷","dependencies":"擦り傷","kanji":"擦 傷"}]}
 {"ent_seq":2867816,"k_ele":[{"keb":"独占販売権","composition":"独占 販売権","dependencies":"独占 販売 権 販売権","kanji":"独 占 販 売 権"}]}
 {"ent_seq":2867817,"k_ele":[{"keb":"ＮＳＣ","composition":"NSC","dependencies":"NSC"}]}
@@ -6807,12 +6806,111 @@
 {"ent_seq":2867828,"k_ele":[{"keb":"販売権","composition":"販売 権","dependencies":"販売 権","dependents":"一手販売権 独占販売権","kanji":"販 売 権"}]}
 {"ent_seq":2867829}
 {"ent_seq":2867830}
+{"ent_seq":2867831}
+{"ent_seq":2867832,"k_ele":[{"keb":"ＳＥＭ","composition":"Sem","dependencies":"Sem"}]}
+{"ent_seq":2867833,"k_ele":[{"keb":"ＳＥＭ","composition":"Sem","dependencies":"Sem"}]}
 {"ent_seq":2867834,"k_ele":[{"keb":"システム工学","composition":"システム 工学","dependencies":"システム 工学","kanji":"工 学"}]}
 {"ent_seq":2867835,"k_ele":[{"keb":"計算機工学","composition":"計算機 工学","dependencies":"計算 機 計算機 工学","kanji":"計 算 機 工 学"}]}
 {"ent_seq":2867836,"k_ele":[{"keb":"コンピュータ工学","composition":"コンピュータ 工学","dependencies":"コンピューター コンピュータ 工学","kanji":"工 学"},{"keb":"コンピューター工学","composition":"コンピューター 工学","dependencies":"コンピューター 工学","kanji":"工 学"}]}
+{"ent_seq":2867837}
 {"ent_seq":2867838,"k_ele":[{"keb":"無果汁","composition":"無 果汁","dependencies":"無 果汁","kanji":"無 果 汁"}]}
+{"ent_seq":2867839,"k_ele":[{"keb":"照空灯","composition":"照空 灯","dependencies":"照空 明かり 灯","kanji":"照 空 灯"},{"keb":"照空燈","composition":"照空 燈","dependencies":"照空 明かり 燈","kanji":"照 空 燈"}]}
+{"ent_seq":2867840,"k_ele":[{"keb":"財布の紐を緩める","composition":"財布 の 紐 を 緩める","dependencies":"財布 の 紐 を 緩める","kanji":"財 布 紐 緩"},{"keb":"財布のひもを緩める","composition":"財布 の ひも を 緩める","dependencies":"財布 の ひも を 緩める","kanji":"財 布 緩"}]}
+{"ent_seq":2867841}
 {"ent_seq":2867842}
+{"ent_seq":2867843,"k_ele":[{"keb":"年がいく","composition":"年 が いく","dependencies":"年 が 行く いく","kanji":"年"},{"keb":"年が行く","composition":"年 が 行く","dependencies":"年 が 行く","kanji":"年 行"},{"keb":"としが行く","composition":"とし が 行く","dependencies":"とし が 行く","kanji":"行"}]}
+{"ent_seq":2867844}
 {"ent_seq":2867845}
+{"ent_seq":2867846,"k_ele":[{"keb":"並び称する","composition":"並び 称する","dependencies":"並び 称する","kanji":"並 称"}]}
+{"ent_seq":2867847,"k_ele":[{"keb":"アメリカ合衆国本土","composition":"アメリカ合衆国 本土","dependencies":"アメリカ 合衆 国 合衆国 アメリカ合衆国 本土","kanji":"合 衆 国 本 土"}]}
+{"ent_seq":2867848,"k_ele":[{"keb":"アメリカ本土","composition":"アメリカ 本土","dependencies":"アメリカ 本土","kanji":"本 土"}]}
+{"ent_seq":2867850}
+{"ent_seq":2867851,"k_ele":[{"keb":"ドーピング検査","composition":"ドーピング 検査","dependencies":"ドーピング 検査","kanji":"検 査"}]}
+{"ent_seq":2867852,"k_ele":[{"keb":"洋服お直し","composition":"洋服 お 直し","dependencies":"洋服 御 お 直し","kanji":"洋 服 直"},{"keb":"洋服直し","composition":"洋服 直し","dependencies":"洋服 直し","kanji":"洋 服 直"}]}
+{"ent_seq":2867853,"k_ele":[{"keb":"迷える","composition":"迷え る","dependencies":"迷う 迷え り る","kanji":"迷"}]}
+{"ent_seq":2867854,"k_ele":[{"keb":"大酒","kanji":"大 酒"}]}
+{"ent_seq":2867855,"k_ele":[{"keb":"ＦＩＲＥ","composition":"FIRE ファイア","dependencies":"FIRE ファイア"}]}
+{"ent_seq":2867856,"k_ele":[{"keb":"非腐食性","composition":"非 腐食性","dependencies":"非 腐食 性 腐食性","kanji":"非 腐 食 性"}]}
+{"ent_seq":2867857}
+{"ent_seq":2867858,"k_ele":[{"keb":"口腔病理学","composition":"口腔 病理学","dependencies":"口腔 病理 学 病理学","kanji":"口 腔 病 理 学"}]}
+{"ent_seq":2867859,"k_ele":[{"keb":"当て振り","composition":"当て 振り","dependencies":"当て 振り","kanji":"当 振"}]}
+{"ent_seq":2867860,"k_ele":[{"keb":"工業薬品","composition":"工業 薬品","dependencies":"工業 薬品","kanji":"工 業 薬 品"}]}
+{"ent_seq":2867861,"k_ele":[{"keb":"裄丈","composition":"裄 丈","dependencies":"裄 丈","kanji":"裄 丈"}]}
+{"ent_seq":2867862}
+{"ent_seq":2867863,"k_ele":[{"keb":"ピカ新","composition":"ピカ 新","dependencies":"ぴか ピカ 新","kanji":"新"},{"keb":"ぴか新","composition":"ぴか 新","dependencies":"ぴか 新","kanji":"新"}]}
+{"ent_seq":2867864,"k_ele":[{"keb":"他撮り","composition":"他 撮り","dependencies":"他 撮る 撮り","kanji":"他 撮"}]}
+{"ent_seq":2867865,"k_ele":[{"keb":"注射剤","composition":"注射 剤","dependencies":"注射 剤","kanji":"注 射 剤"}]}
+{"ent_seq":2867866,"k_ele":[{"keb":"ＮＷ","composition":"NW","dependencies":"NW"}]}
+{"ent_seq":2867868,"k_ele":[{"keb":"補充券","composition":"補充 券","dependencies":"補充 券","kanji":"補 充 券"}]}
+{"ent_seq":2867869,"k_ele":[{"keb":"並び称される","composition":"並び 称さ れる","dependencies":"並び 称する 称す 称さ れる","kanji":"並 称"}]}
+{"ent_seq":2867870,"k_ele":[{"keb":"臨床研修","composition":"臨床 研修","dependencies":"臨床 研修","kanji":"臨 床 研 修"}]}
+{"ent_seq":2867871,"k_ele":[{"keb":"初期臨床研修","composition":"初期 臨床 研修","dependencies":"初期 臨床 研修","kanji":"初 期 臨 床 研 修"}]}
+{"ent_seq":2867872,"k_ele":[{"keb":"後期臨床研修","composition":"後期 臨床 研修","dependencies":"後期 臨床 研修","kanji":"後 期 臨 床 研 修"}]}
+{"ent_seq":2867873,"k_ele":[{"keb":"臨床的","composition":"臨床 的","dependencies":"臨床 的","kanji":"臨 床 的"}]}
+{"ent_seq":2867874,"k_ele":[{"keb":"専攻医","composition":"専攻 医","dependencies":"専攻 医","kanji":"専 攻 医"}]}
+{"ent_seq":2867875,"k_ele":[{"keb":"発達ケア","composition":"発達 ケア","dependencies":"発達 ケア","kanji":"発 達"}]}
+{"ent_seq":2867876,"k_ele":[{"keb":"ＤＣ","composition":"DC","dependencies":"DC","dependents":"ワシントンＤＣ"}]}
+{"ent_seq":2867877,"k_ele":[{"keb":"専修医","composition":"専修 医","dependencies":"専修 医","kanji":"専 修 医"}]}
+{"ent_seq":2867878,"k_ele":[{"keb":"後期研修医","composition":"後期 研修医","dependencies":"後期 研修 医 研修医","kanji":"後 期 研 修 医"}]}
+{"ent_seq":2867879,"k_ele":[{"keb":"財布の紐","composition":"財布 の 紐","dependencies":"財布 の 紐","kanji":"財 布 紐"},{"keb":"財布のひも","composition":"財布 の ひも","dependencies":"財布 の ひも","kanji":"財 布"}]}
+{"ent_seq":2867880,"k_ele":[{"keb":"ここを先途と","composition":"ここ を 先途 と","dependencies":"此処 ここ を 先途 と","kanji":"先 途"},{"keb":"此処を先途と","composition":"此処 を 先途 と","dependencies":"此処 を 先途 と","kanji":"此 処 先 途"}]}
+{"ent_seq":2867881}
+{"ent_seq":2867882,"k_ele":[{"keb":"過剰包装","composition":"過剰 包装","dependencies":"過剰 包装","kanji":"過 剰 包 装"}]}
+{"ent_seq":2867883,"k_ele":[{"keb":"仕事先","kanji":"仕 事 先"}]}
+{"ent_seq":2867884}
+{"ent_seq":2867885}
+{"ent_seq":2867889}
+{"ent_seq":2867891}
+{"ent_seq":2867892}
+{"ent_seq":2867893}
+{"ent_seq":2867894}
+{"ent_seq":2867895}
+{"ent_seq":2867896}
+{"ent_seq":2867899}
+{"ent_seq":2867900}
+{"ent_seq":2867901,"k_ele":[{"keb":"河身","composition":"河 身","dependencies":"河 身","kanji":"河 身"}]}
+{"ent_seq":2867902}
+{"ent_seq":2867903,"k_ele":[{"keb":"諸州","kanji":"諸 州"}]}
+{"ent_seq":2867904,"k_ele":[{"keb":"耐空証明","composition":"耐空 証明","dependencies":"耐空 証明","kanji":"耐 空 証 明"}]}
+{"ent_seq":2867905,"k_ele":[{"keb":"総合診療医","composition":"総合 診療 医","dependencies":"総合 診療 医","kanji":"総 合 診 療 医"}]}
+{"ent_seq":2867906,"k_ele":[{"keb":"総合医","composition":"総合 医","dependencies":"総合 医","kanji":"総 合 医"}]}
+{"ent_seq":2867907}
+{"ent_seq":2867908,"k_ele":[{"keb":"歯科インプラント","composition":"歯科 インプラント","dependencies":"歯科 インプラント","kanji":"歯 科"}]}
+{"ent_seq":2867909,"k_ele":[{"keb":"人工歯根","composition":"人工 歯根","dependencies":"人工 歯根","kanji":"人 工 歯 根"}]}
+{"ent_seq":2867910,"k_ele":[{"keb":"放物運動","composition":"放物 運動","dependencies":"放物 運動","kanji":"放 物 運 動"}]}
+{"ent_seq":2867911,"k_ele":[{"keb":"五方","composition":"五 方","dependencies":"五 方","kanji":"五 方"}]}
+{"ent_seq":2867913,"k_ele":[{"keb":"対外試合","composition":"対外 試合","dependencies":"対外 試合","kanji":"対 外 試 合"}]}
+{"ent_seq":2867914,"k_ele":[{"keb":"乱闘騒ぎ","composition":"乱闘 騒ぎ","dependencies":"乱闘 騒ぎ","kanji":"乱 闘 騒"},{"keb":"乱闘さわぎ","composition":"乱闘 さわぎ","dependencies":"乱闘 騒ぎ さわぎ","kanji":"乱 闘"}]}
+{"ent_seq":2867916,"k_ele":[{"keb":"其れにつけても","composition":"其れ に つけ て も","dependencies":"其れ に つける つけ で て も","kanji":"其"}]}
+{"ent_seq":2867917}
+{"ent_seq":2867918,"k_ele":[{"keb":"反射性失神","composition":"反射 性 失神","dependencies":"反射 性 失神","kanji":"反 射 性 失 神"}]}
+{"ent_seq":2867951,"k_ele":[{"keb":"神経原性","composition":"神経 原 性","dependencies":"神経 原 性","kanji":"神 経 原 性"}]}
+{"ent_seq":2868017}
+{"ent_seq":2868018}
+{"ent_seq":2868019,"k_ele":[{"keb":"電気錠","composition":"電気 錠","dependencies":"電気 錠","kanji":"電 気 錠"}]}
+{"ent_seq":2868020,"k_ele":[{"keb":"電子錠","composition":"電子 錠","dependencies":"電子 錠","kanji":"電 子 錠"}]}
+{"ent_seq":2868021,"k_ele":[{"keb":"電子ロック","composition":"電子 ロック","dependencies":"電子 ロック","kanji":"電 子"}]}
+{"ent_seq":2868022,"k_ele":[{"keb":"出船","kanji":"出 船"}]}
+{"ent_seq":2868023,"k_ele":[{"keb":"ＣＶＳ","composition":"CVS","dependencies":"CVS"}]}
+{"ent_seq":2868024,"k_ele":[{"keb":"ＶＤＴ症候群","composition":"ＶＤＴ 症候群","dependencies":"VDT ＶＤＴ 症候 群 症候群","kanji":"症 候 群"}]}
+{"ent_seq":2868025,"k_ele":[{"keb":"コンピュータービジョン症候群","composition":"コンピューター ビジョン 症候群","dependencies":"コンピューター ビジョン 症候 群 症候群","kanji":"症 候 群"},{"keb":"コンピュータビジョン症候群","composition":"コンピュータ ビジョン 症候群","dependencies":"コンピューター コンピュータ ビジョン 症候 群 症候群","kanji":"症 候 群"}]}
+{"ent_seq":2868027}
+{"ent_seq":2868028,"k_ele":[{"keb":"絨毛検査","composition":"絨毛 検査","dependencies":"絨毛 検査","kanji":"絨 毛 検 査"}]}
+{"ent_seq":2868029,"k_ele":[{"keb":"ＫＹＣ"}]}
+{"ent_seq":2868030,"k_ele":[{"keb":"絨毛診断","composition":"絨毛 診断","dependencies":"絨毛 診断","kanji":"絨 毛 診 断"}]}
+{"ent_seq":2868031,"k_ele":[{"keb":"絨毛穿刺","composition":"絨毛 穿刺","dependencies":"絨毛 穿刺","kanji":"絨 毛 穿 刺"}]}
+{"ent_seq":2868032}
+{"ent_seq":2868033}
+{"ent_seq":2868034}
+{"ent_seq":2868035,"k_ele":[{"keb":"液漏れ","kanji":"液 漏"}]}
+{"ent_seq":2868036,"k_ele":[{"keb":"過放電","composition":"過 放電","dependencies":"過ぎる 過る 過 放電","kanji":"過 放 電"}]}
+{"ent_seq":2868037,"k_ele":[{"keb":"終止電圧","composition":"終止 電圧","dependencies":"終止 電圧","kanji":"終 止 電 圧"}]}
+{"ent_seq":2868038}
+{"ent_seq":2868039,"k_ele":[{"keb":"外膜","dependents":"心外膜炎","kanji":"外 膜"}]}
+{"ent_seq":2868040,"k_ele":[{"keb":"湖水爆発","composition":"湖水 爆発","dependencies":"湖水 爆発","kanji":"湖 水 爆 発"}]}
+{"ent_seq":2868041,"k_ele":[{"keb":"真菌学","composition":"真菌 学","dependencies":"真菌 学","kanji":"真 菌 学"}]}
+{"ent_seq":2868042,"k_ele":[{"keb":"腸絨毛","composition":"腸 絨毛","dependencies":"腸 絨毛","kanji":"腸 絨 毛"}]}
+{"ent_seq":2868043,"k_ele":[{"keb":"絨毛膜絨毛","composition":"絨毛 膜 絨毛","dependencies":"絨毛 膜","kanji":"絨 毛 膜 絨 毛"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -7632,6 +7730,7 @@
 {"ent_seq":5060760,"k_ele":[{"keb":"ハー大","composition":"ハー 大","dependencies":"はあ ハー 大","kanji":"大"}]}
 {"ent_seq":5060798}
 {"ent_seq":5060799}
+{"ent_seq":5060865}
 {"ent_seq":5060888}
 {"ent_seq":5061183}
 {"ent_seq":5061184}
@@ -8131,7 +8230,6 @@
 {"ent_seq":5115734,"k_ele":[{"keb":"伊豆急行","composition":"伊豆 急行","dependencies":"伊豆 急行","kanji":"伊 豆 急 行"}]}
 {"ent_seq":5117408,"k_ele":[{"keb":"夷隅養護学校","composition":"夷隅 養護学校","dependencies":"夷隅 養護 学校 養護学校","kanji":"夷 隅 養 護 学 校"}]}
 {"ent_seq":5118442,"k_ele":[{"keb":"意匠学会","composition":"意匠 学会","dependencies":"意匠 学会","kanji":"意 匠 学 会"}]}
-{"ent_seq":5120085,"k_ele":[{"keb":"医薬安全局","composition":"医薬 安全 局","dependencies":"医薬 安全 局","kanji":"医 薬 安 全 局"}]}
 {"ent_seq":5120086,"k_ele":[{"keb":"医薬工業協会","composition":"医薬 工業 協会","dependencies":"医薬 工業 協会","kanji":"医 薬 工 業 協 会"}]}
 {"ent_seq":5120088,"k_ele":[{"keb":"医薬品情報協会","composition":"医薬品 情報 協会","dependencies":"医薬 品 医薬品 情報 協会","kanji":"医 薬 品 情 報 協 会"}]}
 {"ent_seq":5120090,"k_ele":[{"keb":"医用画像情報学会","composition":"医用 画像 情報 学会","dependencies":"医用 画像 情報 学会","kanji":"医 用 画 像 情 報 学 会"}]}
@@ -8557,7 +8655,7 @@
 {"ent_seq":5220339,"k_ele":[{"keb":"京葉線","composition":"京葉 線","dependencies":"京葉 線","kanji":"京 葉 線"}]}
 {"ent_seq":5220390,"k_ele":[{"keb":"供給管理協会","composition":"供給 管理 協会","dependencies":"供給 管理 協会","kanji":"供 給 管 理 協 会"}]}
 {"ent_seq":5220418,"k_ele":[{"keb":"侠友会","composition":"侠 友 会","dependencies":"侠 友 会","kanji":"侠 友 会"},{"keb":"俠友会","composition":"俠 友 会","dependencies":"俠 友 会","kanji":"俠 友 会"}]}
-{"ent_seq":5220560,"k_ele":[{"keb":"共同","dependents":"ポルトガル語諸国共同体 上海共同租界 中央共同募金会 共同一致 共同不法行為 共同事業 共同井戸 共同代表 共同企業 共同企業体 共同会見 共同住宅 共同体 共同体主義 共同体意識 共同作業 共同作業所 共同使用 共同使用駅 共同便所 共同保険 共同出資 共同利用型音声照会通知システム 共同制作 共同創業者 共同創立者 共同創設者 共同募金 共同参画 共同因子 共同墓地 共同声明 共同実験 共同宣言 共同宣誓供述書 共同居留地 共同市場 共同性 共同戦線 共同持ち株会社 共同捜査 共同提出 共同支配 共同救済基金 共同文書 共同新聞 共同施設税 共同栓 共同権利者 共同正犯 共同水栓 共同決定法 共同浴 共同浴場 共同海損 共同湯 共同溝 共同炊事場 共同生活 共同生産 共同疎開 共同発明 共同監督 共同相続 共同相続人 共同研究 共同社会 共同祖界 共同租界 共同管理 共同組合 共同経営 共同絶交 共同線 共同署名 共同義務者 共同者 共同視聴 共同親権 共同計算 共同訓練 共同記者会見 共同謀議 共同責任 共同購入 共同軍事演習 共同農場 共同通信 共同通信社 共同運航 共同運航便 共同運行 共同運行便 共同遺言 共同開発 共同闘争 共同防衛 共同電話 共謀共同正犯 南米共同市場 南米南部共同市場 原始共同体 岡崎国立共同研究機構 新共同訳 村落共同体 欧州共同体 欧州原子力共同体 欧州経済共同体 独立国家共同体 男女共同参画 男女共同参画会議 男女共同参画推進条例 男女共同参画社会 男女共同参画社会基本法 運命共同体","kanji":"共 同"}]}
+{"ent_seq":5220560,"k_ele":[{"keb":"共同","dependents":"ポルトガル語諸国共同体 上海共同租界 中央共同募金会 共同一致 共同不法行為 共同事業 共同井戸 共同代表 共同企業 共同企業体 共同会見 共同住宅 共同体 共同体主義 共同体意識 共同作業 共同作業所 共同使用 共同使用駅 共同便所 共同保険 共同出資 共同利用型音声照会通知システム 共同制作 共同創業者 共同創立者 共同創設者 共同募金 共同参画 共同因子 共同墓地 共同声明 共同実験 共同宣言 共同宣誓供述書 共同居留地 共同市場 共同性 共同戦線 共同持ち株会社 共同捜査 共同提出 共同支配 共同救済基金 共同文書 共同新聞 共同施設税 共同栓 共同権利者 共同正犯 共同水栓 共同決定法 共同浴 共同浴場 共同海損 共同湯 共同溝 共同炊事場 共同生活 共同生産 共同疎開 共同発明 共同監督 共同相続 共同相続人 共同研究 共同社会 共同租界 共同管理 共同組合 共同経営 共同絶交 共同線 共同署名 共同義務者 共同者 共同視聴 共同親権 共同計算 共同訓練 共同記者会見 共同謀議 共同責任 共同購入 共同軍事演習 共同農場 共同通信 共同通信社 共同運航 共同運航便 共同運行 共同運行便 共同遺言 共同開発 共同闘争 共同防衛 共同電話 共謀共同正犯 南米共同市場 南米南部共同市場 原始共同体 岡崎国立共同研究機構 新共同訳 村落共同体 欧州共同体 欧州原子力共同体 欧州経済共同体 独立国家共同体 男女共同参画 男女共同参画会議 男女共同参画推進条例 男女共同参画社会 男女共同参画社会基本法 運命共同体","kanji":"共 同"}]}
 {"ent_seq":5220564,"k_ele":[{"keb":"共同新聞","composition":"共同 新聞","dependencies":"共同 新聞","kanji":"共 同 新 聞"}]}
 {"ent_seq":5220599,"k_ele":[{"keb":"共立女子大学","composition":"共立 女子 大学","dependencies":"共立 女子 大学","kanji":"共 立 女 子 大 学"}]}
 {"ent_seq":5220602,"k_ele":[{"keb":"共立薬科大学","composition":"共立 薬科 大学","dependencies":"共立 薬科 大学","kanji":"共 立 薬 科 大 学"}]}
@@ -8680,7 +8778,7 @@
 {"ent_seq":5244140,"k_ele":[{"keb":"軽金属製品協会","composition":"軽金属 製品 協会","dependencies":"軽 金属 軽金属 製品 協会","kanji":"軽 金 属 製 品 協 会"}]}
 {"ent_seq":5244151,"k_ele":[{"keb":"軽自動車検査協会","composition":"軽自動車 検査 協会","dependencies":"軽 自動車 軽自動車 検査 協会","kanji":"軽 自 動 車 検 査 協 会"}]}
 {"ent_seq":5244267,"k_ele":[{"keb":"芸術の森美術館","composition":"芸術 の 森 美術館","dependencies":"芸術 の 森 美術 館 美術館","kanji":"芸 術 森 美 術 館"}]}
-{"ent_seq":5244275,"k_ele":[{"keb":"芸大","dependents":"大阪芸大","kanji":"芸 大"}]}
+{"ent_seq":5244275,"k_ele":[{"keb":"藝大","composition":"藝 大","dependencies":"芸 藝 大","kanji":"藝 大"},{"keb":"芸大","dependents":"大阪芸大","kanji":"芸 大"}]}
 {"ent_seq":5244281,"k_ele":[{"keb":"芸備線","composition":"芸備 線","dependencies":"芸備 線","kanji":"芸 備 線"}]}
 {"ent_seq":5244415,"k_ele":[{"keb":"劇団四季","composition":"劇団 四季","dependencies":"劇団 四季","kanji":"劇 団 四 季"}]}
 {"ent_seq":5245608,"k_ele":[{"keb":"血液学会","composition":"血液 学会","dependencies":"血液 学会","kanji":"血 液 学 会"}]}
@@ -14046,3 +14144,6 @@
 {"ent_seq":5747425,"k_ele":[{"keb":"ＤｅｅｐＬ翻訳","composition":"ＤｅｅｐＬ 翻訳","dependencies":"ＤｅｅｐＬ 翻訳","kanji":"翻 訳"},{"keb":"ディープエル翻訳","composition":"ディープエル 翻訳","dependencies":"ディープエル 翻訳","kanji":"翻 訳"}]}
 {"ent_seq":5747433,"k_ele":[{"keb":"株探","composition":"株 探","dependencies":"株 探","kanji":"株 探"}]}
 {"ent_seq":5747436,"k_ele":[{"keb":"Ｐｉｘ"},{"keb":"ＰＩＸ"}]}
+{"ent_seq":5747446,"k_ele":[{"keb":"日本専門医機構","composition":"日本 専門医 機構","dependencies":"日本 専門 医 専門医 機構","kanji":"日 本 専 門 医 機 構"}]}
+{"ent_seq":5747447,"k_ele":[{"keb":"日本歯科専門医機構","composition":"日本 歯科 専門医 機構","dependencies":"日本 歯科 専門 医 専門医 機構","kanji":"日 本 歯 科 専 門 医 機 構"}]}
+{"ent_seq":5747450,"k_ele":[{"keb":"国連緊急軍","composition":"国連 緊急 軍","dependencies":"国連 緊急 軍","kanji":"国 連 緊 急 軍"}]}

@@ -1,12 +1,3 @@
-{"ent_seq":2860614,"k_ele":[{"keb":"小突起","composition":"小 突起","dependencies":"小 突起","kanji":"小 突 起"}]}
-{"ent_seq":2860615,"k_ele":[{"keb":"中間業者","composition":"中間 業 者","dependencies":"中間 業 者","kanji":"中 間 業 者"}]}
-{"ent_seq":2860616}
-{"ent_seq":2860617,"k_ele":[{"keb":"猫睛石","composition":"猫 睛 石","dependencies":"猫 瞳 睛 石","kanji":"猫 睛 石"}]}
-{"ent_seq":2860618,"k_ele":[{"keb":"時を越えて","composition":"時 を 越え て","dependencies":"時 を 越える 越え で て","kanji":"時 越"},{"keb":"時を超えて","composition":"時 を 超え て","dependencies":"時 を 越える 越え 超え で て","kanji":"時 超"},{"keb":"時をこえて","composition":"時 を こえ て","dependencies":"時 を 声 こえ で て","kanji":"時"}]}
-{"ent_seq":2860619}
-{"ent_seq":2860620}
-{"ent_seq":2860621}
-{"ent_seq":2860622}
 {"ent_seq":2860623,"k_ele":[{"keb":"九州料理","composition":"九州 料理","dependencies":"九州 料理","kanji":"九 州 料 理"}]}
 {"ent_seq":2860624,"k_ele":[{"keb":"小っさい","composition":"小 っ さい","dependencies":"小 っ 際 さい","kanji":"小"}]}
 {"ent_seq":2860625,"k_ele":[{"keb":"小っさな","composition":"小 っ さ な","dependencies":"小 っ さ だ な","kanji":"小"}]}
@@ -6120,7 +6111,7 @@
 {"ent_seq":2867121,"k_ele":[{"keb":"五十集","composition":"五十 集","dependencies":"五十 集","kanji":"五 十 集"}]}
 {"ent_seq":2867122}
 {"ent_seq":2867123,"k_ele":[{"keb":"満腹度","composition":"満腹 度","dependencies":"満腹 度","kanji":"満 腹 度"}]}
-{"ent_seq":2867124,"k_ele":[{"keb":"下ル","kanji":"下"},{"keb":"下","dependents":"くも膜下出血 くも膜下腔 その下で その下に わきの下 ガード下 クモ膜下出血 クモ膜下腔 サムエル記下 ズボン下 トップ下 一撃の下に 一枚下 上と下 上や下への大騒ぎ 上を下へ 上を下への大騒ぎ 上中下 下がかる 下げいこ 下つき 下づみ 下に 下にでる 下にもおかない 下にもおかぬ 下にも置かない 下にも置かぬ 下に出る 下に厚く 下に見る 下の下 下の世話 下の人 下の名前 下の子 下の毛 下の部屋 下の階 下ら 下らない 下らぬ 下らん 下パイ 下一 下一段 下一段活用 下三角行列 下世話 下二段活用 下付き 下付き文字 下付き添え字 下付き添字 下刷り 下剃り 下前頭回 下区動脈 下医 下半期 下半身 下協議 下合 下咽頭がん 下咽頭ガン 下咽頭癌 下喉頭動脈 下四半期 下士官 下士官学校 下大静脈 下女中 下姓 下層雲 下張 下御 下意識 下慣らし 下手投げ 下手捻り 下拍 下揃え 下描き 下摺り 下染 下染め 下検分 下検査 下様 下毒 下民 下気道 下水道 下水道管渠 下洗い 下淫 下渋り 下準備 下甲状腺動脈 下町言葉 下盤 下相談 下瞰 下矢印キー 下稽古 下立つ 下等 下等動物 下等植物 下等生物 下篇 下絵の具 下編 下聞 下聞き 下肴 下脚 下腸間膜動脈 下膳 下臣 下臼 下茹 下萌 下萠 下葺き 下詰め 下読 下議 下貼 下部屋 下馴し 下鼓室動脈 中の下 値下 几下 刀下 列王記下 制御下 勇将の下に弱卒なし 勇将の下に弱卒無し 勢力下に 化粧下 占領下 卸下 咽下 天の下 尊下 尿道下裂 形而下 影響下 息の下 意識下 戦時下 指導の下に 支配下 政権下 日本下水道事業団 曲線下面積 木の下 木の下闇 板子一枚下は地獄 柳の下にいつも泥鰌はいない 柳の下にいつも泥鰌はおらぬ 柳の下に何時も泥鰌は居ない 柳の下に何時も泥鰌は居らぬ 桃李もの言わざれども下自ら蹊を成す 桃李物言わざれども下自ずから蹊を成す 桃李物言わざれども下自ら蹊を成す 棘下筋 歴代誌下 水面下 氷点下 沓下 法の下の平等 海面下 灯台下暗し 炎天下 状況下 白日の下にさらす 白日の下に晒す 監視下 目の下 県下 硬膜下出血 硬膜下血腫 組み下 統治下 聖下 肋下動脈 艮下艮上 蜘蛛膜下出血 蜘蛛膜下腔 衿下 覇下 視床下核 通常条件下で 鎖骨下動脈 長靴下 閾値下 階段下 雁下 鞍下 音声下言語 鼻の下 鼻の下が長い 鼻の下を伸ばす","kanji":"下"}]}
+{"ent_seq":2867124,"k_ele":[{"keb":"下ル","kanji":"下"},{"keb":"下","dependents":"くも膜下出血 くも膜下腔 その下で その下に わきの下 ガード下 クモ膜下出血 クモ膜下腔 サムエル記下 ズボン下 トップ下 一撃の下に 一枚下 上と下 上や下への大騒ぎ 上を下へ 上を下への大騒ぎ 上中下 下がかる 下げいこ 下つき 下づみ 下に 下にでる 下にもおかない 下にもおかぬ 下にも置かない 下にも置かぬ 下に出る 下に厚く 下に見る 下の下 下の世話 下の人 下の名前 下の子 下の毛 下の部屋 下の階 下ら 下らない 下らぬ 下らん 下パイ 下一 下一段 下一段活用 下三角行列 下世話 下二段活用 下付き 下付き文字 下付き添え字 下付き添字 下刷り 下剃り 下前頭回 下区動脈 下医 下半期 下半身 下協議 下合 下咽頭がん 下咽頭ガン 下咽頭癌 下喉頭動脈 下四半期 下士官 下士官学校 下大静脈 下女中 下姓 下層雲 下張 下御 下意識 下慣らし 下手投げ 下手捻り 下拍 下揃え 下描き 下摺り 下染 下染め 下検分 下検査 下様 下毒 下民 下気道 下水道 下水道管渠 下洗い 下淫 下渋り 下準備 下甲状腺動脈 下町言葉 下盤 下相談 下瞰 下矢印キー 下稽古 下立つ 下等 下等動物 下等植物 下等生物 下篇 下絵の具 下編 下聞 下聞き 下肴 下脚 下腸間膜動脈 下膳 下臣 下臼 下茹 下萌 下萠 下葺き 下詰め 下読 下議 下貼 下部屋 下馴し 下鼓室動脈 中の下 値下 几下 刀下 列王記下 制御下 勇将の下に弱卒なし 勇将の下に弱卒無し 勢力下に 化粧下 占領下 卸下 咽下 天の下 尊下 尿道下裂 形而下 影響下 息の下 意識下 戦時下 指導の下に 支配下 政権下 日本下水道事業団 曲線下面積 木の下 木の下闇 板子一枚下は地獄 柳の下にいつも泥鰌はいない 柳の下にいつも泥鰌はおらぬ 柳の下に何時も泥鰌は居ない 柳の下に何時も泥鰌は居らぬ 桃李もの言わざれども下自ら蹊を成す 桃李物言わざれども下自ずから蹊を成す 桃李物言わざれども下自ら蹊を成す 棘下筋 歴代誌下 水面下 氷点下 沓下 法の下の平等 海面下 灯台下暗し 炎天下 状況下 白日の下にさらす 白日の下に晒す 監視下 目の下 県下 硬膜下出血 硬膜下血腫 組み下 統治下 聖下 肋下動脈 腹腔鏡下手術 艮下艮上 蜘蛛膜下出血 蜘蛛膜下腔 衿下 覇下 視床下核 通常条件下で 鎖骨下動脈 長靴下 閾値下 階段下 雁下 鞍下 音声下言語 鼻の下 鼻の下が長い 鼻の下を伸ばす","kanji":"下"}]}
 {"ent_seq":2867125,"k_ele":[{"keb":"重い口を開く","composition":"重い 口 を 開く","dependencies":"重い 口 を 開く","kanji":"重 口 開"}]}
 {"ent_seq":2867126,"k_ele":[{"keb":"格調高い","composition":"格調 高い","dependencies":"格調 高い","kanji":"格 調 高"}]}
 {"ent_seq":2867127,"k_ele":[{"keb":"天元戦","composition":"天元 戦","dependencies":"天元 戦","kanji":"天 元 戦"}]}
@@ -6859,13 +6850,16 @@
 {"ent_seq":2867883,"k_ele":[{"keb":"仕事先","kanji":"仕 事 先"}]}
 {"ent_seq":2867884}
 {"ent_seq":2867885}
+{"ent_seq":2867886}
 {"ent_seq":2867889}
+{"ent_seq":2867890}
 {"ent_seq":2867891}
 {"ent_seq":2867892}
 {"ent_seq":2867893}
 {"ent_seq":2867894}
 {"ent_seq":2867895}
 {"ent_seq":2867896}
+{"ent_seq":2867897}
 {"ent_seq":2867899}
 {"ent_seq":2867900}
 {"ent_seq":2867901,"k_ele":[{"keb":"河身","composition":"河 身","dependencies":"河 身","kanji":"河 身"}]}
@@ -6879,12 +6873,15 @@
 {"ent_seq":2867909,"k_ele":[{"keb":"人工歯根","composition":"人工 歯根","dependencies":"人工 歯根","kanji":"人 工 歯 根"}]}
 {"ent_seq":2867910,"k_ele":[{"keb":"放物運動","composition":"放物 運動","dependencies":"放物 運動","kanji":"放 物 運 動"}]}
 {"ent_seq":2867911,"k_ele":[{"keb":"五方","composition":"五 方","dependencies":"五 方","kanji":"五 方"}]}
+{"ent_seq":2867912,"k_ele":[{"keb":"魔剤","composition":"魔 剤","dependencies":"魔 剤","kanji":"魔 剤"}]}
 {"ent_seq":2867913,"k_ele":[{"keb":"対外試合","composition":"対外 試合","dependencies":"対外 試合","kanji":"対 外 試 合"}]}
 {"ent_seq":2867914,"k_ele":[{"keb":"乱闘騒ぎ","composition":"乱闘 騒ぎ","dependencies":"乱闘 騒ぎ","kanji":"乱 闘 騒"},{"keb":"乱闘さわぎ","composition":"乱闘 さわぎ","dependencies":"乱闘 騒ぎ さわぎ","kanji":"乱 闘"}]}
+{"ent_seq":2867915}
 {"ent_seq":2867916,"k_ele":[{"keb":"其れにつけても","composition":"其れ に つけ て も","dependencies":"其れ に つける つけ で て も","kanji":"其"}]}
 {"ent_seq":2867917}
 {"ent_seq":2867918,"k_ele":[{"keb":"反射性失神","composition":"反射 性 失神","dependencies":"反射 性 失神","kanji":"反 射 性 失 神"}]}
 {"ent_seq":2867951,"k_ele":[{"keb":"神経原性","composition":"神経 原 性","dependencies":"神経 原 性","kanji":"神 経 原 性"}]}
+{"ent_seq":2867984,"k_ele":[{"keb":"反射性","composition":"反射 性","dependencies":"反射 性","kanji":"反 射 性"}]}
 {"ent_seq":2868017}
 {"ent_seq":2868018}
 {"ent_seq":2868019,"k_ele":[{"keb":"電気錠","composition":"電気 錠","dependencies":"電気 錠","kanji":"電 気 錠"}]}
@@ -6894,6 +6891,7 @@
 {"ent_seq":2868023,"k_ele":[{"keb":"ＣＶＳ","composition":"CVS","dependencies":"CVS"}]}
 {"ent_seq":2868024,"k_ele":[{"keb":"ＶＤＴ症候群","composition":"ＶＤＴ 症候群","dependencies":"VDT ＶＤＴ 症候 群 症候群","kanji":"症 候 群"}]}
 {"ent_seq":2868025,"k_ele":[{"keb":"コンピュータービジョン症候群","composition":"コンピューター ビジョン 症候群","dependencies":"コンピューター ビジョン 症候 群 症候群","kanji":"症 候 群"},{"keb":"コンピュータビジョン症候群","composition":"コンピュータ ビジョン 症候群","dependencies":"コンピューター コンピュータ ビジョン 症候 群 症候群","kanji":"症 候 群"}]}
+{"ent_seq":2868026,"k_ele":[{"keb":"ＣＳ","composition":"CS","dependencies":"CS"}]}
 {"ent_seq":2868027}
 {"ent_seq":2868028,"k_ele":[{"keb":"絨毛検査","composition":"絨毛 検査","dependencies":"絨毛 検査","kanji":"絨 毛 検 査"}]}
 {"ent_seq":2868029,"k_ele":[{"keb":"ＫＹＣ"}]}
@@ -6911,6 +6909,97 @@
 {"ent_seq":2868041,"k_ele":[{"keb":"真菌学","composition":"真菌 学","dependencies":"真菌 学","kanji":"真 菌 学"}]}
 {"ent_seq":2868042,"k_ele":[{"keb":"腸絨毛","composition":"腸 絨毛","dependencies":"腸 絨毛","kanji":"腸 絨 毛"}]}
 {"ent_seq":2868043,"k_ele":[{"keb":"絨毛膜絨毛","composition":"絨毛 膜 絨毛","dependencies":"絨毛 膜","kanji":"絨 毛 膜 絨 毛"}]}
+{"ent_seq":2868044,"k_ele":[{"keb":"長軟毛","composition":"長 軟毛","dependencies":"長い 長 軟毛","kanji":"長 軟 毛"}]}
+{"ent_seq":2868045}
+{"ent_seq":2868046,"k_ele":[{"keb":"老人愛","composition":"老人 愛","dependencies":"老人 愛","kanji":"老 人 愛"}]}
+{"ent_seq":2868047,"k_ele":[{"keb":"コークス炉","composition":"コークス 炉","dependencies":"コークス 炉","kanji":"炉"}]}
+{"ent_seq":2868048,"k_ele":[{"keb":"接続箱","composition":"接続 箱","dependencies":"接続 箱","kanji":"接 続 箱"}]}
+{"ent_seq":2868049}
+{"ent_seq":2868050,"k_ele":[{"keb":"柔突起","composition":"柔 突起","dependencies":"柔 突起","kanji":"柔 突 起"}]}
+{"ent_seq":2868051,"k_ele":[{"keb":"老年痴呆","composition":"老年 痴呆","dependencies":"老年 痴呆","kanji":"老 年 痴 呆"}]}
+{"ent_seq":2868052,"k_ele":[{"keb":"加齢性白内障","composition":"加齢 性 白 内障","dependencies":"加齢 性 白 内障","kanji":"加 齢 性 白 内 障"}]}
+{"ent_seq":2868053,"k_ele":[{"keb":"アテローム性動脈硬化","composition":"アテローム 性 動脈 硬化","dependencies":"アテローム 性 動脈 硬化","kanji":"性 動 脈 硬 化"}]}
+{"ent_seq":2868054,"k_ele":[{"keb":"頸部血管超音波検査","composition":"頸部 血管 超音波 検査","dependencies":"頸部 血管 超 音波 超音波 検査","kanji":"頸 部 血 管 超 音 波 検 査"},{"keb":"頚部血管超音波検査","composition":"頚部 血管 超音波 検査","dependencies":"頸部 頚部 血管 超 音波 超音波 検査","kanji":"頚 部 血 管 超 音 波 検 査"}]}
+{"ent_seq":2868055,"k_ele":[{"keb":"超音波診断","composition":"超音波 診断","dependencies":"超 音波 超音波 診断","kanji":"超 音 波 診 断"}]}
+{"ent_seq":2868056}
+{"ent_seq":2868057}
+{"ent_seq":2868058,"k_ele":[{"keb":"低侵襲手術","composition":"低 侵襲 手術","dependencies":"低 侵襲 手術","kanji":"低 侵 襲 手 術"}]}
+{"ent_seq":2868059,"k_ele":[{"keb":"最小侵襲手術","composition":"最小 侵襲 手術","dependencies":"最小 侵襲 手術","kanji":"最 小 侵 襲 手 術"}]}
+{"ent_seq":2868060,"k_ele":[{"keb":"腹腔鏡下手術","composition":"腹腔 鏡 下 手術","dependencies":"腹腔 鏡 下 手術","kanji":"腹 腔 鏡 下 手 術"}]}
+{"ent_seq":2868061,"k_ele":[{"keb":"内部生","composition":"内部 生","dependencies":"内部 生","kanji":"内 部 生"}]}
+{"ent_seq":2868062,"k_ele":[{"keb":"外部生","composition":"外部 生","dependencies":"外部 生","kanji":"外 部 生"}]}
+{"ent_seq":2868063}
+{"ent_seq":2868064,"k_ele":[{"keb":"心の理論","composition":"心 の 理論","dependencies":"心 の 理論","kanji":"心 理 論"}]}
+{"ent_seq":2868065}
+{"ent_seq":2868066}
+{"ent_seq":2868067}
+{"ent_seq":2868068,"k_ele":[{"keb":"縮み笹","kanji":"縮 笹"},{"keb":"縮笹","composition":"縮 笹","dependencies":"縮み 縮 笹","kanji":"縮 笹"}]}
+{"ent_seq":2868069,"k_ele":[{"keb":"莪朮","kanji":"莪 朮"},{"keb":"莪蒁","kanji":"莪 蒁"}]}
+{"ent_seq":2868070,"k_ele":[{"keb":"胡瓜草","composition":"胡瓜 草","dependencies":"胡瓜 草","kanji":"胡 瓜 草"}]}
+{"ent_seq":2868071,"k_ele":[{"keb":"顧客情報","composition":"顧客 情報","dependencies":"顧客 情報","kanji":"顧 客 情 報"}]}
+{"ent_seq":2868072,"k_ele":[{"keb":"細菌叢","composition":"細菌 叢","dependencies":"細菌 叢","dependents":"腸内細菌叢","kanji":"細 菌 叢"}]}
+{"ent_seq":2868073}
+{"ent_seq":2868074}
+{"ent_seq":2868075,"k_ele":[{"keb":"病理学的","composition":"病理学 的","dependencies":"病理 学 病理学 的","kanji":"病 理 学 的"}]}
+{"ent_seq":2868076,"k_ele":[{"keb":"ディーゼル車","composition":"ディーゼル 車","dependencies":"ディーゼル 車","kanji":"車"}]}
+{"ent_seq":2868077,"k_ele":[{"keb":"大腸内視鏡検査","composition":"大腸 内視鏡 検査","dependencies":"大腸 内視 鏡 内視鏡 検査","kanji":"大 腸 内 視 鏡 検 査"}]}
+{"ent_seq":2868078,"k_ele":[{"keb":"上部消化管内視鏡","composition":"上部 消化 管内 視 鏡","dependencies":"上部 消化 管内 見る 視る 視 鏡","kanji":"上 部 消 化 管 内 視 鏡"}]}
+{"ent_seq":2868079,"k_ele":[{"keb":"胃カメラ検査","composition":"胃 カメラ 検査","dependencies":"胃 カメラ 検査","kanji":"胃 検 査"}]}
+{"ent_seq":2868080,"k_ele":[{"keb":"動力分散方式","composition":"動力 分散 方式","dependencies":"動力 分散 方式","kanji":"動 力 分 散 方 式"}]}
+{"ent_seq":2868081,"k_ele":[{"keb":"箱罠","kanji":"箱 罠"}]}
+{"ent_seq":2868082}
+{"ent_seq":2868083,"k_ele":[{"keb":"脳の霧","composition":"脳 の 霧","dependencies":"脳 の 霧","kanji":"脳 霧"}]}
+{"ent_seq":2868084,"k_ele":[{"keb":"燃料電池自動車","composition":"燃料 電池 自動車","dependencies":"燃料 電池 自動車","kanji":"燃 料 電 池 自 動 車"}]}
+{"ent_seq":2868085}
+{"ent_seq":2868086,"k_ele":[{"keb":"プラグインハイブリッド車","composition":"プラグイン ハイブリッド車","dependencies":"プラグイン ハイブリッド 車 ハイブリッド車","kanji":"車"}]}
+{"ent_seq":2868087}
+{"ent_seq":2868088}
+{"ent_seq":2868089,"k_ele":[{"keb":"ゼロエミッション車","composition":"ゼロエミッション 車","dependencies":"ゼロ エミッション ゼロエミッション 車","kanji":"車"}]}
+{"ent_seq":2868090,"k_ele":[{"keb":"大腸カメラ検査","composition":"大腸 カメラ 検査","dependencies":"大腸 カメラ 検査","kanji":"大 腸 検 査"}]}
+{"ent_seq":2868091,"k_ele":[{"keb":"打草驚蛇","composition":"打 草 驚 蛇","dependencies":"打 草 驚き 驚 蛇","kanji":"打 草 驚 蛇"}]}
+{"ent_seq":2868092,"k_ele":[{"keb":"人がましい","kanji":"人"}]}
+{"ent_seq":2868093,"k_ele":[{"keb":"証しを立てる","composition":"証し を 立てる","dependencies":"証し を 立てる","kanji":"証 立"}]}
+{"ent_seq":2868094,"k_ele":[{"keb":"文理学部","composition":"文理学 部","dependencies":"文理学 部","kanji":"文 理 学 部"}]}
+{"ent_seq":2868095,"k_ele":[{"keb":"形式科学","composition":"形式 科学","dependencies":"形式 科学","kanji":"形 式 科 学"}]}
+{"ent_seq":2868096,"k_ele":[{"keb":"嗅覚低下","composition":"嗅覚 低下","dependencies":"嗅覚 低下","kanji":"嗅 覚 低 下"}]}
+{"ent_seq":2868097}
+{"ent_seq":2868098,"k_ele":[{"keb":"国際性","composition":"国際 性","dependencies":"国際 性","kanji":"国 際 性"}]}
+{"ent_seq":2868099}
+{"ent_seq":2868100,"k_ele":[{"keb":"農業科学","composition":"農業 科学","dependencies":"農業 科学","kanji":"農 業 科 学"}]}
+{"ent_seq":2868101,"k_ele":[{"keb":"農業工学","composition":"農業 工学","dependencies":"農業 工学","kanji":"農 業 工 学"}]}
+{"ent_seq":2868102,"k_ele":[{"keb":"農業学校","composition":"農業 学校","dependencies":"農業 学校","kanji":"農 業 学 校"}]}
+{"ent_seq":2868103,"k_ele":[{"keb":"健康科学","composition":"健康 科学","dependencies":"健康 科学","kanji":"健 康 科 学"}]}
+{"ent_seq":2868104}
+{"ent_seq":2868105,"k_ele":[{"keb":"語彙項目","composition":"語彙 項目","dependencies":"語彙 項目","kanji":"語 彙 項 目"}]}
+{"ent_seq":2868106,"k_ele":[{"keb":"環境経済学","composition":"環境 経済学","dependencies":"環境 経済 学 経済学","kanji":"環 境 経 済 学"}]}
+{"ent_seq":2868107}
+{"ent_seq":2868108}
+{"ent_seq":2868109,"k_ele":[{"keb":"歯科医学","composition":"歯科 医学","dependencies":"歯科 医学","kanji":"歯 科 医 学"}]}
+{"ent_seq":2868110,"k_ele":[{"keb":"健康学","composition":"健康 学","dependencies":"健康 学","kanji":"健 康 学"}]}
+{"ent_seq":2868111}
+{"ent_seq":2868112,"k_ele":[{"keb":"拍節","kanji":"拍 節"}]}
+{"ent_seq":2868113,"k_ele":[{"keb":"橋塔","kanji":"橋 塔"}]}
+{"ent_seq":2868116,"k_ele":[{"keb":"響板","composition":"響 板","dependencies":"響き 響 板","kanji":"響 板"}]}
+{"ent_seq":2868118,"k_ele":[{"keb":"氷上釣り","composition":"氷上 釣り","dependencies":"氷上 釣り","kanji":"氷 上 釣"}]}
+{"ent_seq":2868119,"k_ele":[{"keb":"ワカサギ釣り","composition":"ワカサギ 釣り","dependencies":"公魚 ワカサギ 釣り","kanji":"釣"},{"keb":"わかさぎ釣り","composition":"わかさぎ 釣り","dependencies":"公魚 わかさぎ 釣り","kanji":"釣"},{"keb":"公魚釣り","composition":"公魚 釣り","dependencies":"公魚 釣り","kanji":"公 魚 釣"},{"keb":"ワカサギ釣","composition":"ワカサギ 釣","dependencies":"公魚 ワカサギ 釣り 釣","kanji":"釣"}]}
+{"ent_seq":2868126,"k_ele":[{"keb":"強いて言うなら","composition":"強いて 言う なら","dependencies":"強いて 言う だ なら","kanji":"強 言"},{"keb":"しいて言うなら","composition":"しいて 言う なら","dependencies":"強いて しいて 言う だ なら","kanji":"言"},{"keb":"強いていうなら","composition":"強いて いう なら","dependencies":"強いて 言う いう だ なら","kanji":"強"}]}
+{"ent_seq":2868127}
+{"ent_seq":2868131,"k_ele":[{"keb":"雀瓜","composition":"雀 瓜","dependencies":"雀 瓜","kanji":"雀 瓜"}]}
+{"ent_seq":2868132,"k_ele":[{"keb":"縷紅草","composition":"縷紅 草","dependencies":"縷紅 草","kanji":"縷 紅 草"},{"keb":"留紅草","composition":"留 紅 草","dependencies":"止める 止め 留 紅 草","kanji":"留 紅 草"}]}
+{"ent_seq":2868133,"k_ele":[{"keb":"寝支度","composition":"寝 支度","dependencies":"寝 支度","kanji":"寝 支 度"}]}
+{"ent_seq":2868134,"k_ele":[{"keb":"ピー音","composition":"ピー 音","dependencies":"ぴい ピー 音","kanji":"音"}]}
+{"ent_seq":2868135}
+{"ent_seq":2868136}
+{"ent_seq":2868137}
+{"ent_seq":2868138,"k_ele":[{"keb":"ＰＩＰ","composition":"PIP","dependencies":"PIP"}]}
+{"ent_seq":2868139,"k_ele":[{"keb":"自主規制音","composition":"自主 規制 音","dependencies":"自主 規制 音","kanji":"自 主 規 制 音"}]}
+{"ent_seq":2868140,"k_ele":[{"keb":"停刊","kanji":"停 刊"}]}
+{"ent_seq":2868141}
+{"ent_seq":2868142,"k_ele":[{"keb":"帯鋸","dependents":"帯のこ 帯のこ盤","kanji":"帯 鋸"},{"keb":"帯のこぎり","composition":"帯 のこぎり","dependencies":"帯 鋸 のこぎり","kanji":"帯"}]}
+{"ent_seq":2868143,"k_ele":[{"keb":"帯のこ盤","composition":"帯のこ 盤","dependencies":"帯鋸 帯のこ 盤","kanji":"帯 盤"},{"keb":"帯鋸盤","composition":"帯 鋸盤","dependencies":"帯 鋸盤","kanji":"帯 鋸 盤"}]}
+{"ent_seq":2868144,"k_ele":[{"keb":"発行停止","composition":"発行 停止","dependencies":"発行 停止","kanji":"発 行 停 止"}]}
+{"ent_seq":2868145}
+{"ent_seq":2868146,"k_ele":[{"keb":"声区","kanji":"声 区"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -7731,6 +7820,7 @@
 {"ent_seq":5060798}
 {"ent_seq":5060799}
 {"ent_seq":5060865}
+{"ent_seq":5060877}
 {"ent_seq":5060888}
 {"ent_seq":5061183}
 {"ent_seq":5061184}
@@ -14147,3 +14237,7 @@
 {"ent_seq":5747446,"k_ele":[{"keb":"日本専門医機構","composition":"日本 専門医 機構","dependencies":"日本 専門 医 専門医 機構","kanji":"日 本 専 門 医 機 構"}]}
 {"ent_seq":5747447,"k_ele":[{"keb":"日本歯科専門医機構","composition":"日本 歯科 専門医 機構","dependencies":"日本 歯科 専門 医 専門医 機構","kanji":"日 本 歯 科 専 門 医 機 構"}]}
 {"ent_seq":5747450,"k_ele":[{"keb":"国連緊急軍","composition":"国連 緊急 軍","dependencies":"国連 緊急 軍","kanji":"国 連 緊 急 軍"}]}
+{"ent_seq":5747451,"k_ele":[{"keb":"３１","dependents":"３１アイスクリーム ３１日"}]}
+{"ent_seq":5747452,"k_ele":[{"keb":"３１アイスクリーム","composition":"３１ アイスクリーム","dependencies":"３１ アイス クリーム アイスクリーム"}]}
+{"ent_seq":5747453,"k_ele":[{"keb":"名探偵コナン","composition":"名探偵 コナン","dependencies":"名 探偵 名探偵 コナン","kanji":"名 探 偵"}]}
+{"ent_seq":5747457,"k_ele":[{"keb":"東京科学大学","composition":"東京 科学 大学","dependencies":"東京 科学 大学","dependents":"西東京科学大学","kanji":"東 京 科 学 大 学"}]}

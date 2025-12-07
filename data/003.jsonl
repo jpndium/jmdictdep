@@ -1,5 +1,3 @@
-{"ent_seq":2860627,"k_ele":[{"keb":"最終列車","composition":"最終 列車","dependencies":"最終 列車","kanji":"最 終 列 車"}]}
-{"ent_seq":2860628,"k_ele":[{"keb":"反応時間","composition":"反応 時間","dependencies":"反応 時間","kanji":"反 応 時 間"}]}
 {"ent_seq":2860629,"k_ele":[{"keb":"富士","dependents":"ダイヤモンド富士 初富士 富士ピーエス 富士ピー・エス 富士フィルム 富士五湖 富士写真フィルム 富士大学 富士山 富士山頂 富士撫子 富士桜 富士派 富士火災海上保険 富士短期大学 富士総合火力演習 富士総合研究所 富士講 富士重工 富士銀行 富士電気化学 常葉学園富士短期大学 影富士 東京富士大学 東京富士美術館 赤富士","kanji":"富 士"}]}
 {"ent_seq":2860630,"k_ele":[{"keb":"雪人形","composition":"雪 人形","dependencies":"雪 人形","kanji":"雪 人 形"}]}
 {"ent_seq":2860632}
@@ -1755,7 +1753,7 @@
 {"ent_seq":2862508,"k_ele":[{"keb":"鍋パ","composition":"鍋 パ","dependencies":"鍋 パ","kanji":"鍋"},{"keb":"鍋パー","composition":"鍋 パー","dependencies":"鍋 パー","kanji":"鍋"}]}
 {"ent_seq":2862509,"k_ele":[{"keb":"あすなろ抱き","composition":"あすなろ 抱き","dependencies":"翌檜 あすなろ 抱く 抱き","kanji":"抱"}]}
 {"ent_seq":2862510,"k_ele":[{"keb":"鳥類学者","composition":"鳥類学 者","dependencies":"鳥類 学 鳥類学 者","kanji":"鳥 類 学 者"}]}
-{"ent_seq":2862511,"k_ele":[{"keb":"朱鷺","composition":"鴇","dependencies":"鴇","dependents":"朱鷺草 猩々朱鷺 猩猩朱鷺","kanji":"朱 鷺"}]}
+{"ent_seq":2862511,"k_ele":[{"keb":"朱鷺","composition":"鴇","dependencies":"鴇","dependents":"アフリカ黒朱鷺 オーストラリア黒朱鷺 朱鷺草 猩々朱鷺 猩猩朱鷺 黒朱鷺","kanji":"朱 鷺"}]}
 {"ent_seq":2862512,"k_ele":[{"keb":"遺伝子汚染","composition":"遺伝子 汚染","dependencies":"遺伝 子 遺伝子 汚染","kanji":"遺 伝 子 汚 染"}]}
 {"ent_seq":2862513,"k_ele":[{"keb":"町組","kanji":"町 組"}]}
 {"ent_seq":2862514,"k_ele":[{"keb":"今を去る","composition":"今 を 去る","dependencies":"今 を 去る","kanji":"今 去"},{"keb":"今をさる","composition":"今 を さる","dependencies":"今 を 然り 然る さる","kanji":"今"}]}
@@ -6755,6 +6753,7 @@
 {"ent_seq":2867788,"k_ele":[{"keb":"最高情報責任者","composition":"最高 情報 責任者","dependencies":"最高 情報 責任 者 責任者","kanji":"最 高 情 報 責 任 者"}]}
 {"ent_seq":2867789,"k_ele":[{"keb":"最高投資責任者","composition":"最高 投資 責任者","dependencies":"最高 投資 責任 者 責任者","kanji":"最 高 投 資 責 任 者"}]}
 {"ent_seq":2867790,"k_ele":[{"keb":"ＣＩＯ","composition":"CIO","dependencies":"CIO"}]}
+{"ent_seq":2867791,"k_ele":[{"keb":"神経多様性","composition":"神経 多様性","dependencies":"神経 多様 性 多様性","kanji":"神 経 多 様 性"}]}
 {"ent_seq":2867792}
 {"ent_seq":2867794,"k_ele":[{"keb":"発達特性","composition":"発達 特性","dependencies":"発達 特性","kanji":"発 達 特 性"}]}
 {"ent_seq":2867795,"k_ele":[{"keb":"目が光る","composition":"目 が 光る","dependencies":"目 が 光る","kanji":"目 光"}]}
@@ -7018,7 +7017,7 @@
 {"ent_seq":2868155,"k_ele":[{"keb":"天体化学","composition":"天体 化学","dependencies":"天体 化学","kanji":"天 体 化 学"}]}
 {"ent_seq":2868156,"k_ele":[{"keb":"物理科学","composition":"物理 科学","dependencies":"物理 科学","kanji":"物 理 科 学"}]}
 {"ent_seq":2868157}
-{"ent_seq":2868158}
+{"ent_seq":2868158,"k_ele":[{"keb":"間々ある","composition":"間々 ある","dependencies":"間々 有る ある","kanji":"間"},{"keb":"まま有る","composition":"まま 有る","dependencies":"侭 まま 有る","kanji":"有"}]}
 {"ent_seq":2868159,"k_ele":[{"keb":"細客","composition":"細 客","dependencies":"細い 細 客","kanji":"細 客"}]}
 {"ent_seq":2868160,"k_ele":[{"keb":"刻器","composition":"刻 器","dependencies":"刻 器","kanji":"刻 器"}]}
 {"ent_seq":2868161,"k_ele":[{"keb":"様あ見やがれ","composition":"様 あ 見 やがれ","dependencies":"様 あー あ 見る 見 やがる やがれ","kanji":"様 見"}]}
@@ -7074,6 +7073,7 @@
 {"ent_seq":2868215,"k_ele":[{"keb":"車百合","kanji":"車 百 合"}]}
 {"ent_seq":2868216,"k_ele":[{"keb":"鹿の子百合","composition":"鹿の子 百合","dependencies":"鹿の子 百合","kanji":"鹿 子 百 合"}]}
 {"ent_seq":2868217}
+{"ent_seq":2868218}
 {"ent_seq":2868219,"k_ele":[{"keb":"ぬい活","composition":"ぬい 活","dependencies":"抜く ぬく ぬい 活","kanji":"活"},{"keb":"縫い活","composition":"縫い 活","dependencies":"縫い 活","kanji":"縫 活"},{"keb":"縫活","composition":"縫 活","dependencies":"縫い 縫 活","kanji":"縫 活"},{"keb":"ヌイ活","composition":"ヌイ 活","dependencies":"ヌイ 活","kanji":"活"}]}
 {"ent_seq":2868220,"k_ele":[{"keb":"ぬい撮り","composition":"ぬい 撮り","dependencies":"抜く ぬく ぬい 撮る 撮り","kanji":"撮"},{"keb":"ぬい取り","composition":"縫い取り","dependencies":"縫い取り","kanji":"取"},{"keb":"縫い撮り","composition":"縫い 撮り","dependencies":"縫い 撮る 撮り","kanji":"縫 撮"},{"keb":"縫撮","composition":"縫 撮","dependencies":"縫い 縫 撮","kanji":"縫 撮"},{"keb":"ヌイ撮","composition":"ヌイ 撮","dependencies":"ヌイ 撮","kanji":"撮"},{"keb":"ヌイ撮り","composition":"ヌイ 撮り","dependencies":"ヌイ 撮る 撮り","kanji":"撮"},{"keb":"縫い取り","dependents":"ぬい取り 縫取り","kanji":"縫 取"}]}
 {"ent_seq":2868221,"k_ele":[{"keb":"巨チン","composition":"巨 チン","dependencies":"巨 ちん チン","kanji":"巨"}]}
@@ -7081,6 +7081,70 @@
 {"ent_seq":2868223,"k_ele":[{"keb":"滑つく","composition":"滑 つく","dependencies":"滑 付く つく","kanji":"滑"}]}
 {"ent_seq":2868224,"k_ele":[{"keb":"指ズボ","composition":"指 ズボ","dependencies":"指 ズボ","kanji":"指"}]}
 {"ent_seq":2868225,"k_ele":[{"keb":"土禁","composition":"土 禁","dependencies":"土 禁","kanji":"土 禁"}]}
+{"ent_seq":2868226,"k_ele":[{"keb":"土足禁止","composition":"土足 禁止","dependencies":"土足 禁止","kanji":"土 足 禁 止"}]}
+{"ent_seq":2868227,"k_ele":[{"keb":"各者","composition":"各 者","dependencies":"各 者","kanji":"各 者"}]}
+{"ent_seq":2868228,"k_ele":[{"keb":"ラッダイト運動","composition":"ラッダイト 運動","dependencies":"ラッダイト 運動","kanji":"運 動"}]}
+{"ent_seq":2868229,"k_ele":[{"keb":"民族楽器","composition":"民族 楽器","dependencies":"民族 楽器","kanji":"民 族 楽 器"}]}
+{"ent_seq":2868230,"k_ele":[{"keb":"血液ガス分析","composition":"血液 ガス 分析","dependencies":"血液 ガス 分析","kanji":"血 液 分 析"}]}
+{"ent_seq":2868231,"k_ele":[{"keb":"動脈血ガス分析","composition":"動脈血 ガス 分析","dependencies":"動脈 血 動脈血 ガス 分析","kanji":"動 脈 血 分 析"}]}
+{"ent_seq":2868232,"k_ele":[{"keb":"会に合わぬ花","composition":"会 に 合わ ぬ 花","dependencies":"会 に 合う 合わ ず ぬ 花","kanji":"会 合 花"}]}
+{"ent_seq":2868234,"k_ele":[{"keb":"配膳口","composition":"配膳 口","dependencies":"配膳 口","kanji":"配 膳 口"}]}
+{"ent_seq":2868235,"k_ele":[{"keb":"質より量","composition":"質 より 量","dependencies":"質 より 量","kanji":"質 量"}]}
+{"ent_seq":2868237,"k_ele":[{"keb":"ドーム球場","composition":"ドーム 球場","dependencies":"ドーム 球場","kanji":"球 場"}]}
+{"ent_seq":2868238,"k_ele":[{"keb":"マン肉","composition":"マン 肉","dependencies":"マン 肉","kanji":"肉"}]}
+{"ent_seq":2868239,"k_ele":[{"keb":"よがり声","composition":"善がり声","dependencies":"善がり声","kanji":"声"},{"keb":"善がり声","dependents":"よがり声 ヨガリ声","kanji":"善 声"},{"keb":"良がり声","composition":"良 がり 声","dependencies":"良 がり 声","kanji":"良 声"},{"keb":"ヨガリ声","composition":"善がり声","dependencies":"善がり声","kanji":"声"}]}
+{"ent_seq":2868240,"k_ele":[{"keb":"宇宙物理学者","composition":"宇宙 物理学 者","dependencies":"宇宙 物理 学 物理学 者","kanji":"宇 宙 物 理 学 者"}]}
+{"ent_seq":2868241,"k_ele":[{"keb":"鳥肌立つ","composition":"鳥肌 立つ","dependencies":"鳥肌 立つ","kanji":"鳥 肌 立"},{"keb":"鳥肌だつ","composition":"鳥肌 だ つ","dependencies":"鳥肌 だ つう つ","kanji":"鳥 肌"}]}
+{"ent_seq":2868242,"k_ele":[{"keb":"お呉れ","composition":"お 呉れ","dependencies":"御 お 呉れる 呉れ","kanji":"呉"}]}
+{"ent_seq":2868243,"k_ele":[{"keb":"複業","kanji":"複 業"}]}
+{"ent_seq":2868244,"k_ele":[{"keb":"動脈血ガス","composition":"動脈血 ガス","dependencies":"動脈 血 動脈血 ガス","kanji":"動 脈 血"}]}
+{"ent_seq":2868245,"k_ele":[{"keb":"お止し","composition":"お 止し","dependencies":"御 お 止す 止し","kanji":"止"}]}
+{"ent_seq":2868246}
+{"ent_seq":2868247,"k_ele":[{"keb":"餌入れ","kanji":"餌 入"},{"keb":"エサ入れ","composition":"エサ 入れ","dependencies":"餌 エサ 入れる 入れ","kanji":"入"},{"keb":"餌いれ","composition":"餌 いれ","dependencies":"餌 居る いれる 入れる いれ","kanji":"餌"},{"keb":"餌入","composition":"餌 入","dependencies":"餌 入り 入","kanji":"餌 入"},{"keb":"エサ入","composition":"エサ 入","dependencies":"餌 エサ 入り 入","kanji":"入"},{"keb":"えさ入","composition":"えさ 入","dependencies":"餌 えさ 入り 入","kanji":"入"}]}
+{"ent_seq":2868248,"k_ele":[{"keb":"一人称視点","composition":"一 人称 視点","dependencies":"一 人称 視点","kanji":"一 人 称 視 点"}]}
+{"ent_seq":2868249,"k_ele":[{"keb":"一人称小説","composition":"一 人称 小説","dependencies":"一 人称 小説","kanji":"一 人 称 小 説"}]}
+{"ent_seq":2868250,"k_ele":[{"keb":"閉塞性血栓性血管炎","composition":"閉塞 性 血栓 性 血管 炎","dependencies":"閉塞 性 血栓 血管 炎","kanji":"閉 塞 性 血 栓 性 血 管 炎"}]}
+{"ent_seq":2868251,"k_ele":[{"keb":"ビュルガー病","composition":"ビュルガー 病","dependencies":"ビュルガー 病","kanji":"病"}]}
+{"ent_seq":2868252,"k_ele":[{"keb":"バージャー病","composition":"バージャー 病","dependencies":"ビュルガー バージャー 病","kanji":"病"}]}
+{"ent_seq":2868253,"k_ele":[{"keb":"野兎","dependents":"北極野兎 日本野兎 東北野兎 薮野兎 藪野兎 野うさぎ 野ウサギ 野兎病","kanji":"野 兎"}]}
+{"ent_seq":2868254,"k_ele":[{"keb":"日本野兎","composition":"日本 野兎","dependencies":"日本 野兎","kanji":"日 本 野 兎"}]}
+{"ent_seq":2868255}
+{"ent_seq":2868256,"k_ele":[{"keb":"野","dependents":"アフリカ野驢馬 ブローカ野 一次聴覚野 一次運動野 家鶏野鶩 底野迦 後は野となれ山となれ 感覚野 春の野 流氷野 照射野 秋の野罌粟 虎を野に放つ 補足運動野 視覚野 言語野 連合野 運動野 野いばら 野たれ死ぬ 野だて 野つぼ 野となれ山となれ 野にある 野に下る 野に在る 野に隠れる 野の花 野ぶどう 野べ 野ろ 野ツボ 野冊 野博打 野味 野壷 野壺 野巫 野曝し 野武士 野海棠 野箆坊 野締め 野罌粟 野茉莉 野萵苣 野蕗 野襤褸菊 野試合 野遊 野遊山 野鵐 野鶲","kanji":"野"},{"keb":"埜","kanji":"埜"}]}
+{"ent_seq":2868258,"k_ele":[{"keb":"鵲笛鴉","composition":"鵲 笛 鴉","dependencies":"鵲 笛 烏 鴉","kanji":"鵲 笛 鴉"}]}
+{"ent_seq":2868259,"k_ele":[{"keb":"オーストラリア黒朱鷺","composition":"オーストラリア 黒 朱鷺","dependencies":"オーストラリア 黒 鴇 朱鷺","kanji":"黒 朱 鷺"}]}
+{"ent_seq":2868260,"k_ele":[{"keb":"アフリカ黒朱鷺","composition":"アフリカ 黒 朱鷺","dependencies":"アフリカ 黒 鴇 朱鷺","kanji":"黒 朱 鷺"}]}
+{"ent_seq":2868261,"k_ele":[{"keb":"黒朱鷺","composition":"黒 朱鷺","dependencies":"黒 鴇 朱鷺","kanji":"黒 朱 鷺"},{"keb":"黒鴇","composition":"黒 鴇","dependencies":"黒 鴇","kanji":"黒 鴇"}]}
+{"ent_seq":2868263,"k_ele":[{"keb":"右室","kanji":"右 室"}]}
+{"ent_seq":2868265}
+{"ent_seq":2868266,"k_ele":[{"keb":"紅鰺刺","composition":"紅 鰺 刺","dependencies":"紅 鯵 鰺 刺し 刺","kanji":"紅 鰺 刺"}]}
+{"ent_seq":2868267,"k_ele":[{"keb":"星羽白","composition":"星 羽白","dependencies":"星 羽白","kanji":"星 羽 白"}]}
+{"ent_seq":2868268,"k_ele":[{"keb":"巫女秋沙","composition":"巫女 秋沙","dependencies":"巫女 秋沙","kanji":"巫 女 秋 沙"}]}
+{"ent_seq":2868269,"k_ele":[{"keb":"山家五位","composition":"山家 五 位","dependencies":"山家 五 位","kanji":"山 家 五 位"},{"keb":"山家の五位","composition":"山家 の 五位","dependencies":"山家 の 五位","kanji":"山 家 五 位"}]}
+{"ent_seq":2868270,"k_ele":[{"keb":"笹五位","composition":"笹 五 位","dependencies":"笹 五 位","kanji":"笹 五 位"}]}
+{"ent_seq":2868271,"k_ele":[{"keb":"山啄木鳥","kanji":"山 啄 木 鳥"}]}
+{"ent_seq":2868272}
+{"ent_seq":2868273,"k_ele":[{"keb":"被教育者","composition":"被 教育者","dependencies":"被 教育 者 教育者","kanji":"被 教 育 者"}]}
+{"ent_seq":2868281,"k_ele":[{"keb":"飼い","composition":"飼う","dependencies":"飼う","dependents":"つなぎ飼い 外飼い 多頭飼い 室内飼い 平飼い 繋ぎ飼い 豚飼い 飼 飼いならし 飼いならす 飼いウサギ 飼いバト 飼い慣らし 飼い慣らす 飼い馴らし 飼い馴らす 飼い鳩 飼兎","kanji":"飼"}]}
+{"ent_seq":2868283,"k_ele":[{"keb":"心臓震盪","composition":"心臓 震盪","dependencies":"心臓 震盪","kanji":"心 臓 震 盪"}]}
+{"ent_seq":2868284,"k_ele":[{"keb":"黒色表皮腫","composition":"黒色 表皮 腫","dependencies":"黒 色 黒色 表皮 腫","kanji":"黒 色 表 皮 腫"}]}
+{"ent_seq":2868285,"k_ele":[{"keb":"家兎","dependents":"家うさぎ 家ウサギ","kanji":"家 兎"},{"keb":"家うさぎ","composition":"家兎","dependencies":"家兎","kanji":"家"},{"keb":"家ウサギ","composition":"家兎","dependencies":"家兎","kanji":"家"}]}
+{"ent_seq":2868286,"k_ele":[{"keb":"頻拍","kanji":"頻 拍"}]}
+{"ent_seq":2868288,"k_ele":[{"keb":"ＡＥＤ","composition":"AED","dependencies":"AED"}]}
+{"ent_seq":2868289,"k_ele":[{"keb":"森林恐怖症","composition":"森林 恐怖症","dependencies":"森林 恐怖 症 恐怖症","kanji":"森 林 恐 怖 症"}]}
+{"ent_seq":2868290,"k_ele":[{"keb":"老人恐怖症","composition":"老人 恐怖症","dependencies":"老人 恐怖 症 恐怖症","kanji":"老 人 恐 怖 症"}]}
+{"ent_seq":2868291,"k_ele":[{"keb":"周辺視野","composition":"周辺 視野","dependencies":"周辺 視野","kanji":"周 辺 視 野"}]}
+{"ent_seq":2868292,"k_ele":[{"keb":"推奨事項","composition":"推奨 事項","dependencies":"推奨 事項","kanji":"推 奨 事 項"}]}
+{"ent_seq":2868293,"k_ele":[{"keb":"救われる","composition":"救わ れる","dependencies":"救う 救わ れる","kanji":"救"},{"keb":"済われる","composition":"済 われる","dependencies":"済み 済 割れる われる","kanji":"済"},{"keb":"拯われる","composition":"拯 われる","dependencies":"拯 割れる われる","kanji":"拯"}]}
+{"ent_seq":2868294,"k_ele":[{"keb":"五毛党","composition":"五 毛 党","dependencies":"五 毛 党","kanji":"五 毛 党"}]}
+{"ent_seq":2868297}
+{"ent_seq":2868298}
+{"ent_seq":2868299}
+{"ent_seq":2868300,"k_ele":[{"keb":"血風","kanji":"血 風"}]}
+{"ent_seq":2868302,"k_ele":[{"keb":"真ん","composition":"真 ん","dependencies":"真 んっ ん","kanji":"真"}]}
+{"ent_seq":2868303,"k_ele":[{"keb":"票固め","kanji":"票 固"},{"keb":"票固","composition":"票 固","dependencies":"票 固い 固","kanji":"票 固"},{"keb":"票がため","composition":"票 が ため","dependencies":"票 が 為 ため","kanji":"票"}]}
+{"ent_seq":2868304,"k_ele":[{"keb":"雷","dependents":"カミナリ カミナリ族 人工雷 地震雷火事おやじ 地震雷火事親父 日雷 水神鳴 渦雷 火山雷 火神鳴 疾雷 神鳴 超高層雷放電 雷が落ちる 雷が鳴る 雷こう 雷さま 雷に打たれた 雷を落とす 雷サージ 雷丸 雷族 雷様 雷汞 雷発 雷竜 雷酸 雷酸塩 雷酸水銀 雷鈷","kanji":"雷"}]}
+{"ent_seq":2868305,"k_ele":[{"keb":"筋紡錘","composition":"筋 紡錘","dependencies":"筋 紡錘","kanji":"筋 紡 錘"}]}
+{"ent_seq":2868306,"k_ele":[{"keb":"給仕人","composition":"給仕 人","dependencies":"給仕 人","kanji":"給 仕 人"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -9441,7 +9505,7 @@
 {"ent_seq":5315605,"k_ele":[{"keb":"三越","kanji":"三 越"}]}
 {"ent_seq":5316115,"k_ele":[{"keb":"三貴","kanji":"三 貴"}]}
 {"ent_seq":5316217,"k_ele":[{"keb":"三京化成","composition":"三京 化成","dependencies":"三京 化成","kanji":"三 京 化 成"}]}
-{"ent_seq":5316219,"k_ele":[{"keb":"三共","kanji":"三 共"}]}
+{"ent_seq":5316219,"k_ele":[{"keb":"三共","dependents":"第一三共","kanji":"三 共"}]}
 {"ent_seq":5316274,"k_ele":[{"keb":"三興製作所","composition":"三 興 製作所","dependencies":"三 興 製作 所 製作所","kanji":"三 興 製 作 所"}]}
 {"ent_seq":5316522,"k_ele":[{"keb":"三原養護学校","composition":"三原 養護学校","dependencies":"三原 養護 学校 養護学校","kanji":"三 原 養 護 学 校"}]}
 {"ent_seq":5316745,"k_ele":[{"keb":"三甲美術館","composition":"三 甲 美術館","dependencies":"三 甲 美術 館 美術館","kanji":"三 甲 美 術 館"}]}
@@ -14323,3 +14387,5 @@
 {"ent_seq":5747453,"k_ele":[{"keb":"名探偵コナン","composition":"名探偵 コナン","dependencies":"名 探偵 名探偵 コナン","kanji":"名 探 偵"}]}
 {"ent_seq":5747457,"k_ele":[{"keb":"東京科学大学","composition":"東京 科学 大学","dependencies":"東京 科学 大学","dependents":"西東京科学大学","kanji":"東 京 科 学 大 学"}]}
 {"ent_seq":5747458,"k_ele":[{"keb":"横浜国大","composition":"横浜 国大","dependencies":"横浜 国大","kanji":"横 浜 国 大"}]}
+{"ent_seq":5747474,"k_ele":[{"keb":"Ｆｌｏｏｒｐ"}]}
+{"ent_seq":5747475,"k_ele":[{"keb":"第一三共","composition":"第 一 三共","dependencies":"第 一 三共","kanji":"第 一 三 共"}]}

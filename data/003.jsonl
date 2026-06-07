@@ -1,6 +1,3 @@
-{"ent_seq":2860714,"k_ele":[{"keb":"不整形","composition":"不 整形","dependencies":"不 整形","kanji":"不 整 形"},{"keb":"不正形","composition":"不 正形","dependencies":"不 正形","kanji":"不 正 形"}]}
-{"ent_seq":2860715,"k_ele":[{"keb":"西入ル","composition":"西入 ル","dependencies":"西入 ル","kanji":"西 入"},{"keb":"西入","dependents":"西入ル","kanji":"西 入"},{"keb":"西入る","composition":"西 入る","dependencies":"西 入る","kanji":"西 入"}]}
-{"ent_seq":2860716,"k_ele":[{"keb":"東入ル","composition":"東入 ル","dependencies":"東入 ル","kanji":"東 入"},{"keb":"東入","dependents":"東入る 東入ル","kanji":"東 入"},{"keb":"東入る","composition":"東入","dependencies":"東入","kanji":"東 入"}]}
 {"ent_seq":2860717,"k_ele":[{"keb":"航空兵","composition":"航空 兵","dependencies":"航空 兵","kanji":"航 空 兵"}]}
 {"ent_seq":2860718,"k_ele":[{"keb":"飛行兵","composition":"飛行 兵","dependencies":"飛行 兵","kanji":"飛 行 兵"}]}
 {"ent_seq":2860719,"k_ele":[{"keb":"男主","composition":"男 主","dependencies":"男 主","kanji":"男 主"}]}
@@ -1766,7 +1763,7 @@
 {"ent_seq":2862608,"k_ele":[{"keb":"懐疑的","composition":"懐疑 的","dependencies":"懐疑 的","kanji":"懐 疑 的"}]}
 {"ent_seq":2862611}
 {"ent_seq":2862613,"k_ele":[{"keb":"塗る","dependents":"ぬり ぬりこ星 ぬり重ねる 塗れ 泥を塗る 眉に唾を塗る 色を塗る 顔に泥を塗る 黒ぬり","kanji":"塗"}]}
-{"ent_seq":2862614,"k_ele":[{"keb":"銀","dependents":"シアン化銀 ハロゲン化銀 ヨウ化銀 一分銀 一朱銀 一歩銀 仕付け銀 仕付銀 他銀 合銀 地方銀 塩化銀 小玉銀 挺銀 本銀 板銀 沃化銀 沈黙は金雄弁は銀 硝酸銀 笹葉銀蘭 自然銀 臭化銀 豆板銀 身請銀 躾け銀 躾銀 軽銀 輝銀銅鉱 金目銀目 銀ぎつね 銀だら 銀むつ 銀めっき 銀を取る 銀ギツネ 銀シャリ 銀シート 銀ブラ 銀ムツ 銀メダル 銀モール 銀世界 銀亀鯵 銀交換 銀口魚 銀古美 銀名 銀將 銀持 銀文字 銀時計 銀本位 銀本位制 銀湯鯉 銀白色 銀目 銀眼 銀眼鯛 銀着せ 銀砂 銀砂子 銀竜草 銀竜草擬 銀細工 銀聯 銀舎利 銀色 銀葉 銀葉金雀枝 銀蜻蜓 銀鍍金 銀鑞 銀雪 銀面 銀頬蜜吸 銀食器 銀鯥 銀鯵 間銀 雄弁は銀、沈黙は金 雄弁は銀沈黙は金","kanji":"銀"},{"keb":"白銀","dependents":"白銀比","kanji":"白 銀"},{"keb":"白金","dependents":"塩化白金酸 白金イリジウム 白金族 白金族元素 白金耳 白金黒 自然白金","kanji":"白 金"}]}
+{"ent_seq":2862614,"k_ele":[{"keb":"銀","dependents":"シアン化銀 ハロゲン化銀 ヨウ化銀 一分銀 一朱銀 一歩銀 仕付け銀 仕付銀 他銀 合銀 地方銀 塩化銀 小玉銀 挺銀 本銀 板銀 沃化銀 沈黙は金雄弁は銀 硝酸銀 笹葉銀蘭 自然銀 臭化銀 豆板銀 身請銀 躾け銀 躾銀 軽銀 輝銀銅鉱 金目銀目 銀ぎつね 銀だら 銀むつ 銀めっき 銀を取る 銀ギツネ 銀シャリ 銀シート 銀ブラ 銀ムツ 銀メダル 銀モール 銀世界 銀亀鯵 銀交換 銀口魚 銀古美 銀名 銀將 銀持 銀文字 銀時計 銀本位 銀本位制 銀湯鯉 銀白色 銀目 銀眼 銀眼鯛 銀着せ 銀砂 銀砂子 銀竜草 銀竜草擬 銀細工 銀聯 銀舎利 銀色 銀葉 銀葉金雀枝 銀蜻蜓 銀鍍金 銀鑞 銀雪 銀面 銀頬蜜吸 銀食器 銀鯥 銀鯵 間銀 雄弁は銀、沈黙は金 雄弁は銀沈黙は金","kanji":"銀"},{"keb":"白銀","dependents":"白銀比","kanji":"白 銀"},{"keb":"白金","dependents":"塩化白金酸 白金イリジウム 白金族 白金族元素 白金耳 白金黒 砂白金 自然白金","kanji":"白 金"}]}
 {"ent_seq":2862615,"k_ele":[{"keb":"杢","composition":"木工","dependencies":"木工","dependents":"杢グレー 杢目 杢糸 杢調 杢魚","kanji":"杢"}]}
 {"ent_seq":2862616,"k_ele":[{"keb":"枯葉色","composition":"枯葉 色","dependencies":"枯れ葉 枯葉 色","kanji":"枯 葉 色"},{"keb":"枯れ葉色","composition":"枯れ葉 色","dependencies":"枯れ葉 色","kanji":"枯 葉 色"}]}
 {"ent_seq":2862617}
@@ -2024,7 +2021,7 @@
 {"ent_seq":2862888}
 {"ent_seq":2862889,"k_ele":[{"keb":"牝鶏","kanji":"牝 鶏"},{"keb":"牝鳥","composition":"牝 鳥","dependencies":"雌 牝 鳥","kanji":"牝 鳥"},{"keb":"牝鷄","composition":"牝 鷄","dependencies":"雌 牝 鷄","kanji":"牝 鷄"}]}
 {"ent_seq":2862890}
-{"ent_seq":2862891,"k_ele":[{"keb":"酒","dependents":"お酒 かん酒 きき酒 ご酒 ただ酒 たまご酒 なし酒 はちみつ酒 びわ酒 ふるまい酒 ぶどう酒 みかん酒 ゆず酒 りんご酒 わかめ酒 アニス酒 カップ酒 コップ酒 コーリャン酒 シェリー酒 タダ酒 ナシ酒 ハシゴ酒 ヒレ酒 ブドウ酒 ポン酒 マオタイ酒 マデイラ酒 マラガ酒 ミカン酒 ヤシ酒 ラム酒 リンゴ酒 レモン酒 三鞭酒 上酒 中国酒 二級酒 口噛み酒 古い革袋に新しい酒を盛る 只酒 合成酒 吟醸酒 和酒 唎き酒 増醸酒 夜酒 大御酒 密造酒 年酒 御前酒 御酒 悪酒 手酌酒 振舞い酒 振舞酒 掌酒 料理酒 新しい酒は古い革袋に入れる 日本酒 日本酒度 旨酒 暖め酒 月見酒 本醸造酒 杏酒 杏露酒 枇杷酒 林檎酒 果実酒 柚子酒 桂花陳酒 桝酒 梨酒 椰子酒 檸檬酒 毒酒 混合酒 混成酒 温め酒 漿を乞いて酒を得る 焼け酒 焼酒 特級酒 猿酒 玉子酒 玉酒 生姜酒 発泡酒 白ぶどう酒 白ブドウ酒 白葡萄酒 紅葉酒 純米吟醸酒 純米酒 紹興酒 罰酒 良酒 花見酒 花酒 苦酒 茅台酒 茶屋酒 葡萄酒 蒸留酒 薬味酒 薬用酒 蛇酒 蜂蜜酒 蜜柑酒 赤きは酒のとが 赤きは酒の咎 赤ブドウ酒 赤葡萄酒 辛口の酒 辛酒 迎い酒 酒さ 酒ずし 酒どころ 酒にのまれる 酒に呑まれる 酒に弱い 酒に飲まれる 酒のお供 酒のお友 酒のさかな 酒の上で 酒の席 酒の気 酒の肴 酒は百薬の長 酒やくざ 酒やけ 酒を勧める 酒を絶やす 酒を過ごす 酒ヤクザ 酒処 酒匠 酒合戦 酒問屋 酒坊 酒天童子 酒好き 酒寿司 酒息 酒房 酒所 酒断ち 酒枡 酒梅組 酒機嫌 酒皶 酒皻 酒蒸 酒虫 酒面雁 酒顛童子 酒饌 酒鬱 酒鮨 酒８９３ 醸造酒 雑酒 雪見酒 願酒 食中酒 食前酒 食後酒 馬乳酒 駄酒落 高粱酒 黄酒","kanji":"酒"}]}
+{"ent_seq":2862891,"k_ele":[{"keb":"酒","dependents":"お酒 かん酒 きき酒 ご酒 ただ酒 たまご酒 なし酒 はちみつ酒 びわ酒 ふるまい酒 ぶどう酒 みかん酒 ゆず酒 りんご酒 わかめ酒 アニス酒 カップ酒 コップ酒 コーリャン酒 シェリー酒 タダ酒 ナシ酒 ハシゴ酒 ヒレ酒 ブドウ酒 ポン酒 マオタイ酒 マデイラ酒 マラガ酒 ミカン酒 ヤシ酒 ラム酒 リンゴ酒 レモン酒 三鞭酒 上酒 中国酒 二級酒 口噛み酒 古い革袋に新しい酒を盛る 只酒 合成酒 吟醸酒 和酒 唎き酒 増醸酒 夜酒 大御酒 密造酒 年酒 御前酒 御酒 悪酒 手酌酒 振舞い酒 振舞酒 掌酒 料理酒 新しい酒は古い革袋に入れる 日本酒 日本酒度 旨酒 暖め酒 月見酒 本醸造酒 杏酒 杏露酒 枇杷酒 林檎酒 果実酒 柚子酒 桂花陳酒 桝酒 梨酒 椰子酒 檸檬酒 毒酒 混合酒 混成酒 温め酒 漿を乞いて酒を得る 焼け酒 焼酒 特級酒 猿酒 玉子酒 玉酒 生姜酒 発泡酒 白ぶどう酒 白ブドウ酒 白葡萄酒 紅葉酒 純米吟醸酒 純米酒 紹興酒 罰酒 良酒 花見酒 花酒 苦酒 茅台酒 茶屋酒 葡萄酒 蒸留酒 薬味酒 薬用酒 蛇酒 蜂蜜酒 蜜柑酒 赤きは酒のとが 赤きは酒の咎 赤ブドウ酒 赤葡萄酒 辛口の酒 辛酒 迎い酒 酒さ 酒ずし 酒どころ 酒にのまれる 酒に呑まれる 酒に弱い 酒に酔う 酒に飲まれる 酒のお供 酒のお友 酒のさかな 酒の上で 酒の席 酒の気 酒の肴 酒は百薬の長 酒やくざ 酒やけ 酒を勧める 酒を絶やす 酒を過ごす 酒ヤクザ 酒処 酒匠 酒合戦 酒問屋 酒坊 酒天童子 酒好き 酒寿司 酒息 酒房 酒所 酒断ち 酒枡 酒梅組 酒機嫌 酒皶 酒皻 酒蒸 酒虫 酒面雁 酒顛童子 酒饌 酒鬱 酒鮨 酒８９３ 醸造酒 雑酒 雪見酒 願酒 食中酒 食前酒 食後酒 馬乳酒 駄酒落 高粱酒 黄酒","kanji":"酒"}]}
 {"ent_seq":2862892,"k_ele":[{"keb":"レモン酒","composition":"レモン 酒","dependencies":"レモン 酒","kanji":"酒"},{"keb":"檸檬酒","composition":"檸檬 酒","dependencies":"レモン 檸檬 酒","kanji":"檸 檬 酒"}]}
 {"ent_seq":2862893}
 {"ent_seq":2862894,"k_ele":[{"keb":"黒ずみ","kanji":"黒"}]}
@@ -2041,8 +2038,8 @@
 {"ent_seq":2862906,"k_ele":[{"keb":"球聖","composition":"球 聖","dependencies":"玉 球 聖","kanji":"球 聖"}]}
 {"ent_seq":2862907}
 {"ent_seq":2862908,"k_ele":[{"keb":"後図","kanji":"後 図"}]}
-{"ent_seq":2862909,"k_ele":[{"keb":"酒","dependents":"お酒 かん酒 きき酒 ご酒 ただ酒 たまご酒 なし酒 はちみつ酒 びわ酒 ふるまい酒 ぶどう酒 みかん酒 ゆず酒 りんご酒 わかめ酒 アニス酒 カップ酒 コップ酒 コーリャン酒 シェリー酒 タダ酒 ナシ酒 ハシゴ酒 ヒレ酒 ブドウ酒 ポン酒 マオタイ酒 マデイラ酒 マラガ酒 ミカン酒 ヤシ酒 ラム酒 リンゴ酒 レモン酒 三鞭酒 上酒 中国酒 二級酒 口噛み酒 古い革袋に新しい酒を盛る 只酒 合成酒 吟醸酒 和酒 唎き酒 増醸酒 夜酒 大御酒 密造酒 年酒 御前酒 御酒 悪酒 手酌酒 振舞い酒 振舞酒 掌酒 料理酒 新しい酒は古い革袋に入れる 日本酒 日本酒度 旨酒 暖め酒 月見酒 本醸造酒 杏酒 杏露酒 枇杷酒 林檎酒 果実酒 柚子酒 桂花陳酒 桝酒 梨酒 椰子酒 檸檬酒 毒酒 混合酒 混成酒 温め酒 漿を乞いて酒を得る 焼け酒 焼酒 特級酒 猿酒 玉子酒 玉酒 生姜酒 発泡酒 白ぶどう酒 白ブドウ酒 白葡萄酒 紅葉酒 純米吟醸酒 純米酒 紹興酒 罰酒 良酒 花見酒 花酒 苦酒 茅台酒 茶屋酒 葡萄酒 蒸留酒 薬味酒 薬用酒 蛇酒 蜂蜜酒 蜜柑酒 赤きは酒のとが 赤きは酒の咎 赤ブドウ酒 赤葡萄酒 辛口の酒 辛酒 迎い酒 酒さ 酒ずし 酒どころ 酒にのまれる 酒に呑まれる 酒に弱い 酒に飲まれる 酒のお供 酒のお友 酒のさかな 酒の上で 酒の席 酒の気 酒の肴 酒は百薬の長 酒やくざ 酒やけ 酒を勧める 酒を絶やす 酒を過ごす 酒ヤクザ 酒処 酒匠 酒合戦 酒問屋 酒坊 酒天童子 酒好き 酒寿司 酒息 酒房 酒所 酒断ち 酒枡 酒梅組 酒機嫌 酒皶 酒皻 酒蒸 酒虫 酒面雁 酒顛童子 酒饌 酒鬱 酒鮨 酒８９３ 醸造酒 雑酒 雪見酒 願酒 食中酒 食前酒 食後酒 馬乳酒 駄酒落 高粱酒 黄酒","kanji":"酒"}]}
-{"ent_seq":2862910,"k_ele":[{"keb":"酒","dependents":"お酒 かん酒 きき酒 ご酒 ただ酒 たまご酒 なし酒 はちみつ酒 びわ酒 ふるまい酒 ぶどう酒 みかん酒 ゆず酒 りんご酒 わかめ酒 アニス酒 カップ酒 コップ酒 コーリャン酒 シェリー酒 タダ酒 ナシ酒 ハシゴ酒 ヒレ酒 ブドウ酒 ポン酒 マオタイ酒 マデイラ酒 マラガ酒 ミカン酒 ヤシ酒 ラム酒 リンゴ酒 レモン酒 三鞭酒 上酒 中国酒 二級酒 口噛み酒 古い革袋に新しい酒を盛る 只酒 合成酒 吟醸酒 和酒 唎き酒 増醸酒 夜酒 大御酒 密造酒 年酒 御前酒 御酒 悪酒 手酌酒 振舞い酒 振舞酒 掌酒 料理酒 新しい酒は古い革袋に入れる 日本酒 日本酒度 旨酒 暖め酒 月見酒 本醸造酒 杏酒 杏露酒 枇杷酒 林檎酒 果実酒 柚子酒 桂花陳酒 桝酒 梨酒 椰子酒 檸檬酒 毒酒 混合酒 混成酒 温め酒 漿を乞いて酒を得る 焼け酒 焼酒 特級酒 猿酒 玉子酒 玉酒 生姜酒 発泡酒 白ぶどう酒 白ブドウ酒 白葡萄酒 紅葉酒 純米吟醸酒 純米酒 紹興酒 罰酒 良酒 花見酒 花酒 苦酒 茅台酒 茶屋酒 葡萄酒 蒸留酒 薬味酒 薬用酒 蛇酒 蜂蜜酒 蜜柑酒 赤きは酒のとが 赤きは酒の咎 赤ブドウ酒 赤葡萄酒 辛口の酒 辛酒 迎い酒 酒さ 酒ずし 酒どころ 酒にのまれる 酒に呑まれる 酒に弱い 酒に飲まれる 酒のお供 酒のお友 酒のさかな 酒の上で 酒の席 酒の気 酒の肴 酒は百薬の長 酒やくざ 酒やけ 酒を勧める 酒を絶やす 酒を過ごす 酒ヤクザ 酒処 酒匠 酒合戦 酒問屋 酒坊 酒天童子 酒好き 酒寿司 酒息 酒房 酒所 酒断ち 酒枡 酒梅組 酒機嫌 酒皶 酒皻 酒蒸 酒虫 酒面雁 酒顛童子 酒饌 酒鬱 酒鮨 酒８９３ 醸造酒 雑酒 雪見酒 願酒 食中酒 食前酒 食後酒 馬乳酒 駄酒落 高粱酒 黄酒","kanji":"酒"}]}
+{"ent_seq":2862909,"k_ele":[{"keb":"酒","dependents":"お酒 かん酒 きき酒 ご酒 ただ酒 たまご酒 なし酒 はちみつ酒 びわ酒 ふるまい酒 ぶどう酒 みかん酒 ゆず酒 りんご酒 わかめ酒 アニス酒 カップ酒 コップ酒 コーリャン酒 シェリー酒 タダ酒 ナシ酒 ハシゴ酒 ヒレ酒 ブドウ酒 ポン酒 マオタイ酒 マデイラ酒 マラガ酒 ミカン酒 ヤシ酒 ラム酒 リンゴ酒 レモン酒 三鞭酒 上酒 中国酒 二級酒 口噛み酒 古い革袋に新しい酒を盛る 只酒 合成酒 吟醸酒 和酒 唎き酒 増醸酒 夜酒 大御酒 密造酒 年酒 御前酒 御酒 悪酒 手酌酒 振舞い酒 振舞酒 掌酒 料理酒 新しい酒は古い革袋に入れる 日本酒 日本酒度 旨酒 暖め酒 月見酒 本醸造酒 杏酒 杏露酒 枇杷酒 林檎酒 果実酒 柚子酒 桂花陳酒 桝酒 梨酒 椰子酒 檸檬酒 毒酒 混合酒 混成酒 温め酒 漿を乞いて酒を得る 焼け酒 焼酒 特級酒 猿酒 玉子酒 玉酒 生姜酒 発泡酒 白ぶどう酒 白ブドウ酒 白葡萄酒 紅葉酒 純米吟醸酒 純米酒 紹興酒 罰酒 良酒 花見酒 花酒 苦酒 茅台酒 茶屋酒 葡萄酒 蒸留酒 薬味酒 薬用酒 蛇酒 蜂蜜酒 蜜柑酒 赤きは酒のとが 赤きは酒の咎 赤ブドウ酒 赤葡萄酒 辛口の酒 辛酒 迎い酒 酒さ 酒ずし 酒どころ 酒にのまれる 酒に呑まれる 酒に弱い 酒に酔う 酒に飲まれる 酒のお供 酒のお友 酒のさかな 酒の上で 酒の席 酒の気 酒の肴 酒は百薬の長 酒やくざ 酒やけ 酒を勧める 酒を絶やす 酒を過ごす 酒ヤクザ 酒処 酒匠 酒合戦 酒問屋 酒坊 酒天童子 酒好き 酒寿司 酒息 酒房 酒所 酒断ち 酒枡 酒梅組 酒機嫌 酒皶 酒皻 酒蒸 酒虫 酒面雁 酒顛童子 酒饌 酒鬱 酒鮨 酒８９３ 醸造酒 雑酒 雪見酒 願酒 食中酒 食前酒 食後酒 馬乳酒 駄酒落 高粱酒 黄酒","kanji":"酒"}]}
+{"ent_seq":2862910,"k_ele":[{"keb":"酒","dependents":"お酒 かん酒 きき酒 ご酒 ただ酒 たまご酒 なし酒 はちみつ酒 びわ酒 ふるまい酒 ぶどう酒 みかん酒 ゆず酒 りんご酒 わかめ酒 アニス酒 カップ酒 コップ酒 コーリャン酒 シェリー酒 タダ酒 ナシ酒 ハシゴ酒 ヒレ酒 ブドウ酒 ポン酒 マオタイ酒 マデイラ酒 マラガ酒 ミカン酒 ヤシ酒 ラム酒 リンゴ酒 レモン酒 三鞭酒 上酒 中国酒 二級酒 口噛み酒 古い革袋に新しい酒を盛る 只酒 合成酒 吟醸酒 和酒 唎き酒 増醸酒 夜酒 大御酒 密造酒 年酒 御前酒 御酒 悪酒 手酌酒 振舞い酒 振舞酒 掌酒 料理酒 新しい酒は古い革袋に入れる 日本酒 日本酒度 旨酒 暖め酒 月見酒 本醸造酒 杏酒 杏露酒 枇杷酒 林檎酒 果実酒 柚子酒 桂花陳酒 桝酒 梨酒 椰子酒 檸檬酒 毒酒 混合酒 混成酒 温め酒 漿を乞いて酒を得る 焼け酒 焼酒 特級酒 猿酒 玉子酒 玉酒 生姜酒 発泡酒 白ぶどう酒 白ブドウ酒 白葡萄酒 紅葉酒 純米吟醸酒 純米酒 紹興酒 罰酒 良酒 花見酒 花酒 苦酒 茅台酒 茶屋酒 葡萄酒 蒸留酒 薬味酒 薬用酒 蛇酒 蜂蜜酒 蜜柑酒 赤きは酒のとが 赤きは酒の咎 赤ブドウ酒 赤葡萄酒 辛口の酒 辛酒 迎い酒 酒さ 酒ずし 酒どころ 酒にのまれる 酒に呑まれる 酒に弱い 酒に酔う 酒に飲まれる 酒のお供 酒のお友 酒のさかな 酒の上で 酒の席 酒の気 酒の肴 酒は百薬の長 酒やくざ 酒やけ 酒を勧める 酒を絶やす 酒を過ごす 酒ヤクザ 酒処 酒匠 酒合戦 酒問屋 酒坊 酒天童子 酒好き 酒寿司 酒息 酒房 酒所 酒断ち 酒枡 酒梅組 酒機嫌 酒皶 酒皻 酒蒸 酒虫 酒面雁 酒顛童子 酒饌 酒鬱 酒鮨 酒８９３ 醸造酒 雑酒 雪見酒 願酒 食中酒 食前酒 食後酒 馬乳酒 駄酒落 高粱酒 黄酒","kanji":"酒"}]}
 {"ent_seq":2862911,"k_ele":[{"keb":"一強皆弱","composition":"一 強 皆 弱","dependencies":"一 強 皆 弱","kanji":"一 強 皆 弱"}]}
 {"ent_seq":2862912}
 {"ent_seq":2862913}
@@ -2377,7 +2374,7 @@
 {"ent_seq":2863271}
 {"ent_seq":2863272}
 {"ent_seq":2863273,"k_ele":[{"keb":"宿直","dependents":"宿直室","kanji":"宿 直"}]}
-{"ent_seq":2863274,"k_ele":[{"keb":"可愛い","dependents":"かっこ可愛い かわい かわいい かわいい子ちゃん かわいい子には旅をさせよ きも可愛 きも可愛い わが身かわいさ わが身可愛さ エロ可愛い カッコ可愛い カワイイ カワイイ子ちゃん キモ可愛 キモ可愛い グロ可愛い バカな子ほどかわいい バカな子ほど可愛い ブサ可愛い ブス可愛い 可愛 可愛いこちゃん 可愛い子ちゃん 可愛い子には旅をさせよ 可愛がり 可愛がる 可愛げ 可愛げがない 可愛こちゃん 可愛さ余って憎さ百倍 可愛そう 可愛気 大人かわいい 大人可愛い 安可愛 我が身かわいさ 我が身可愛さ 格好可愛い 猫かわいがり 猫可愛がり 馬鹿な子ほどかわいい 馬鹿な子ほど可愛い","kanji":"可 愛"}]}
+{"ent_seq":2863274,"k_ele":[{"keb":"可愛い","dependents":"かっこ可愛い かわい かわいい かわいい子ちゃん かわいい子には旅をさせよ きも可愛 きも可愛い わが身かわいさ わが身可愛さ エロ可愛い カッコ可愛い カワイイ カワイイ子ちゃん キモ可愛 キモ可愛い グロ可愛い バカな子ほどかわいい バカな子ほど可愛い ブサ可愛い ブス可愛い 可愛 可愛いこちゃん 可愛い子ちゃん 可愛い子には旅をさせよ 可愛がり 可愛がる 可愛げ 可愛げがない 可愛こちゃん 可愛さ余って憎さ百倍 可愛そう 可愛気 大人かわいい 大人可愛い 安可愛 我が身かわいさ 我が身可愛さ 格好可愛い 猫かわいがり 猫っかわいがり 猫っ可愛がり 猫可愛がり 馬鹿な子ほどかわいい 馬鹿な子ほど可愛い","kanji":"可 愛"}]}
 {"ent_seq":2863275,"k_ele":[{"keb":"見惚れる","composition":"見 惚れる","dependencies":"見る 見 惚れる","kanji":"見 惚"},{"keb":"見ほれる","composition":"見 ほれる","dependencies":"見る 見 ほれる","kanji":"見"}]}
 {"ent_seq":2863276,"k_ele":[{"keb":"湾処","composition":"湾 処","dependencies":"湾 処","kanji":"湾 処"}]}
 {"ent_seq":2863277}
@@ -4771,7 +4768,7 @@
 {"ent_seq":2865822,"k_ele":[{"keb":"能格","dependents":"能格動詞","kanji":"能 格"}]}
 {"ent_seq":2865823,"k_ele":[{"keb":"溶媒和","composition":"溶媒 和","dependencies":"溶媒 和","kanji":"溶 媒 和"}]}
 {"ent_seq":2865825,"k_ele":[{"keb":"思いをする","composition":"思い を する","dependencies":"思い を 成る 為る する","kanji":"思"}]}
-{"ent_seq":2865826,"k_ele":[{"keb":"過酸","dependents":"過酸症","kanji":"過 酸"}]}
+{"ent_seq":2865826,"k_ele":[{"keb":"過酸","dependents":"過酸価 過酸症","kanji":"過 酸"}]}
 {"ent_seq":2865827,"k_ele":[{"keb":"平削り盤","composition":"平 削り盤","dependencies":"平 削り盤","kanji":"平 削 盤"},{"keb":"平削盤","composition":"平 削盤","dependencies":"平 削盤","kanji":"平 削 盤"}]}
 {"ent_seq":2865828}
 {"ent_seq":2865829,"k_ele":[{"keb":"偏光子","composition":"偏光 子","dependencies":"偏光 子","kanji":"偏 光 子"}]}
@@ -7387,7 +7384,7 @@
 {"ent_seq":2868624,"k_ele":[{"keb":"外注先","composition":"外注 先","dependencies":"外注 先","kanji":"外 注 先"}]}
 {"ent_seq":2868625}
 {"ent_seq":2868627,"k_ele":[{"keb":"顔が揃う","composition":"顔 が 揃う","dependencies":"顔 が 揃う","kanji":"顔 揃"},{"keb":"顔がそろう","composition":"顔 が そろう","dependencies":"顔 が 揃う そろう","kanji":"顔"}]}
-{"ent_seq":2868628,"k_ele":[{"keb":"顔","dependents":"あへ顔 あわせる顔がない いい顔 うかぬ顔 うかぬ顔をする うりざね顔 えんま顔 お顔 さる顔 しょうゆ顔 すました顔 そしらぬ顔 そ知らぬ顔 たぬき顔 でかい顔する でかい顔をする どや顔 なに喰わぬ顔 なに食わぬ顔 にこにこ顔 むずかしい顔をする もっともらしい顔 わがもの顔 わが物顔 わけ知り顔 アヘ顔 イキ顔 エビス顔 キリンの顔 ソース顔 トロ顔 ドヤ顔 ニコニコ顔 ハーフ顔 ヘン顔 モブ顔 不安顔 主人顔 事有り顔 人待ち顔 仏の顔も三度 会わせる顔がない 何の顔あって 何喰わぬ顔 何食わぬ顔 作り顔 借りる時の地蔵顔、なす時の閻魔顔 借りる時の地蔵顔、済す時の閻魔顔 借りる時の地蔵顔なす時の閻魔顔 借りる時の地蔵顔済す時の閻魔顔 写真顔 台顔 合わせる顔がない 合わせる顔が無い 向顔 地蔵顔 塩顔 大きな顔をする 夷顔 好い顔 子ども顔 子供顔 尤もらしい顔 得たり顔 得意顔 得顔 御顔 心得顔 心配顔 怒った顔 怖い顔 思案顔 惚け顔 我がもの顔 我が物顔 我物顔 所得顔 手柄顔 抜からぬ顔 朱顔 浮かない顔 浮かぬ顔 浮かぬ顔をする 涼しい顔 渋い顔をする 澄ました顔 照れ顔 物知り顔 犬の顔 猫が顔を洗うと雨が降る 猫の顔 瑶顔 瓜実顔 甘い顔する 甘い顔をする 生き顔 男顔 知らぬ顔 知らぬ顔の半兵衛 知らん顔 納得顔 素知らぬ顔 能面のような顔 良い顔 花の顔 苦り顔 親の顔が見たい 訳知り顔 醤油顔 閻魔顔 険しい顔 難しい顔をする 顔から火が出る 顔がきく 顔がそろう 顔がひろい 顔がほころぶ 顔が利く 顔が売れる 顔が広い 顔が揃う 顔が立つ 顔が綻ぶ 顔が見える 顔きき 顔じゅう 顔に出る 顔に泥を塗る 顔に紅葉を散らす 顔のひろい 顔の作り 顔の広い 顔の道具 顔をあわす 顔をきかせる 顔をしかめる 顔をそむける 顔をそろえる 顔をたてる 顔をだす 顔をつきあわせる 顔をつき合せる 顔をつき合わせる 顔をつなぐ 顔をつぶす 顔をなおす 顔をほころばせる 顔をみせる 顔をゆがめる 顔を上げる 顔を付き合わせる 顔を出す 顔を利かす 顔を利かせる 顔を効かす 顔を効かせる 顔を合わす 顔を合わせる 顔を売る 顔を掩う 顔を揃える 顔を曇らす 顔を歪める 顔を潰される 顔を潰す 顔を直す 顔を突き合せる 顔を突き合わせる 顔を立てる 顔を綻ばせる 顔を繋ぐ 顔を背ける 顔を覆う 顔を見せる 顔を貸す 顔を赤らめる 顔を顰める 顔アップ 顔ハメ 顔ハメ看板 顔バレ 顔パス 顔パンツ 顔ファン 顔中 顔写真 顔合わせる 顔変り 顔変わり 顔射 顔文字 顔本 顔汚し 顔画像 顔着 顔立て 顔芸 顔見知り 顔認証 顔認識 顔謝 顔騎 馬の顔","kanji":"顔"},{"keb":"貌","dependents":"地貌 象貌","kanji":"貌"},{"keb":"顏","kanji":"顏"}]}
+{"ent_seq":2868628,"k_ele":[{"keb":"顔","dependents":"あへ顔 あわせる顔がない いい顔 うかぬ顔 うかぬ顔をする うりざね顔 えんま顔 おこ顔 お顔 さる顔 しょうゆ顔 すました顔 そしらぬ顔 そ知らぬ顔 たぬき顔 でかい顔する でかい顔をする どや顔 なに喰わぬ顔 なに食わぬ顔 にこにこ顔 ほくほく顔 むずかしい顔をする もっともらしい顔 わがもの顔 わが物顔 わけ知り顔 アヘ顔 イキ顔 エビス顔 キリンの顔 ソース顔 トロ顔 ドヤ顔 ニコニコ顔 ハーフ顔 ヘン顔 ホクホク顔 モブ顔 不安顔 主人顔 事有り顔 人待ち顔 仏の顔も三度 会わせる顔がない 何の顔あって 何喰わぬ顔 何食わぬ顔 作り顔 借りる時の地蔵顔、なす時の閻魔顔 借りる時の地蔵顔、済す時の閻魔顔 借りる時の地蔵顔なす時の閻魔顔 借りる時の地蔵顔済す時の閻魔顔 写真顔 台顔 合わせる顔がない 合わせる顔が無い 向顔 地蔵顔 塩顔 大きな顔をする 夷顔 好い顔 子ども顔 子供顔 尤もらしい顔 得たり顔 得意顔 得顔 御顔 心得顔 心配顔 怒った顔 怖い顔 思案顔 惚け顔 我がもの顔 我が物顔 我物顔 所得顔 手柄顔 抜からぬ顔 朱顔 浮かない顔 浮かぬ顔 浮かぬ顔をする 涼しい顔 渋い顔をする 澄ました顔 照れ顔 物知り顔 犬の顔 猫が顔を洗うと雨が降る 猫の顔 瑶顔 瓜実顔 甘い顔する 甘い顔をする 生き顔 男顔 知らぬ顔 知らぬ顔の半兵衛 知らん顔 納得顔 素知らぬ顔 能面のような顔 良い顔 花の顔 苦り顔 親の顔が見たい 訳知り顔 醤油顔 閻魔顔 険しい顔 難しい顔をする 顔から火が出る 顔がきく 顔がそろう 顔がひろい 顔がほころぶ 顔が利く 顔が売れる 顔が広い 顔が揃う 顔が立つ 顔が綻ぶ 顔が見える 顔きき 顔じゅう 顔に出る 顔に泥を塗る 顔に紅葉を散らす 顔のひろい 顔の作り 顔の広い 顔の道具 顔をあわす 顔をきかせる 顔をしかめる 顔をそむける 顔をそろえる 顔をたてる 顔をだす 顔をつきあわせる 顔をつき合せる 顔をつき合わせる 顔をつなぐ 顔をつぶす 顔をなおす 顔をほころばせる 顔をみせる 顔をゆがめる 顔を上げる 顔を付き合わせる 顔を出す 顔を利かす 顔を利かせる 顔を効かす 顔を効かせる 顔を合わす 顔を合わせる 顔を売る 顔を掩う 顔を揃える 顔を曇らす 顔を歪める 顔を潰される 顔を潰す 顔を直す 顔を突き合せる 顔を突き合わせる 顔を立てる 顔を綻ばせる 顔を繋ぐ 顔を背ける 顔を覆う 顔を見せる 顔を貸す 顔を赤らめる 顔を顰める 顔アップ 顔ハメ 顔ハメ看板 顔バレ 顔パス 顔パンツ 顔ファン 顔中 顔写真 顔合わせる 顔変り 顔変わり 顔射 顔文字 顔本 顔汚し 顔画像 顔着 顔立て 顔芸 顔見知り 顔認証 顔認識 顔謝 顔騎 馬の顔","kanji":"顔"},{"keb":"貌","dependents":"地貌 象貌","kanji":"貌"},{"keb":"顏","kanji":"顏"}]}
 {"ent_seq":2868629,"k_ele":[{"keb":"足糸","composition":"足 糸","dependencies":"足 糸","kanji":"足 糸"}]}
 {"ent_seq":2868630,"k_ele":[{"keb":"造幣局","composition":"造幣 局","dependencies":"造幣 局","kanji":"造 幣 局"}]}
 {"ent_seq":2868631,"k_ele":[{"keb":"小考","composition":"小 考","dependencies":"小 考","kanji":"小 考"},{"keb":"少考","kanji":"少 考"}]}
@@ -8304,6 +8301,7 @@
 {"ent_seq":2869609,"k_ele":[{"keb":"猟奇殺人犯","composition":"猟奇 殺人犯","dependencies":"猟奇 殺人 犯 殺人犯","kanji":"猟 奇 殺 人 犯"}]}
 {"ent_seq":2869610,"k_ele":[{"keb":"連続猟奇殺人","composition":"連続 猟奇 殺人","dependencies":"連続 猟奇 殺人","kanji":"連 続 猟 奇 殺 人"}]}
 {"ent_seq":2869611,"k_ele":[{"keb":"連続猟奇殺人事件","composition":"連続 猟奇 殺人 事件","dependencies":"連続 猟奇 殺人 事件","kanji":"連 続 猟 奇 殺 人 事 件"}]}
+{"ent_seq":2869612,"k_ele":[{"keb":"猟奇殺人鬼","composition":"猟奇 殺人鬼","dependencies":"猟奇 殺人 鬼 殺人鬼","kanji":"猟 奇 殺 人 鬼"}]}
 {"ent_seq":2869614,"k_ele":[{"keb":"動索","composition":"動 索","dependencies":"動 索","kanji":"動 索"}]}
 {"ent_seq":2869615}
 {"ent_seq":2869616}
@@ -9622,7 +9620,7 @@
 {"ent_seq":2871026,"k_ele":[{"keb":"肝の据わった","composition":"肝 の 据わっ た","dependencies":"肝 の 据わる 据わっ た","kanji":"肝 据"},{"keb":"肝のすわった","composition":"肝 の すわっ た","dependencies":"肝 の すわっ た","kanji":"肝"}]}
 {"ent_seq":2871027}
 {"ent_seq":2871028,"k_ele":[{"keb":"おかっぱ頭","composition":"お河童頭","dependencies":"お河童頭","kanji":"頭"},{"keb":"お河童頭","dependents":"おかっぱ頭","kanji":"河 童 頭"}]}
-{"ent_seq":2871029,"k_ele":[{"keb":"滅","dependents":"尽滅 族滅 鬼滅 鬼滅の刃","kanji":"滅"}]}
+{"ent_seq":2871029,"k_ele":[{"keb":"滅","dependents":"尽滅 族滅 焼滅 鬼滅 鬼滅の刃","kanji":"滅"}]}
 {"ent_seq":2871030,"k_ele":[{"keb":"支部長","composition":"支部 長","dependencies":"支部 長い 長","kanji":"支 部 長"}]}
 {"ent_seq":2871031,"k_ele":[{"keb":"七支刀","composition":"七 支 刀","dependencies":"七 支 刀","kanji":"七 支 刀"},{"keb":"七枝刀","composition":"七枝 刀","dependencies":"七枝 刀","kanji":"七 枝 刀"}]}
 {"ent_seq":2871035,"k_ele":[{"keb":"全面衝突","composition":"全面 衝突","dependencies":"全面 衝突","kanji":"全 面 衝 突"}]}
@@ -9939,10 +9937,12 @@
 {"ent_seq":2871365,"k_ele":[{"keb":"論点先取","composition":"論点 先取","dependencies":"論点 先取","kanji":"論 点 先 取"}]}
 {"ent_seq":2871366,"k_ele":[{"keb":"見合い写真","composition":"見合い 写真","dependencies":"見合い 写真","kanji":"見 合 写 真"},{"keb":"見合写真","composition":"見合 写真","dependencies":"見合い 見合 写真","kanji":"見 合 写 真"}]}
 {"ent_seq":2871367}
+{"ent_seq":2871368,"k_ele":[{"keb":"近親憎悪","composition":"近親 憎悪","dependencies":"近親 憎悪","kanji":"近 親 憎 悪"}]}
 {"ent_seq":2871369,"k_ele":[{"keb":"部族社会","composition":"部族 社会","dependencies":"部族 社会","kanji":"部 族 社 会"}]}
 {"ent_seq":2871370,"k_ele":[{"keb":"首振り人形","composition":"首振り 人形","dependencies":"首振り 人形","kanji":"首 振 人 形"},{"keb":"首ふり人形","composition":"首ふり 人形","dependencies":"首振り 首ふり 人形","kanji":"首 人 形"}]}
 {"ent_seq":2871371,"k_ele":[{"keb":"絡めあう","composition":"絡め あう","dependencies":"絡める 絡め あう","kanji":"絡"},{"keb":"絡め合う","composition":"絡め 合う","dependencies":"絡める 絡め 合う","kanji":"絡 合"},{"keb":"からめ合う","composition":"からめ 合う","dependencies":"からめる 絡める からめ 合う","kanji":"合"}]}
 {"ent_seq":2871372,"k_ele":[{"keb":"薄紅色","composition":"薄紅 色","dependencies":"薄紅 色","kanji":"薄 紅 色"}]}
+{"ent_seq":2871373,"k_ele":[{"keb":"お乳の人","composition":"お 乳 の 人","dependencies":"御 お 乳 の 人","kanji":"乳 人"},{"keb":"御乳の人","composition":"御 乳 の 人","dependencies":"御 乳 の 人","kanji":"御 乳 人"}]}
 {"ent_seq":2871374,"k_ele":[{"keb":"微分音","composition":"微分 音","dependencies":"微分 音","kanji":"微 分 音"}]}
 {"ent_seq":2871375,"k_ele":[{"keb":"口をつく","composition":"口 を つく","dependencies":"口 を 付く つく","kanji":"口"},{"keb":"口を突く","composition":"口 を 突く","dependencies":"口 を 突く","kanji":"口 突"},{"keb":"口を衝く","composition":"口 を 衝く","dependencies":"口 を 突く 衝く","kanji":"口 衝"}]}
 {"ent_seq":2871376,"k_ele":[{"keb":"吹けば飛ぶよう","composition":"吹け ば 飛ぶ よう","dependencies":"吹ける 吹く 吹け ばっ ば 飛ぶ よう","kanji":"吹 飛"},{"keb":"吹けば飛ぶ様","composition":"吹け ば 飛ぶ 様","dependencies":"吹ける 吹く 吹け ばっ ば 飛ぶ 様","kanji":"吹 飛 様"},{"keb":"吹けばとぶよう","composition":"吹け ば と ぶよう","dependencies":"吹ける 吹く 吹け ばっ ば と 舞踊 ぶよう","kanji":"吹"},{"keb":"ふけば飛ぶよう","composition":"ふけ ば 飛ぶ よう","dependencies":"雲脂 ふけ ばっ ば 飛ぶ よう","kanji":"飛"}]}
@@ -9955,8 +9955,10 @@
 {"ent_seq":2871384,"k_ele":[{"keb":"中進国","composition":"中進 国","dependencies":"中進 国","kanji":"中 進 国"}]}
 {"ent_seq":2871385,"k_ele":[{"keb":"薄布","composition":"薄 布","dependencies":"薄い 薄 布","kanji":"薄 布"}]}
 {"ent_seq":2871386,"k_ele":[{"keb":"言いのける","composition":"言い のける","dependencies":"言う 言い 退ける のける","kanji":"言"},{"keb":"言い退ける","composition":"言い 退ける","dependencies":"言う 言い 退ける","kanji":"言 退"}]}
+{"ent_seq":2871387,"k_ele":[{"keb":"憂いる","composition":"憂い る","dependencies":"憂い り る","kanji":"憂"},{"keb":"愁いる","composition":"愁 いる","dependencies":"愁 居る いる","kanji":"愁"}]}
 {"ent_seq":2871388}
 {"ent_seq":2871389,"k_ele":[{"keb":"国宝級","composition":"国宝 級","dependencies":"国宝 級","kanji":"国 宝 級"}]}
+{"ent_seq":2871391,"k_ele":[{"keb":"淫虐","kanji":"淫 虐"},{"keb":"婬虐","composition":"婬 虐","dependencies":"婬 虐","kanji":"婬 虐"}]}
 {"ent_seq":2871392,"k_ele":[{"keb":"こそげ落とす","composition":"こそげ 落とす","dependencies":"こそげる 刮げる こそげ 落とす","kanji":"落"},{"keb":"刮げ落とす","composition":"刮げ 落とす","dependencies":"刮げる 刮げ 落とす","kanji":"刮 落"},{"keb":"こそげ落す","composition":"こそげ 落す","dependencies":"こそげる 刮げる こそげ 落とす 落す","kanji":"落"},{"keb":"刮げ落す","composition":"刮げ 落す","dependencies":"刮げる 刮げ 落とす 落す","kanji":"刮 落"}]}
 {"ent_seq":2871393,"k_ele":[{"keb":"迷惑がる","composition":"迷惑 がる","dependencies":"迷惑 がる","kanji":"迷 惑"}]}
 {"ent_seq":2871394,"k_ele":[{"keb":"西洋弟切草","composition":"西洋 弟切草","dependencies":"西洋 弟切草","kanji":"西 洋 弟 切 草"}]}
@@ -9971,10 +9973,144 @@
 {"ent_seq":2871403}
 {"ent_seq":2871404,"k_ele":[{"keb":"免疫応答","composition":"免疫 応答","dependencies":"免疫 応答","kanji":"免 疫 応 答"}]}
 {"ent_seq":2871405,"k_ele":[{"keb":"無人搬送車","composition":"無人 搬送 車","dependencies":"無人 搬送 車","kanji":"無 人 搬 送 車"}]}
+{"ent_seq":2871407}
+{"ent_seq":2871408,"k_ele":[{"keb":"爪水虫","composition":"爪 水虫","dependencies":"爪 水虫","kanji":"爪 水 虫"}]}
 {"ent_seq":2871409,"k_ele":[{"keb":"集まれ","composition":"集まる","dependencies":"集まる","kanji":"集"}]}
+{"ent_seq":2871410,"k_ele":[{"keb":"焼滅","composition":"焼 滅","dependencies":"焼ける 焼け 焼 滅","kanji":"焼 滅"}]}
+{"ent_seq":2871412,"k_ele":[{"keb":"おこ顔","composition":"おこ 顔","dependencies":"烏滸 おこ 顔","kanji":"顔"}]}
+{"ent_seq":2871413,"k_ele":[{"keb":"身を固くする","composition":"身 を 固く する","dependencies":"身 を 固い 固く 成る 為る する","kanji":"身 固"}]}
+{"ent_seq":2871414,"k_ele":[{"keb":"適用外","composition":"適用 外","dependencies":"適用 外","kanji":"適 用 外"}]}
 {"ent_seq":2871415,"k_ele":[{"keb":"べた凪","composition":"べた 凪","dependencies":"下手 べた 凪","kanji":"凪"}]}
+{"ent_seq":2871416,"k_ele":[{"keb":"立坑櫓","composition":"立坑 櫓","dependencies":"竪坑 立坑 櫓","kanji":"立 坑 櫓"},{"keb":"竪坑櫓","composition":"竪坑 櫓","dependencies":"竪坑 櫓","kanji":"竪 坑 櫓"},{"keb":"立て坑櫓","composition":"立て坑 櫓","dependencies":"竪坑 立て坑 櫓","kanji":"立 坑 櫓"},{"keb":"立抗櫓","composition":"立 抗 櫓","dependencies":"立て 立 抗 櫓","kanji":"立 抗 櫓"},{"keb":"立坑やぐら","composition":"立坑 やぐら","dependencies":"竪坑 立坑 櫓 やぐら","kanji":"立 坑"},{"keb":"縦坑櫓","composition":"縦坑 櫓","dependencies":"竪坑 縦坑 櫓","kanji":"縦 坑 櫓"},{"keb":"竪抗櫓","composition":"竪 抗 櫓","dependencies":"縦 竪 抗 櫓","kanji":"竪 抗 櫓"},{"keb":"立て坑やぐら","composition":"立て坑 やぐら","dependencies":"竪坑 立て坑 櫓 やぐら","kanji":"立 坑"},{"keb":"竪坑やぐら","composition":"竪坑 やぐら","dependencies":"竪坑 櫓 やぐら","kanji":"竪 坑"}]}
+{"ent_seq":2871417,"k_ele":[{"keb":"連結棒","composition":"連結 棒","dependencies":"連結 棒","kanji":"連 結 棒"}]}
+{"ent_seq":2871418,"k_ele":[{"keb":"割薬","composition":"割 薬","dependencies":"割 薬","kanji":"割 薬"}]}
+{"ent_seq":2871419,"k_ele":[{"keb":"綿紗","composition":"綿 紗","dependencies":"綿 紗","kanji":"綿 紗"}]}
+{"ent_seq":2871420,"k_ele":[{"keb":"過酸価","composition":"過酸 価","dependencies":"過酸 価","kanji":"過 酸 価"}]}
+{"ent_seq":2871421,"k_ele":[{"keb":"酸血","composition":"酸 血","dependencies":"酸 血","kanji":"酸 血"}]}
 {"ent_seq":2871423,"k_ele":[{"keb":"画素数","composition":"画素 数","dependencies":"画素 数","kanji":"画 素 数"}]}
+{"ent_seq":2871424,"k_ele":[{"keb":"高画素","composition":"高 画素","dependencies":"高 画素","kanji":"高 画 素"}]}
+{"ent_seq":2871426,"k_ele":[{"keb":"お気張りやす","composition":"お 気張り やす","dependencies":"御 お 気張る 気張り やす","kanji":"気 張"}]}
 {"ent_seq":2871428,"k_ele":[{"keb":"ざるを得ません","composition":"ざる を 得 ませ ん","dependencies":"ざる を 得 ます ませ んっ ん","kanji":"得"}]}
+{"ent_seq":2871429,"k_ele":[{"keb":"御柳梅","composition":"御 柳梅","dependencies":"御 柳梅","kanji":"御 柳 梅"}]}
+{"ent_seq":2871430,"k_ele":[{"keb":"全手葉椎","composition":"全 手 葉 椎","dependencies":"全 手 葉 椎","kanji":"全 手 葉 椎"},{"keb":"馬刀葉椎","composition":"馬刀葉 椎","dependencies":"馬刀葉 椎","kanji":"馬 刀 葉 椎"}]}
+{"ent_seq":2871431,"k_ele":[{"keb":"順位付け","composition":"順位 付け","dependencies":"順位 付け","kanji":"順 位 付"}]}
+{"ent_seq":2871432,"k_ele":[{"keb":"石巻貝","composition":"石巻 貝","dependencies":"石巻 貝","kanji":"石 巻 貝"}]}
+{"ent_seq":2871433,"k_ele":[{"keb":"ＡＢＣ兵器","composition":"ＡＢＣ 兵器","dependencies":"ABC ＡＢＣ 兵器","kanji":"兵 器"}]}
+{"ent_seq":2871434,"k_ele":[{"keb":"ＳＳＴ","composition":"SST","dependencies":"SST"}]}
+{"ent_seq":2871435,"k_ele":[{"keb":"ＭＥ","composition":"ME","dependencies":"ME"}]}
+{"ent_seq":2871436,"k_ele":[{"keb":"参考までに","composition":"参考 まで に","dependencies":"参考 まー ま で まで に","kanji":"参 考"}]}
+{"ent_seq":2871439,"k_ele":[{"keb":"ホクホク顔","composition":"ホクホク 顔","dependencies":"ほくほく ホクホク 顔","kanji":"顔"},{"keb":"ほくほく顔","composition":"ほくほく 顔","dependencies":"ほくほく 顔","kanji":"顔"}]}
+{"ent_seq":2871441,"k_ele":[{"keb":"重罪人","composition":"重罪 人","dependencies":"重罪 人","kanji":"重 罪 人"}]}
+{"ent_seq":2871443,"k_ele":[{"keb":"一人も","composition":"一人 も","dependencies":"一人 も","kanji":"一 人"}]}
+{"ent_seq":2871444,"k_ele":[{"keb":"芳香浴","composition":"芳香 浴","dependencies":"芳香 浴","kanji":"芳 香 浴"}]}
+{"ent_seq":2871445,"k_ele":[{"keb":"月光浴","composition":"月光 浴","dependencies":"月光 浴","kanji":"月 光 浴"}]}
+{"ent_seq":2871446,"k_ele":[{"keb":"松菊","kanji":"松 菊"}]}
+{"ent_seq":2871447,"k_ele":[{"keb":"病誌","composition":"病 誌","dependencies":"病 誌","kanji":"病 誌"}]}
+{"ent_seq":2871449,"k_ele":[{"keb":"電力市場","composition":"電力 市場","dependencies":"電力 市場","kanji":"電 力 市 場"}]}
+{"ent_seq":2871450,"k_ele":[{"keb":"卸電力市場","composition":"卸 電力 市場","dependencies":"卸 電力 市場","kanji":"卸 電 力 市 場"}]}
+{"ent_seq":2871451}
+{"ent_seq":2871452}
+{"ent_seq":2871453}
+{"ent_seq":2871454,"k_ele":[{"keb":"付き添い者","composition":"付き添い 者","dependencies":"付き添い 者","kanji":"付 添 者"},{"keb":"付添者","composition":"付添 者","dependencies":"付き添い 付添 者","kanji":"付 添 者"}]}
+{"ent_seq":2871455,"k_ele":[{"keb":"卸電力","composition":"卸 電力","dependencies":"卸 電力","kanji":"卸 電 力"}]}
+{"ent_seq":2871456,"k_ele":[{"keb":"書契","kanji":"書 契"}]}
+{"ent_seq":2871457,"k_ele":[{"keb":"水化学","composition":"水 化学","dependencies":"水 化学","kanji":"水 化 学"}]}
+{"ent_seq":2871458}
+{"ent_seq":2871459}
+{"ent_seq":2871461,"k_ele":[{"keb":"圧縮試験機","composition":"圧縮 試験 機","dependencies":"圧縮 試験 機","kanji":"圧 縮 試 験 機"}]}
+{"ent_seq":2871462}
+{"ent_seq":2871463}
+{"ent_seq":2871464}
+{"ent_seq":2871465}
+{"ent_seq":2871466}
+{"ent_seq":2871467,"k_ele":[{"keb":"退魔師","composition":"退魔 師","dependencies":"退魔 師","kanji":"退 魔 師"},{"keb":"退魔士","composition":"退魔 士","dependencies":"退魔 士","kanji":"退 魔 士"}]}
+{"ent_seq":2871468,"k_ele":[{"keb":"打ち跨る","composition":"打ち 跨る","dependencies":"打ち 跨がる 跨る","kanji":"打 跨"},{"keb":"うち跨る","composition":"うち 跨る","dependencies":"うち 跨がる 跨る","kanji":"跨"},{"keb":"打ち跨がる","composition":"打ち 跨がる","dependencies":"打ち 跨がる","kanji":"打 跨"}]}
+{"ent_seq":2871469,"k_ele":[{"keb":"激弱","kanji":"激 弱"}]}
+{"ent_seq":2871470}
+{"ent_seq":2871471}
+{"ent_seq":2871472}
+{"ent_seq":2871473}
+{"ent_seq":2871474}
+{"ent_seq":2871475}
+{"ent_seq":2871477}
+{"ent_seq":2871478}
+{"ent_seq":2871479}
+{"ent_seq":2871480}
+{"ent_seq":2871481}
+{"ent_seq":2871482}
+{"ent_seq":2871483}
+{"ent_seq":2871484}
+{"ent_seq":2871485}
+{"ent_seq":2871486}
+{"ent_seq":2871487,"k_ele":[{"keb":"合成染料","composition":"合成 染料","dependencies":"合成 染料","kanji":"合 成 染 料"}]}
+{"ent_seq":2871488,"k_ele":[{"keb":"栄光あれ","composition":"栄光 あれ","dependencies":"栄光 彼れ あれ","kanji":"栄 光"}]}
+{"ent_seq":2871489,"k_ele":[{"keb":"幸いです","composition":"幸い です","dependencies":"幸い です","kanji":"幸"}]}
+{"ent_seq":2871490,"k_ele":[{"keb":"英仏露","composition":"英仏 露","dependencies":"英 仏 英仏 露","kanji":"英 仏 露"},{"keb":"英・仏・露","composition":"英 ・ 仏 ・ 露","dependencies":"英 ・ 仏 露","kanji":"英 仏 露"}]}
+{"ent_seq":2871491,"k_ele":[{"keb":"腐卵","dependents":"腐卵臭","kanji":"腐 卵"}]}
+{"ent_seq":2871492,"k_ele":[{"keb":"腐卵臭","composition":"腐卵 臭","dependencies":"腐卵 臭い 臭","kanji":"腐 卵 臭"}]}
+{"ent_seq":2871493,"k_ele":[{"keb":"拘束具","composition":"拘束 具","dependencies":"拘束 具","kanji":"拘 束 具"}]}
+{"ent_seq":2871494,"k_ele":[{"keb":"ボロ人形","composition":"ボロ 人形","dependencies":"襤褸 ボロ 人形","kanji":"人 形"},{"keb":"ぼろ人形","composition":"ぼろ 人形","dependencies":"襤褸 ぼろ 人形","kanji":"人 形"},{"keb":"襤褸人形","composition":"襤褸 人形","dependencies":"襤褸 人形","kanji":"襤 褸 人 形"}]}
+{"ent_seq":2871495,"k_ele":[{"keb":"開口器","composition":"開口 器","dependencies":"開口 器","kanji":"開 口 器"}]}
+{"ent_seq":2871496,"k_ele":[{"keb":"開口具","composition":"開口 具","dependencies":"開口 具","kanji":"開 口 具"}]}
+{"ent_seq":2871497}
+{"ent_seq":2871498}
+{"ent_seq":2871499,"k_ele":[{"keb":"酒に酔う","composition":"酒 に 酔う","dependencies":"酒 に 酔う","kanji":"酒 酔"}]}
+{"ent_seq":2871500}
+{"ent_seq":2871502,"k_ele":[{"keb":"湯浴み着","composition":"湯浴み 着","dependencies":"湯浴み 着","kanji":"湯 浴 着"},{"keb":"湯あみ着","composition":"湯あみ 着","dependencies":"湯浴み 湯あみ 着","kanji":"湯 着"}]}
+{"ent_seq":2871503,"k_ele":[{"keb":"全権委任法","composition":"全権 委任 法","dependencies":"全権 委任 法","kanji":"全 権 委 任 法"}]}
+{"ent_seq":2871504,"k_ele":[{"keb":"ヴァンゼー会議","composition":"ヴァンゼー 会議","dependencies":"ヴァンゼー 会議","kanji":"会 議"}]}
+{"ent_seq":2871505,"k_ele":[{"keb":"ユダヤ人問題","composition":"ユダヤ人 問題","dependencies":"ユダヤ 人 ユダヤ人 問題","kanji":"人 問 題"}]}
+{"ent_seq":2871506,"k_ele":[{"keb":"同封物","composition":"同封 物","dependencies":"同封 物","kanji":"同 封 物"}]}
+{"ent_seq":2871507,"k_ele":[{"keb":"お手拭き","composition":"お 手拭き","dependencies":"御 お 手拭き","kanji":"手 拭"},{"keb":"御手拭き","composition":"御 手拭き","dependencies":"御 手拭き","kanji":"御 手 拭"}]}
+{"ent_seq":2871508,"k_ele":[{"keb":"猫っかわいがり","composition":"猫 っ かわい がり","dependencies":"猫 っ 可愛い かわいい かわい がり","kanji":"猫"},{"keb":"猫っ可愛がり","composition":"猫 っ 可愛 がり","dependencies":"猫 っ 可愛い 可愛 がり","kanji":"猫 可 愛"}]}
+{"ent_seq":2871509,"k_ele":[{"keb":"射精る","composition":"射精 る","dependencies":"射精 り る","kanji":"射 精"}]}
+{"ent_seq":2871510,"k_ele":[{"keb":"平庸","composition":"平 庸","dependencies":"平 庸","kanji":"平 庸"}]}
+{"ent_seq":2871511,"k_ele":[{"keb":"魔軍","kanji":"魔 軍"}]}
+{"ent_seq":2871513,"k_ele":[{"keb":"原理原則","composition":"原理 原則","dependencies":"原理 原則","kanji":"原 理 原 則"}]}
+{"ent_seq":2871514,"k_ele":[{"keb":"ＤＨＭＯ"}]}
+{"ent_seq":2871515,"k_ele":[{"keb":"石英岩","composition":"石英 岩","dependencies":"石英 岩","kanji":"石 英 岩"}]}
+{"ent_seq":2871516,"k_ele":[{"keb":"光を当てる","composition":"光 を 当てる","dependencies":"光 を 当てる","kanji":"光 当"}]}
+{"ent_seq":2871517,"k_ele":[{"keb":"川砂","kanji":"川 砂"}]}
+{"ent_seq":2871518,"k_ele":[{"keb":"肌ツヤ","composition":"肌 ツヤ","dependencies":"肌 艶 ツヤ","kanji":"肌"},{"keb":"肌つや","composition":"肌艶","dependencies":"肌艶","kanji":"肌"},{"keb":"肌艶","dependents":"肌つや","kanji":"肌 艶"},{"keb":"膚艶","composition":"膚 艶","dependencies":"膚 艶","kanji":"膚 艶"}]}
+{"ent_seq":2871521,"k_ele":[{"keb":"恋愛話","composition":"恋愛 話","dependencies":"恋愛 話","kanji":"恋 愛 話"}]}
+{"ent_seq":2871522,"k_ele":[{"keb":"単焦点","composition":"単 焦点","dependencies":"単 焦点","kanji":"単 焦 点"}]}
+{"ent_seq":2871523,"k_ele":[{"keb":"お婿さん","composition":"お 婿 さん","dependencies":"御 お 婿 さん","kanji":"婿"}]}
+{"ent_seq":2871524,"k_ele":[{"keb":"表面実装","composition":"表面 実装","dependencies":"表面 実装","kanji":"表 面 実 装"}]}
+{"ent_seq":2871525,"k_ele":[{"keb":"面実装","composition":"面 実装","dependencies":"面 実装","kanji":"面 実 装"}]}
+{"ent_seq":2871526,"k_ele":[{"keb":"面実装技術","composition":"面 実装 技術","dependencies":"面 実装 技術","kanji":"面 実 装 技 術"}]}
+{"ent_seq":2871527,"k_ele":[{"keb":"分解熱","composition":"分 解熱","dependencies":"分 解熱","kanji":"分 解 熱"}]}
+{"ent_seq":2871528}
+{"ent_seq":2871529,"k_ele":[{"keb":"グリシド酸","composition":"グリシド 酸","dependencies":"グリシド 酸","kanji":"酸"}]}
+{"ent_seq":2871530,"k_ele":[{"keb":"唾液アミラーゼ","composition":"唾液 アミラーゼ","dependencies":"唾液 アミラーゼ","kanji":"唾 液"}]}
+{"ent_seq":2871531,"k_ele":[{"keb":"猥歌","kanji":"猥 歌"}]}
+{"ent_seq":2871533,"k_ele":[{"keb":"焼殺","kanji":"焼 殺"}]}
+{"ent_seq":2871536,"k_ele":[{"keb":"総司令","dependents":"総司令官 連合国最高司令官総司令部 連合国総司令部 連合国軍最高司令官総司令部","kanji":"総 司 令"}]}
+{"ent_seq":2871537,"k_ele":[{"keb":"肉欲的","composition":"肉欲 的","dependencies":"肉欲 的","kanji":"肉 欲 的"},{"keb":"肉慾的","composition":"肉慾 的","dependencies":"肉欲 肉慾 的","kanji":"肉 慾 的"}]}
+{"ent_seq":2871539,"k_ele":[{"keb":"鬼道","kanji":"鬼 道"}]}
+{"ent_seq":2871540,"k_ele":[{"keb":"雅宴画","composition":"雅宴 画","dependencies":"雅宴 画","kanji":"雅 宴 画"}]}
+{"ent_seq":2871541,"k_ele":[{"keb":"声帯炎","composition":"声帯 炎","dependencies":"声帯 炎","kanji":"声 帯 炎"}]}
+{"ent_seq":2871543,"k_ele":[{"keb":"かも知れぬ","composition":"か も 知れ ぬ","dependencies":"か も 知る 知れ ず ぬ","kanji":"知"}]}
+{"ent_seq":2871544,"k_ele":[{"keb":"孤閨","kanji":"孤 閨"}]}
+{"ent_seq":2871545,"k_ele":[{"keb":"同距離","composition":"同 距離","dependencies":"同 距離","kanji":"同 距 離"}]}
+{"ent_seq":2871546,"k_ele":[{"keb":"中程度","composition":"中 程度","dependencies":"中 程度","kanji":"中 程 度"}]}
+{"ent_seq":2871547,"k_ele":[{"keb":"狗奴国","composition":"狗奴 国","dependencies":"狗奴 国","kanji":"狗 奴 国"}]}
+{"ent_seq":2871548,"k_ele":[{"keb":"隠密裏","composition":"隠密 裏","dependencies":"隠密 裏","kanji":"隠 密 裏"},{"keb":"隠密裡","composition":"隠密 裡","dependencies":"隠密 裡","kanji":"隠 密 裡"}]}
+{"ent_seq":2871549,"k_ele":[{"keb":"股旅物","composition":"股旅 物","dependencies":"股旅 物","kanji":"股 旅 物"}]}
+{"ent_seq":2871551,"k_ele":[{"keb":"雲をつく","composition":"雲 を つく","dependencies":"雲 を 付く つく","kanji":"雲"},{"keb":"雲を衝く","composition":"雲 を 衝く","dependencies":"雲 を 突く 衝く","kanji":"雲 衝"},{"keb":"雲つく","composition":"雲 つく","dependencies":"雲 付く つく","kanji":"雲"},{"keb":"雲衝く","composition":"雲 衝く","dependencies":"雲 突く 衝く","kanji":"雲 衝"}]}
+{"ent_seq":2871554,"k_ele":[{"keb":"岩体","kanji":"岩 体"}]}
+{"ent_seq":2871555,"k_ele":[{"keb":"砂白金","composition":"砂 白金","dependencies":"砂 白金","kanji":"砂 白 金"}]}
+{"ent_seq":2871556,"k_ele":[{"keb":"鏡肌","composition":"鏡 肌","dependencies":"鏡 肌","kanji":"鏡 肌"}]}
+{"ent_seq":2871558,"k_ele":[{"keb":"紫外線情報","composition":"紫外 線 情報","dependencies":"紫外 線 情報","kanji":"紫 外 線 情 報"}]}
+{"ent_seq":2871559,"k_ele":[{"keb":"扼死","kanji":"扼 死"}]}
+{"ent_seq":2871560,"k_ele":[{"keb":"扼痕","kanji":"扼 痕"}]}
+{"ent_seq":2871561,"k_ele":[{"keb":"扼殺痕","composition":"扼殺 痕","dependencies":"扼殺 痕","kanji":"扼 殺 痕"}]}
+{"ent_seq":2871562,"k_ele":[{"keb":"皮下出血","composition":"皮下 出血","dependencies":"皮下 出血","kanji":"皮 下 出 血"}]}
+{"ent_seq":2871563,"k_ele":[{"keb":"広し","composition":"広い","dependencies":"広い","kanji":"広"}]}
+{"ent_seq":2871564,"k_ele":[{"keb":"死恐怖症","composition":"死 恐怖症","dependencies":"死 恐怖 症 恐怖症","kanji":"死 恐 怖 症"}]}
+{"ent_seq":2871565}
+{"ent_seq":2871566,"k_ele":[{"keb":"驍勇","kanji":"驍 勇"}]}
+{"ent_seq":2871567,"k_ele":[{"keb":"大豆インク","composition":"大豆 インク","dependencies":"大豆 インク","kanji":"大 豆"},{"keb":"大豆インキ","composition":"大豆 インキ","dependencies":"大豆 インク インキ","kanji":"大 豆"}]}
+{"ent_seq":2871568}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -15911,7 +16047,7 @@
 {"ent_seq":5742650}
 {"ent_seq":5742652,"k_ele":[{"keb":"釈日本紀","composition":"釈 日本 紀","dependencies":"釈 日本 紀","kanji":"釈 日 本 紀"}]}
 {"ent_seq":5742654,"k_ele":[{"keb":"雪苺娘","composition":"雪苺 娘","dependencies":"雪苺 娘","kanji":"雪 苺 娘"}]}
-{"ent_seq":5742655,"k_ele":[{"keb":"ＡＢＣ","composition":"ABC","dependencies":"ABC","dependents":"ＡＢＣ順"}]}
+{"ent_seq":5742655,"k_ele":[{"keb":"ＡＢＣ","composition":"ABC","dependencies":"ABC","dependents":"ＡＢＣ兵器 ＡＢＣ順"}]}
 {"ent_seq":5742656,"k_ele":[{"keb":"吉里吉里人","composition":"吉里吉里 人","dependencies":"吉里吉里 人","kanji":"吉 里 吉 里 人"}]}
 {"ent_seq":5742657,"k_ele":[{"keb":"世界自然保護基金","composition":"世界 自然 保護 基金","dependencies":"世界 自然 保護 基金","kanji":"世 界 自 然 保 護 基 金"}]}
 {"ent_seq":5742658}

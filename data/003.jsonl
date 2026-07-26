@@ -1,4 +1,3 @@
-{"ent_seq":2860724,"k_ele":[{"keb":"病斑","kanji":"病 斑"}]}
 {"ent_seq":2860725,"k_ele":[{"keb":"褐斑病","composition":"褐斑 病","dependencies":"褐斑 病","kanji":"褐 斑 病"}]}
 {"ent_seq":2860727,"k_ele":[{"keb":"翌期","kanji":"翌 期"}]}
 {"ent_seq":2860728,"k_ele":[{"keb":"立食会","composition":"立食 会","dependencies":"立食 会","kanji":"立 食 会"}]}
@@ -1645,7 +1644,7 @@
 {"ent_seq":2862492,"k_ele":[{"keb":"振り向きざま","composition":"振り向き ざま","dependencies":"振り 向き 振り向き 様 ざま","kanji":"振 向"},{"keb":"振り向き様","composition":"振り向き 様","dependencies":"振り 向き 振り向き 様","kanji":"振 向 様"},{"keb":"振向きざま","composition":"振向き ざま","dependencies":"振り 振 向き 振向き 様 ざま","kanji":"振 向"},{"keb":"振向き様","composition":"振向き 様","dependencies":"振り 振 向き 振向き 様","kanji":"振 向 様"}]}
 {"ent_seq":2862493,"k_ele":[{"keb":"混泳","kanji":"混 泳"}]}
 {"ent_seq":2862494,"k_ele":[{"keb":"歯磨き剤","composition":"歯磨き 剤","dependencies":"歯磨き 剤","kanji":"歯 磨 剤"}]}
-{"ent_seq":2862495,"k_ele":[{"keb":"後方","dependents":"後方一致 後方乱気流 後方互換 後方互換性 後方勤務 後方地域 後方地域警備 後方境界面 後方推論 後方支援 後方端 後方視的 後方連絡線","kanji":"後 方"},{"keb":"後え","composition":"後 え","dependencies":"後 えー え","kanji":"後"},{"keb":"後","dependents":"あと あとにも先にも あとを付ける あとを尾ける あとを絶たない あとを継ぐ あとを追う あと一歩 あと付け あと出し あと出しじゃんけん あと出しジャンケン あと押し あと片づけ あと片付け あと追い いい後は悪い お後がよろしいようで げすの後知恵 こけの後思案 この後 この後に及んで しかる後 その後 のち 下司の後知恵 下種のあと知恵 下種の後知恵 下衆の後知恵 事前後 二死後 亡き後 交配後隔離 使用後 倒れて後やむ 其の後 其後 冷や酒と親の意見は後できく 冷や酒と親の意見は後で効く 出産後 前虎後狼 卒業後 即位後朝見の儀 夕食後 外傷後ストレス障害 始めは処女のごとく後は脱兎のごとし 始めは処女の如く後は脱兎の如し 年後 後え 後えり 後かたづけ 後から 後から後から 後がつかえる 後がない 後が支える 後が無い 後くされ 後じん 後じんを拝する 後だし 後だしじゃんけん 後だしジャンケン 後で 後に 後にする 後になって 後になる 後にも先にも 後に倒れる 後に引けない 後ねだり 後の先 後の方 後の月 後の月見 後の朝 後の炭 後の祭 後の祭り 後の諱 後は野となれ山となれ 後へ引く 後へ退く 後をたたない 後をつぐ 後をつける 後を付ける 後を尾ける 後を弔う 後を引く 後を慕って 後を濁す 後を絶たず 後を絶たない 後を継ぐ 後を追う 後ジテ 後ノリ 後ピン 後七日 後七日の御修法 後乗り 後交通動脈 後仕手 後仕舞 後催眠暗示 後処理 後処理費用 後刷り 後加工 後半生 後取息子 後嚢 後嚢切開術 後回し蹴り 後報 後始末 後害 後工程 後廻し蹴り 後強請り 後形質 後扉 後技 後文 後昆 後株 後氷期 後炭 後燕 後片づけ 後片付け 後獣下綱 後獣類 後甲板 後番組 後療法 後知恵 後立 後羽 後耳介動脈 後脛骨筋 後脳 後腎 後腹膜 後臼歯 後舌 後襟 後語り 後講釈 後軍 後追 後配株 後鉢巻 後頸部 後鼻漏 心的外傷後ストレス障害 戦争後 接合後 接合後隔離 放課後 放課後児童クラブ 放課後学習 数分後 数年後 数日後 斃れて後已む 日本後紀 日没後 日焼けあと 昼食後 晴れ後曇り 晴れ後雨 晴後曇 晴後雨 業後 此の後 死してのちやむ 死してのち已む 死して後已む 水入り二番後撮り直し 災後 然るのち 然る後 爪あと 発つ鳥あとを濁さず 発つ鳥後を濁さず 真正後生動物 真正後生動物亜界 立つ鳥あとを濁さず 立つ鳥後を濁さず 紀元後 終了後 終戦後 続日本後紀 翻訳後修飾 虚仮の後思案 言葉後 踏みあと 退職後 道の後 閉経後 開発後評価 順後業","kanji":"後"}]}
+{"ent_seq":2862495,"k_ele":[{"keb":"後方","dependents":"後方一致 後方乱気流 後方互換 後方互換性 後方勤務 後方地域 後方地域警備 後方境界面 後方推論 後方支援 後方端 後方視的 後方連絡線","kanji":"後 方"},{"keb":"後え","composition":"後 え","dependencies":"後 えー え","kanji":"後"},{"keb":"後","dependents":"あと あとにも先にも あとを付ける あとを尾ける あとを絶たない あとを継ぐ あとを追う あと一歩 あと付け あと出し あと出しじゃんけん あと出しジャンケン あと押し あと片づけ あと片付け あと追い いい後は悪い お後がよろしいようで げすの後知恵 こけの後思案 この後 この後に及んで しかる後 その後 のち 下司の後知恵 下種のあと知恵 下種の後知恵 下衆の後知恵 事前後 二死後 亡き後 交配後隔離 使用後 倒れて後やむ 其の後 其後 冷や酒と親の意見は後できく 冷や酒と親の意見は後で効く 出産後 前虎後狼 卒業後 即位後朝見の儀 夕食後 外傷後ストレス障害 始めは処女のごとく後は脱兎のごとし 始めは処女の如く後は脱兎の如し 年後 後え 後えり 後かたづけ 後から 後から後から 後がつかえる 後がない 後が支える 後が無い 後くされ 後じん 後じんを拝する 後だし 後だしじゃんけん 後だしジャンケン 後で 後に 後にする 後になって 後になる 後にも先にも 後に倒れる 後に引けない 後ねだり 後の先 後の方 後の月 後の月見 後の朝 後の炭 後の祭 後の祭り 後の諱 後は野となれ山となれ 後へ引く 後へ退く 後をたたない 後をつぐ 後をつける 後を付ける 後を尾ける 後を弔う 後を引く 後を慕って 後を濁す 後を絶たず 後を絶たない 後を継ぐ 後を追う 後ジテ 後ノリ 後ピン 後七日 後七日の御修法 後乗り 後交通動脈 後仕手 後仕舞 後催眠暗示 後処理 後処理費用 後刷り 後加工 後勝ち 後半生 後取息子 後嚢 後嚢切開術 後回し蹴り 後報 後始末 後害 後工程 後廻し蹴り 後強請り 後形質 後扉 後技 後文 後昆 後株 後氷期 後炭 後燕 後片づけ 後片付け 後獣下綱 後獣類 後甲板 後番組 後療法 後知恵 後立 後羽 後耳介動脈 後脛骨筋 後脳 後腎 後腹膜 後臼歯 後舌 後襟 後語り 後講釈 後軍 後追 後配株 後鉢巻 後頸部 後鼻漏 心的外傷後ストレス障害 戦争後 接合後 接合後隔離 放課後 放課後児童クラブ 放課後学習 数分後 数年後 数日後 斃れて後已む 日本後紀 日没後 日焼けあと 昼食後 晴れ後曇り 晴れ後雨 晴後曇 晴後雨 業後 此の後 死してのちやむ 死してのち已む 死して後已む 水入り二番後撮り直し 災後 然るのち 然る後 爪あと 発つ鳥あとを濁さず 発つ鳥後を濁さず 真正後生動物 真正後生動物亜界 立つ鳥あとを濁さず 立つ鳥後を濁さず 紀元後 終了後 終戦後 続日本後紀 翻訳後修飾 虚仮の後思案 言葉後 踏みあと 退職後 道の後 閉経後 開発後評価 順後業","kanji":"後"}]}
 {"ent_seq":2862496,"k_ele":[{"keb":"版築","kanji":"版 築"}]}
 {"ent_seq":2862497,"k_ele":[{"keb":"練り土","kanji":"練 土"},{"keb":"煉り土","composition":"煉り 土","dependencies":"練る 練り 煉り 土","kanji":"煉 土"},{"keb":"練土","composition":"練 土","dependencies":"練 土","kanji":"練 土"},{"keb":"煉土","composition":"煉 土","dependencies":"練る 練り 煉 土","kanji":"煉 土"}]}
 {"ent_seq":2862498,"k_ele":[{"keb":"訓練地","composition":"訓練 地","dependencies":"訓練 地","kanji":"訓 練 地"}]}
@@ -2523,7 +2522,7 @@
 {"ent_seq":2863431,"k_ele":[{"keb":"粘性流体","composition":"粘性 流体","dependencies":"粘性 流体","kanji":"粘 性 流 体"}]}
 {"ent_seq":2863432}
 {"ent_seq":2863433,"k_ele":[{"keb":"土木作業","composition":"土木 作業","dependencies":"土木 作業","kanji":"土 木 作 業"}]}
-{"ent_seq":2863434,"k_ele":[{"keb":"提灯","dependents":"ちょうちん ちょうちんを持つ ちょうちん持ち ちょうちん行列 ちょうちん記事 アリストテレスの提灯 丸ちょうちん 丸提灯 円提灯 小田原提灯 岐阜提灯 弓張り提灯 弓張提灯 強盗提灯 提灯お化け 提灯に釣り鐘 提灯に釣鐘 提灯を持つ 提灯持 提灯持ち 提灯行列 提灯袖 提灯記事 提灯鮟鱇 洟ちょうちん 洟提灯 白張り提灯 白張提灯 盆提灯 箕作柄長提灯鮟鱇 赤ちょうちん 赤提灯 釣り提灯 高張り提灯 高張提灯 鼻ちょうちん 鼻提灯 龕灯提灯","kanji":"提 灯"}]}
+{"ent_seq":2863434,"k_ele":[{"keb":"提灯","dependents":"ちょうちん ちょうちんを持つ ちょうちん持ち ちょうちん行列 ちょうちん記事 アリストテレスの提灯 丸ちょうちん 丸提灯 円提灯 小田原提灯 岐阜提灯 弓張り提灯 弓張提灯 強盗提灯 提灯お化け 提灯に釣り鐘 提灯に釣鐘 提灯を持つ 提灯持 提灯持ち 提灯行列 提灯袖 提灯記事 提灯鮟鱇 洟ちょうちん 洟提灯 白張り提灯 白張提灯 盆ちょうちん 盆提灯 箕作柄長提灯鮟鱇 赤ちょうちん 赤提灯 釣り提灯 高張り提灯 高張提灯 鼻ちょうちん 鼻提灯 龕灯提灯","kanji":"提 灯"}]}
 {"ent_seq":2863435,"k_ele":[{"keb":"お歌","composition":"お 歌","dependencies":"御 お 歌","kanji":"歌"},{"keb":"御歌","composition":"御 歌","dependencies":"御 歌","kanji":"御 歌"},{"keb":"み歌","composition":"み 歌","dependencies":"み 歌","kanji":"歌"}]}
 {"ent_seq":2863436,"k_ele":[{"keb":"交流分析","composition":"交流 分析","dependencies":"交流 分析","kanji":"交 流 分 析"}]}
 {"ent_seq":2863437}
@@ -7017,7 +7016,7 @@
 {"ent_seq":2868253,"k_ele":[{"keb":"野兎","dependents":"北極野兎 日本野兎 東北野兎 薮野兎 藪野兎 野うさぎ 野ウサギ 野兎病","kanji":"野 兎"}]}
 {"ent_seq":2868254,"k_ele":[{"keb":"日本野兎","composition":"日本 野兎","dependencies":"日本 野兎","kanji":"日 本 野 兎"}]}
 {"ent_seq":2868255}
-{"ent_seq":2868256,"k_ele":[{"keb":"野","dependents":"アフリカ野驢馬 ブローカ野 一次聴覚野 一次運動野 家鶏野鶩 底野迦 後は野となれ山となれ 感覚野 春の野 流氷野 照射野 秋の野罌粟 虎を野に放つ 補足運動野 視覚野 言語野 連合野 運動野 野いばら 野たれ死ぬ 野だて 野つぼ 野となれ山となれ 野にある 野に下る 野に在る 野に隠れる 野の花 野ぶどう 野べ 野ろ 野ツボ 野冊 野博打 野味 野壷 野壺 野巫 野曝し 野武士 野海棠 野箆坊 野篦坊 野締め 野罌粟 野胡桃 野茉莉 野萵苣 野蕗 野襤褸菊 野試合 野遊 野遊山 野鵐 野鶲","kanji":"野"},{"keb":"埜","kanji":"埜"}]}
+{"ent_seq":2868256,"k_ele":[{"keb":"野","dependents":"アフリカ野驢馬 ブローカ野 一次聴覚野 一次運動野 家鶏野鶩 底野迦 後は野となれ山となれ 感覚野 春の野 流氷野 照射野 秋の野罌粟 虎を野に放つ 補足運動野 視覚野 言語野 連合野 運動野 野いばら 野たれ死ぬ 野だて 野つぼ 野となれ山となれ 野にある 野に下る 野に伏し山に伏す 野に在る 野に隠れる 野の花 野ぶどう 野べ 野ろ 野ツボ 野冊 野博打 野味 野壷 野壺 野巫 野年貢 野曝し 野武士 野海棠 野箆坊 野篦坊 野締め 野罌粟 野胡桃 野茉莉 野萵苣 野蕗 野襤褸菊 野試合 野遊 野遊山 野鵐 野鶲","kanji":"野"},{"keb":"埜","kanji":"埜"}]}
 {"ent_seq":2868257}
 {"ent_seq":2868258,"k_ele":[{"keb":"鵲笛鴉","composition":"鵲 笛 鴉","dependencies":"鵲 笛 烏 鴉","kanji":"鵲 笛 鴉"}]}
 {"ent_seq":2868259,"k_ele":[{"keb":"オーストラリア黒朱鷺","composition":"オーストラリア 黒 朱鷺","dependencies":"オーストラリア 黒 鴇 朱鷺","kanji":"黒 朱 鷺"}]}
@@ -7064,10 +7063,10 @@
 {"ent_seq":2868301,"k_ele":[{"keb":"子なし","composition":"子 なし","dependencies":"子 なし","kanji":"子"},{"keb":"子無し","composition":"子 無し","dependencies":"子 無し","kanji":"子 無"}]}
 {"ent_seq":2868302,"k_ele":[{"keb":"真ん","composition":"真 ん","dependencies":"真 んっ ん","kanji":"真"}]}
 {"ent_seq":2868303,"k_ele":[{"keb":"票固め","kanji":"票 固"},{"keb":"票固","composition":"票 固","dependencies":"票 固い 固","kanji":"票 固"},{"keb":"票がため","composition":"票 が ため","dependencies":"票 が 為 ため","kanji":"票"}]}
-{"ent_seq":2868304,"k_ele":[{"keb":"雷","dependents":"カミナリ カミナリ族 人工雷 地震雷火事おやじ 地震雷火事親父 山雷頤 日雷 水神鳴 沢雷随 渦雷 澤雷隨 火山雷 火神鳴 疾雷 神鳴 超高層雷放電 雷が落ちる 雷が鳴る 雷こう 雷さま 雷てい 雷に打たれた 雷を落とす 雷サージ 雷丸 雷地予 雷地豫 雷天大壮 雷族 雷様 雷水解 雷汞 雷沢帰妹 雷澤帰妹 雷発 雷竜 雷酸 雷酸塩 雷酸水銀 雷鈷 震為雷","kanji":"雷"}]}
+{"ent_seq":2868304,"k_ele":[{"keb":"雷","dependents":"カミナリ カミナリ族 人工雷 剛雷 地震雷火事おやじ 地震雷火事親父 山雷頤 日雷 水神鳴 沢雷随 渦雷 澤雷隨 火山雷 火神鳴 疾雷 神鳴 豪雷 超高層雷放電 轟雷 雷が落ちる 雷が鳴る 雷こう 雷さま 雷てい 雷に打たれた 雷を落とす 雷サージ 雷丸 雷地予 雷地豫 雷天大壮 雷族 雷様 雷水解 雷汞 雷沢帰妹 雷澤帰妹 雷発 雷竜 雷酸 雷酸塩 雷酸水銀 雷鈷 震為雷","kanji":"雷"}]}
 {"ent_seq":2868305,"k_ele":[{"keb":"筋紡錘","composition":"筋 紡錘","dependencies":"筋 紡錘","kanji":"筋 紡 錘"}]}
 {"ent_seq":2868306,"k_ele":[{"keb":"給仕人","composition":"給仕 人","dependencies":"給仕 人","kanji":"給 仕 人"}]}
-{"ent_seq":2868307,"k_ele":[{"keb":"雷","dependents":"カミナリ カミナリ族 人工雷 地震雷火事おやじ 地震雷火事親父 山雷頤 日雷 水神鳴 沢雷随 渦雷 澤雷隨 火山雷 火神鳴 疾雷 神鳴 超高層雷放電 雷が落ちる 雷が鳴る 雷こう 雷さま 雷てい 雷に打たれた 雷を落とす 雷サージ 雷丸 雷地予 雷地豫 雷天大壮 雷族 雷様 雷水解 雷汞 雷沢帰妹 雷澤帰妹 雷発 雷竜 雷酸 雷酸塩 雷酸水銀 雷鈷 震為雷","kanji":"雷"}]}
+{"ent_seq":2868307,"k_ele":[{"keb":"雷","dependents":"カミナリ カミナリ族 人工雷 剛雷 地震雷火事おやじ 地震雷火事親父 山雷頤 日雷 水神鳴 沢雷随 渦雷 澤雷隨 火山雷 火神鳴 疾雷 神鳴 豪雷 超高層雷放電 轟雷 雷が落ちる 雷が鳴る 雷こう 雷さま 雷てい 雷に打たれた 雷を落とす 雷サージ 雷丸 雷地予 雷地豫 雷天大壮 雷族 雷様 雷水解 雷汞 雷沢帰妹 雷澤帰妹 雷発 雷竜 雷酸 雷酸塩 雷酸水銀 雷鈷 震為雷","kanji":"雷"}]}
 {"ent_seq":2868308,"k_ele":[{"keb":"方位計","composition":"方位 計","dependencies":"方位 計","kanji":"方 位 計"}]}
 {"ent_seq":2868309,"k_ele":[{"keb":"方計","composition":"方 計","dependencies":"方 計","kanji":"方 計"}]}
 {"ent_seq":2868310,"k_ele":[{"keb":"クラス変数","composition":"クラス 変数","dependencies":"クラス 変数","kanji":"変 数"}]}
@@ -7195,7 +7194,7 @@
 {"ent_seq":2868437,"k_ele":[{"keb":"糖尿病性ケトアシドーシス","composition":"糖尿病 性 ケトアシドーシス","dependencies":"糖尿 病 糖尿病 性 ケトアシドーシス","kanji":"糖 尿 病 性"}]}
 {"ent_seq":2868438}
 {"ent_seq":2868439,"k_ele":[{"keb":"リンパ本幹","composition":"リンパ 本幹","dependencies":"リンパ 本幹","kanji":"本 幹"}]}
-{"ent_seq":2868440,"k_ele":[{"keb":"管","dependents":"うずまき管 ふるい管 ろう管 イメージ管 エウスタキオ管 エーコン管 ガイガーミュラー計数管 ガイガー計数管 ガス管 ガラス管 クルックス管 クーリッジ管 シス管 ニキシー管 ネオン管 ヒューム管 ピトー管 ブラウン管 ベンチュリ管 ボイド管 ポリ塩化ビニル管 マイクロ波管 マルピーギ管 リンパ管 リンパ管奇形 リンパ管炎 リンパ管腫 ロウ管 一管 下水管 二極真空管 二次電子増倍管 伝声管 便管 信号炎管 光電管 出糸管 励振管 動脈管 動脈管開存症 吸水管 品管 喇叭管炎 器管 噴射管 地無し管 塩ビ管 塩化ビニル管 射精管 導水管 導波管 導波管定数 引込管 弦管打 律管 微小管 心血管 心血管疾患 心血管系 手根管症候群 拡大管 排気管 排水管 撮像管 放水管 放電管 整流管 日本鋼管 欧氏管 歯根管治療 毛細管 毛細管現象 油井管 油送管 消化管 消化管間質腫瘍 涙管 淋巴管 渦巻き管 渦巻管 炎管 点灯管 烟管 爆発管 生管 産卵管 発射管 盲管 盲管銃創 真空管 真空管アンプ 真空蛍光管 磁電管 神経管 空気伝送管 管きょ 管する 管の穴から天を覗く 管を以て天を窺う 管を巻く 管クラゲ 管接手 管束 管楽器 管水母 管海官庁 管珊瑚 管球 管籥 管継ぎ手 管継手 管鑰 管鮑の交わり 管鮑之交 篩管 精細管 給水管 肝管 胸管 脊柱管 脊柱管狭窄症 花粉管 花粉管核 蓄積管 蛍光管 蝸牛管 蠟管 計数管 試験管 試験管ベイビー 試験管ベビー 試験管立て 輸卵管 輸尿管 輸精管 輸胆管 輸送管 送気管 送水管 送油管 通気管 通風管 連結送水管 連通管 配水管 鋳鉄管 陰極管 陰極線管 電子増倍管 電子管 魚雷発射管 鳳管 鼠径管 鼠蹊管 鼻涙管 ＰＶＣ管","kanji":"管"}]}
+{"ent_seq":2868440,"k_ele":[{"keb":"管","dependents":"うずまき管 ふるい管 ろう管 イメージ管 エウスタキオ管 エーコン管 ガイガーミュラー計数管 ガイガー計数管 ガス管 ガラス管 クルックス管 クーリッジ管 シス管 ニキシー管 ネオン管 ヒューム管 ピトー管 ブラウン管 ベンチュリ管 ボイド管 ポリ塩化ビニル管 マイクロ波管 マルピーギ管 リンパ管 リンパ管奇形 リンパ管炎 リンパ管腫 ロウ管 一管 下水管 二極真空管 二次電子増倍管 伝声管 便管 信号炎管 光電管 出糸管 励振管 動脈管 動脈管開存症 吸水管 吸蜜管 品管 喇叭管炎 器管 噴射管 地無し管 塩ビ管 塩化ビニル管 射精管 導水管 導波管 導波管定数 引込管 弦管打 律管 微小管 心血管 心血管疾患 心血管系 手根管症候群 拡大管 排気管 排水管 撮像管 放水管 放電管 整流管 日本鋼管 欧氏管 歯根管治療 毛細管 毛細管現象 油井管 油送管 消化管 消化管間質腫瘍 涙管 淋巴管 渦巻き管 渦巻管 炎管 点灯管 烟管 爆発管 生管 産卵管 発射管 盲管 盲管銃創 真空管 真空管アンプ 真空蛍光管 磁電管 神経管 空気伝送管 管きょ 管する 管の穴から天を覗く 管をまく 管を以て天を窺う 管を巻く 管クラゲ 管巻く 管接手 管束 管楽器 管水母 管海官庁 管珊瑚 管球 管籥 管継ぎ手 管継手 管鑰 管鮑の交わり 管鮑之交 篩管 精細管 給水管 肝管 胸管 脊柱管 脊柱管狭窄症 花粉管 花粉管核 蓄積管 蛍光管 蝸牛管 蠟管 計数管 試験管 試験管ベイビー 試験管ベビー 試験管立て 輸卵管 輸尿管 輸精管 輸胆管 輸送管 送気管 送水管 送油管 通気管 通風管 連結送水管 連通管 配水管 鋳鉄管 陰極管 陰極線管 電子増倍管 電子管 魚雷発射管 鳳管 鼠径管 鼠蹊管 鼻涙管 ＰＶＣ管","kanji":"管"}]}
 {"ent_seq":2868441,"k_ele":[{"keb":"リンパ管奇形","composition":"リンパ管 奇形","dependencies":"リンパ 管 リンパ管 奇形","kanji":"管 奇 形"}]}
 {"ent_seq":2868442,"k_ele":[{"keb":"固形癌","composition":"固形 癌","dependencies":"固形 癌","kanji":"固 形 癌"},{"keb":"固形がん","composition":"固形 がん","dependencies":"固形 がん","kanji":"固 形"},{"keb":"固形ガン","composition":"固形 ガン","dependencies":"固形 ガン","kanji":"固 形"}]}
 {"ent_seq":2868443,"k_ele":[{"keb":"血液がん","composition":"血液 がん","dependencies":"血液 がん","kanji":"血 液"},{"keb":"血液癌","composition":"血液 癌","dependencies":"血液 癌","kanji":"血 液 癌"},{"keb":"血液ガン","composition":"血液 ガン","dependencies":"血液 ガン","kanji":"血 液"}]}
@@ -7777,8 +7776,8 @@
 {"ent_seq":2869052,"k_ele":[{"keb":"狭間飛び","composition":"狭間 飛び","dependencies":"狭間 飛ぶ 飛び","kanji":"狭 間 飛"}]}
 {"ent_seq":2869053}
 {"ent_seq":2869056,"k_ele":[{"keb":"思い断つ","composition":"思い 断つ","dependencies":"思い 断つ","kanji":"思 断"},{"keb":"思い絶つ","composition":"思い 絶つ","dependencies":"思い 断つ 絶つ","kanji":"思 絶"}]}
-{"ent_seq":2869057,"k_ele":[{"keb":"母","dependents":"お母 お母ちゃん お母ん この母にしてこの子あり すべての爆弾の母 丈母 九年母 予母都志許売 亡き母 代母 代理母 代理母出産 全ての爆弾の母 冠水母類 呉の母 国の母 大母 太母 失敗は成功の母 女は弱しされど母は強し 女は弱し然れど母は強し 安母尼亜 完母 岳母 御母 必要は発明の母 母ざる 母じゃ 母じゃ人 母なる 母なる大地 母なる自然 母の命 母の愛 母の日 母上 母側 母分散 母君 母平均 母形 母御 母教会 母文化 母文字 母核 母液 母県 母細胞 母関数 母集団 烏剌紐母 直母 真珠母 積率母関数 絹雲母 義父母 義理の母 花粉母細胞 蛇舅母 酢母草 香母酢 鱗雲母 黒雲母","kanji":"母"}]}
-{"ent_seq":2869058,"k_ele":[{"keb":"母","dependents":"お母 お母ちゃん お母ん この母にしてこの子あり すべての爆弾の母 丈母 九年母 予母都志許売 亡き母 代母 代理母 代理母出産 全ての爆弾の母 冠水母類 呉の母 国の母 大母 太母 失敗は成功の母 女は弱しされど母は強し 女は弱し然れど母は強し 安母尼亜 完母 岳母 御母 必要は発明の母 母ざる 母じゃ 母じゃ人 母なる 母なる大地 母なる自然 母の命 母の愛 母の日 母上 母側 母分散 母君 母平均 母形 母御 母教会 母文化 母文字 母核 母液 母県 母細胞 母関数 母集団 烏剌紐母 直母 真珠母 積率母関数 絹雲母 義父母 義理の母 花粉母細胞 蛇舅母 酢母草 香母酢 鱗雲母 黒雲母","kanji":"母"}]}
+{"ent_seq":2869057,"k_ele":[{"keb":"母","dependents":"おっ母 お母 お母ちゃん お母ん この母にしてこの子あり すべての爆弾の母 丈母 九年母 予母都志許売 亡き母 代母 代理母 代理母出産 全ての爆弾の母 冠水母類 呉の母 国の母 大母 太母 失敗は成功の母 女は弱しされど母は強し 女は弱し然れど母は強し 安母尼亜 完母 岳母 御母 必要は発明の母 母ざる 母じゃ 母じゃ人 母なる 母なる大地 母なる自然 母の命 母の愛 母の日 母上 母側 母分散 母君 母平均 母形 母御 母教会 母文化 母文字 母核 母液 母県 母細胞 母関数 母集団 烏剌紐母 直母 真珠母 積率母関数 絹雲母 義父母 義理の母 花粉母細胞 蛇舅母 酢母草 香母酢 鱗雲母 黒雲母","kanji":"母"}]}
+{"ent_seq":2869058,"k_ele":[{"keb":"母","dependents":"おっ母 お母 お母ちゃん お母ん この母にしてこの子あり すべての爆弾の母 丈母 九年母 予母都志許売 亡き母 代母 代理母 代理母出産 全ての爆弾の母 冠水母類 呉の母 国の母 大母 太母 失敗は成功の母 女は弱しされど母は強し 女は弱し然れど母は強し 安母尼亜 完母 岳母 御母 必要は発明の母 母ざる 母じゃ 母じゃ人 母なる 母なる大地 母なる自然 母の命 母の愛 母の日 母上 母側 母分散 母君 母平均 母形 母御 母教会 母文化 母文字 母核 母液 母県 母細胞 母関数 母集団 烏剌紐母 直母 真珠母 積率母関数 絹雲母 義父母 義理の母 花粉母細胞 蛇舅母 酢母草 香母酢 鱗雲母 黒雲母","kanji":"母"}]}
 {"ent_seq":2869059,"k_ele":[{"keb":"スーパー劫","composition":"スーパー 劫","dependencies":"スーパー 劫","kanji":"劫"}]}
 {"ent_seq":2869060,"k_ele":[{"keb":"超コウ","composition":"超 コウ","dependencies":"超 こう コウ","kanji":"超"},{"keb":"超劫","composition":"超 劫","dependencies":"超 劫","kanji":"超 劫"}]}
 {"ent_seq":2869061,"k_ele":[{"keb":"循環コウ","composition":"循環 コウ","dependencies":"循環 こう コウ","kanji":"循 環"},{"keb":"循環劫","composition":"循環 劫","dependencies":"循環 劫","kanji":"循 環 劫"}]}
@@ -9590,7 +9589,7 @@
 {"ent_seq":2870998,"k_ele":[{"keb":"前乗り","composition":"前 乗り","dependencies":"前 乗り","kanji":"前 乗"},{"keb":"前ノリ","composition":"前 ノリ","dependencies":"前 のり ノリ","kanji":"前"}]}
 {"ent_seq":2870999,"k_ele":[{"keb":"後乗り","composition":"後 乗り","dependencies":"後 乗り","kanji":"後 乗"},{"keb":"後ノリ","composition":"後 ノリ","dependencies":"後 のり ノリ","kanji":"後"}]}
 {"ent_seq":2871000,"k_ele":[{"keb":"後ろ乗り","composition":"後ろ 乗り","dependencies":"後ろ 乗り","kanji":"後 乗"},{"keb":"後ろノリ","composition":"後ろ ノリ","dependencies":"後ろ のり ノリ","kanji":"後"}]}
-{"ent_seq":2871001,"k_ele":[{"keb":"研","dependents":"アジ研 一宮研伸大学 保環研 化血研 医科研 宇宙研 感染研 研伸 研澄ます 研物 研物師 研米機 研讃 研讃を積む 筆研 落ち研","kanji":"研"}]}
+{"ent_seq":2871001,"k_ele":[{"keb":"研","dependents":"アジ研 一宮研伸大学 保環研 化血研 医科研 宇宙研 感染研 研上げる 研伸 研澄ます 研物 研物師 研米機 研讃 研讃を積む 筆研 落ち研","kanji":"研"}]}
 {"ent_seq":2871002,"k_ele":[{"keb":"先輩風","composition":"先輩 風","dependencies":"先輩 風","kanji":"先 輩 風"}]}
 {"ent_seq":2871003,"k_ele":[{"keb":"目に狂いはない","composition":"目 に 狂い は ない","dependencies":"目 に 狂い は 無い ない","kanji":"目 狂"},{"keb":"目に狂いは無い","composition":"目 に 狂い は 無い","dependencies":"目 に 狂い は 無い","kanji":"目 狂 無"},{"keb":"目にくるいはない","composition":"目 に くるい は ない","dependencies":"目 に 来る くる い くるい は 無い ない","kanji":"目"}]}
 {"ent_seq":2871004,"k_ele":[{"keb":"産卵率","composition":"産卵 率","dependencies":"産卵 率","kanji":"産 卵 率"}]}
@@ -9694,7 +9693,7 @@
 {"ent_seq":2871110,"k_ele":[{"keb":"恥も外聞も","composition":"恥 も 外聞 も","dependencies":"恥 も 外聞","kanji":"恥 外 聞"},{"keb":"恥じも外聞も","composition":"恥じ も 外聞 も","dependencies":"恥じる 恥じ も 外聞","kanji":"恥 外 聞"}]}
 {"ent_seq":2871111,"k_ele":[{"keb":"快楽中枢","composition":"快楽 中枢","dependencies":"快楽 中枢","kanji":"快 楽 中 枢"}]}
 {"ent_seq":2871112,"k_ele":[{"keb":"変身バンク","composition":"変身 バンク","dependencies":"変身 バンク","kanji":"変 身"}]}
-{"ent_seq":2871113,"k_ele":[{"keb":"廃","dependents":"ツイ廃 山廃 山廃酛 廃アカ 廃ガス 廃タイヤ 廃ビル 廃プラスチック 廃プラスティック 廃作 廃却 廃址 廃垢 廃宅 廃川 廃庁 廃港 廃牛 廃社 廃糖蜜 廃統合 廃苑 廃要素 廃課金 廃館 廃駅 廃鶏 徹廃","kanji":"廃"}]}
+{"ent_seq":2871113,"k_ele":[{"keb":"廃","dependents":"ツイ廃 山廃 山廃酛 廃アカ 廃ガス 廃タイヤ 廃ビル 廃プラスチック 廃プラスティック 廃作 廃却 廃址 廃垢 廃宅 廃川 廃工場 廃庁 廃港 廃牛 廃社 廃糖蜜 廃統合 廃苑 廃要素 廃課金 廃館 廃駅 廃鶏 徹廃","kanji":"廃"}]}
 {"ent_seq":2871114,"k_ele":[{"keb":"困ったときの神頼み","composition":"困っ た とき の 神頼み","dependencies":"困る 困っ た 時 とき の 神頼み","kanji":"困 神 頼"},{"keb":"困った時の神頼み","composition":"困っ た 時 の 神頼み","dependencies":"困る 困っ た 時 の 神頼み","kanji":"困 時 神 頼"},{"keb":"困ったときの神だのみ","composition":"困っ た とき の 神だのみ","dependencies":"困る 困っ た 時 とき の 神頼み 神だのみ","kanji":"困 神"},{"keb":"困った時の神だのみ","composition":"困っ た 時 の 神だのみ","dependencies":"困る 困っ た 時 の 神頼み 神だのみ","kanji":"困 時 神"}]}
 {"ent_seq":2871115,"k_ele":[{"keb":"逃げ足が速い","composition":"逃げ足 が 速い","dependencies":"逃げ足 が 速い","kanji":"逃 足 速"},{"keb":"逃げ足が早い","composition":"逃げ足 が 早い","dependencies":"逃げ足 が 早い","kanji":"逃 足 早"},{"keb":"逃げ足がはやい","composition":"逃げ足 が はやい","dependencies":"逃げ足 が はやい","kanji":"逃 足"}]}
 {"ent_seq":2871116,"k_ele":[{"keb":"逃げ足の速い","composition":"逃げ足 の 速い","dependencies":"逃げ足 の 速い","kanji":"逃 足 速"}]}
@@ -10466,6 +10465,7 @@
 {"ent_seq":2871917,"k_ele":[{"keb":"秘す","composition":"秘する","dependencies":"秘する","kanji":"秘"}]}
 {"ent_seq":2871918,"k_ele":[{"keb":"大甕","kanji":"大 甕"}]}
 {"ent_seq":2871919,"k_ele":[{"keb":"一仏","kanji":"一 仏"}]}
+{"ent_seq":2871920,"k_ele":[{"keb":"陣代","kanji":"陣 代"}]}
 {"ent_seq":2871921,"k_ele":[{"keb":"帰館","kanji":"帰 館"}]}
 {"ent_seq":2871922,"k_ele":[{"keb":"折り敷く","composition":"折り 敷く","dependencies":"折 折り 敷く","kanji":"折 敷"},{"keb":"折敷く","composition":"折 敷く","dependencies":"折 敷く","kanji":"折 敷"}]}
 {"ent_seq":2871923,"k_ele":[{"keb":"才覚者","composition":"才覚 者","dependencies":"才覚 者","kanji":"才 覚 者"}]}
@@ -10494,6 +10494,7 @@
 {"ent_seq":2871947,"k_ele":[{"keb":"弓杖","kanji":"弓 杖"}]}
 {"ent_seq":2871948,"k_ele":[{"keb":"放れ駒","composition":"放れ 駒","dependencies":"放る 放れ 駒","kanji":"放 駒"}]}
 {"ent_seq":2871950,"k_ele":[{"keb":"新関","kanji":"新 関"}]}
+{"ent_seq":2871951,"k_ele":[{"keb":"野に伏し山に伏す","composition":"野 に 伏し 山 に 伏す","dependencies":"野 に 伏す 伏し 山","kanji":"野 伏 山 伏"}]}
 {"ent_seq":2871952,"k_ele":[{"keb":"実にや","composition":"実 に や","dependencies":"実 に や","kanji":"実"}]}
 {"ent_seq":2871953,"k_ele":[{"keb":"男が立つ","composition":"男 が 立つ","dependencies":"男 が 立つ","kanji":"男 立"},{"keb":"男がたつ","composition":"男 が たつ","dependencies":"男 が たつ","kanji":"男"}]}
 {"ent_seq":2871954}
@@ -10506,6 +10507,7 @@
 {"ent_seq":2871961,"k_ele":[{"keb":"放れ馬","kanji":"放 馬"}]}
 {"ent_seq":2871962,"k_ele":[{"keb":"狂疾","kanji":"狂 疾"}]}
 {"ent_seq":2871963,"k_ele":[{"keb":"狂笑","composition":"狂 笑","dependencies":"狂 笑い 笑","kanji":"狂 笑"}]}
+{"ent_seq":2871964,"k_ele":[{"keb":"既知感","composition":"既知 感","dependencies":"既知 感","kanji":"既 知 感"}]}
 {"ent_seq":2871965,"k_ele":[{"keb":"ＴＨＣ","composition":"THC","dependencies":"THC"}]}
 {"ent_seq":2871966,"k_ele":[{"keb":"調室","composition":"調べ室","dependencies":"調べ室","kanji":"調 室"},{"keb":"調べ室","dependents":"調室","kanji":"調 室"}]}
 {"ent_seq":2871967,"k_ele":[{"keb":"左ぎっちょ","kanji":"左"}]}
@@ -10517,12 +10519,14 @@
 {"ent_seq":2871973,"k_ele":[{"keb":"地織り","dependents":"地織","kanji":"地 織"},{"keb":"地織","composition":"地織り","dependencies":"地織り","kanji":"地 織"}]}
 {"ent_seq":2871974,"k_ele":[{"keb":"日暮れ方","composition":"日暮れ 方","dependencies":"日暮れ 方","kanji":"日 暮 方"}]}
 {"ent_seq":2871975,"k_ele":[{"keb":"外面如菩薩内心如夜叉","composition":"外面 如 菩薩 内 心如 夜叉","dependencies":"外面 如 菩薩 内 心如 夜叉","kanji":"外 面 如 菩 薩 内 心 如 夜 叉"}]}
+{"ent_seq":2871976,"k_ele":[{"keb":"女菩薩","composition":"女 菩薩","dependencies":"女 菩薩","kanji":"女 菩 薩"}]}
 {"ent_seq":2871977,"k_ele":[{"keb":"古塚","kanji":"古 塚"}]}
 {"ent_seq":2871978,"k_ele":[{"keb":"共融","composition":"共 融","dependencies":"共 融","kanji":"共 融"}]}
 {"ent_seq":2871979,"k_ele":[{"keb":"異能者","composition":"異能 者","dependencies":"異能 者","kanji":"異 能 者"}]}
 {"ent_seq":2871980,"k_ele":[{"keb":"共感者","composition":"共感 者","dependencies":"共感 者","kanji":"共 感 者"}]}
 {"ent_seq":2871981,"k_ele":[{"keb":"巨視","dependents":"巨視的 巨視的分析","kanji":"巨 視"}]}
 {"ent_seq":2871982,"k_ele":[{"keb":"微視","dependents":"微視的","kanji":"微 視"}]}
+{"ent_seq":2871983,"k_ele":[{"keb":"親近者","composition":"親近 者","dependencies":"親近 者","kanji":"親 近 者"}]}
 {"ent_seq":2871984,"k_ele":[{"keb":"超越者","composition":"超越 者","dependencies":"超越 者","kanji":"超 越 者"}]}
 {"ent_seq":2871985,"k_ele":[{"keb":"直感力","composition":"直感 力","dependencies":"直感 力","kanji":"直 感 力"},{"keb":"直観力","composition":"直観 力","dependencies":"直観 力","kanji":"直 観 力"}]}
 {"ent_seq":2871987,"k_ele":[{"keb":"還送","kanji":"還 送"}]}
@@ -10533,27 +10537,35 @@
 {"ent_seq":2871992,"k_ele":[{"keb":"はけ場","composition":"はけ 場","dependencies":"刷毛 はけ 場","kanji":"場"},{"keb":"捌け場","composition":"捌け 場","dependencies":"捌け 場","kanji":"捌 場"},{"keb":"捌場","composition":"捌 場","dependencies":"八 捌 場","kanji":"捌 場"}]}
 {"ent_seq":2871993}
 {"ent_seq":2871994}
+{"ent_seq":2871995,"k_ele":[{"keb":"彦頁","composition":"彦 頁","dependencies":"彦 ページ 頁","kanji":"彦 頁"}]}
+{"ent_seq":2871996,"k_ele":[{"keb":"蒼炎","composition":"蒼 炎","dependencies":"蒼 炎","kanji":"蒼 炎"}]}
 {"ent_seq":2871997,"k_ele":[{"keb":"代官所","composition":"代官 所","dependencies":"代官 所","kanji":"代 官 所"}]}
 {"ent_seq":2871998}
 {"ent_seq":2871999,"k_ele":[{"keb":"落ち武者狩り","composition":"落ち武者 狩り","dependencies":"落ち 武者 落ち武者 狩り","kanji":"落 武 者 狩"}]}
 {"ent_seq":2872001,"k_ele":[{"keb":"覆面捜査官","composition":"覆面 捜査官","dependencies":"覆面 捜査 官 捜査官","kanji":"覆 面 捜 査 官"}]}
 {"ent_seq":2872002,"k_ele":[{"keb":"噴門部","composition":"噴門 部","dependencies":"噴門 部","kanji":"噴 門 部"}]}
 {"ent_seq":2872003}
+{"ent_seq":2872004,"k_ele":[{"keb":"老いらくの恋","composition":"老いらく の 恋","dependencies":"老いらく の 恋","kanji":"老 恋"}]}
 {"ent_seq":2872005,"k_ele":[{"keb":"主管事項","composition":"主管 事項","dependencies":"主管 事項","kanji":"主 管 事 項"}]}
 {"ent_seq":2872006,"k_ele":[{"keb":"お言葉を返すようですが","composition":"お 言葉 を 返す よう です が","dependencies":"御 お 言葉 を 返す よう です が","kanji":"言 葉 返"}]}
 {"ent_seq":2872007,"k_ele":[{"keb":"面と向かって","composition":"面 と 向かっ て","dependencies":"面 と 向かう 向かっ で て","kanji":"面 向"},{"keb":"面とむかって","composition":"面 と むかっ て","dependencies":"面 と むか むかっ で て","kanji":"面"},{"keb":"めんと向かって","composition":"めん と 向かっ て","dependencies":"めん と 向かう 向かっ で て","kanji":"向"}]}
 {"ent_seq":2872009,"k_ele":[{"keb":"工事場","composition":"工事 場","dependencies":"工事 場","kanji":"工 事 場"}]}
 {"ent_seq":2872010,"k_ele":[{"keb":"踏みつけ","composition":"踏み つけ","dependencies":"踏む 踏み つける つけ","kanji":"踏"},{"keb":"踏み付け","kanji":"踏 付"},{"keb":"踏付け","composition":"踏 付け","dependencies":"踏 付け","kanji":"踏 付"},{"keb":"踏つけ","composition":"踏 つけ","dependencies":"踏 つける つけ","kanji":"踏"}]}
+{"ent_seq":2872011,"k_ele":[{"keb":"人の恋路を邪魔する奴は馬に蹴られて死んじまえ","composition":"人 の 恋路 を 邪魔 する 奴 は 馬 に 蹴ら れ て 死ん じまえ","dependencies":"人 の 恋路 を 邪魔 成る 為る する 奴 は 馬 に 蹴る 蹴ら れる れ で て 死ぬ 死ん じまう ちまう じまえ","kanji":"人 恋 路 邪 魔 奴 馬 蹴 死"}]}
+{"ent_seq":2872012,"k_ele":[{"keb":"男を売る","composition":"男 を 売る","dependencies":"男 を 売る","kanji":"男 売"}]}
 {"ent_seq":2872013,"k_ele":[{"keb":"太く短く","composition":"太く 短く","dependencies":"太い 太く 短い 短く","kanji":"太 短"}]}
 {"ent_seq":2872014,"k_ele":[{"keb":"叩っ","composition":"叩 っ","dependencies":"叩 っ","dependents":"叩っ切る 叩っ斬る","kanji":"叩"}]}
+{"ent_seq":2872015,"k_ele":[{"keb":"おっ母","composition":"おっ 母","dependencies":"おっ 母","kanji":"母"}]}
 {"ent_seq":2872016,"k_ele":[{"keb":"関東取締出役","composition":"関東 取締 出役","dependencies":"関東 取り締まり 取締 出役","kanji":"関 東 取 締 出 役"}]}
 {"ent_seq":2872017,"k_ele":[{"keb":"八州廻り","composition":"八州 廻り","dependencies":"八州 回る 回り 廻り","kanji":"八 州 廻"},{"keb":"八州回り","composition":"八州 回り","dependencies":"八州 回る 回り","kanji":"八 州 回"}]}
 {"ent_seq":2872018,"k_ele":[{"keb":"杯を返す","composition":"杯 を 返す","dependencies":"杯 を 返す","kanji":"杯 返"}]}
 {"ent_seq":2872019,"k_ele":[{"keb":"居続け","kanji":"居 続"},{"keb":"流連","dependents":"流連荒亡 留連","kanji":"流 連"}]}
 {"ent_seq":2872021,"k_ele":[{"keb":"いぶし出す","composition":"いぶし 出す","dependencies":"いぶす 燻す いぶし 出す","kanji":"出"},{"keb":"燻し出す","composition":"燻し 出す","dependencies":"燻す 燻し 出す","kanji":"燻 出"}]}
+{"ent_seq":2872022}
 {"ent_seq":2872023,"k_ele":[{"keb":"水粥","composition":"水 粥","dependencies":"水 粥","kanji":"水 粥"}]}
 {"ent_seq":2872024,"k_ele":[{"keb":"蜘蛛手","kanji":"蜘 蛛 手"}]}
 {"ent_seq":2872025,"k_ele":[{"keb":"五濁","composition":"五 濁","dependencies":"五 濁","kanji":"五 濁"}]}
+{"ent_seq":2872027,"k_ele":[{"keb":"五欲","composition":"五 欲","dependencies":"五 欲","kanji":"五 欲"}]}
 {"ent_seq":2872028,"k_ele":[{"keb":"袖にすがる","composition":"袖 に すがる","dependencies":"袖 に 縋る すがる","kanji":"袖"},{"keb":"袖に縋る","composition":"袖 に 縋る","dependencies":"袖 に 縋る","kanji":"袖 縋"}]}
 {"ent_seq":2872029,"k_ele":[{"keb":"ＬＵＴ"}]}
 {"ent_seq":2872030,"k_ele":[{"keb":"常にない","composition":"常 に ない","dependencies":"常 に 無い ない","kanji":"常"},{"keb":"常に無い","composition":"常 に 無い","dependencies":"常 に 無い","kanji":"常 無"}]}
@@ -10587,6 +10599,7 @@
 {"ent_seq":2872059,"k_ele":[{"keb":"勿論のこと","composition":"勿論 の こと","dependencies":"勿論 の こと","kanji":"勿 論"},{"keb":"もちろんの事","composition":"もちろん の 事","dependencies":"勿論 もちろん の 事","kanji":"事"},{"keb":"勿論の事","composition":"勿論 の 事","dependencies":"勿論 の 事","kanji":"勿 論 事"}]}
 {"ent_seq":2872060,"k_ele":[{"keb":"納米","kanji":"納 米"},{"keb":"乃米","composition":"乃 米","dependencies":"の 乃 米","kanji":"乃 米"}]}
 {"ent_seq":2872061,"k_ele":[{"keb":"山年貢","composition":"山 年貢","dependencies":"山 年貢","kanji":"山 年 貢"}]}
+{"ent_seq":2872062,"k_ele":[{"keb":"野年貢","composition":"野 年貢","dependencies":"野 年貢","kanji":"野 年 貢"}]}
 {"ent_seq":2872063,"k_ele":[{"keb":"外面似菩薩内心如夜叉","composition":"外面 似 菩薩 内 心如 夜叉","dependencies":"外面 似る 似 菩薩 内 心如 夜叉","kanji":"外 面 似 菩 薩 内 心 如 夜 叉"}]}
 {"ent_seq":2872064,"k_ele":[{"keb":"宸筆","kanji":"宸 筆"}]}
 {"ent_seq":2872065,"k_ele":[{"keb":"西甌","composition":"西 甌","dependencies":"西 甌","kanji":"西 甌"}]}
@@ -10621,6 +10634,7 @@
 {"ent_seq":2872097,"k_ele":[{"keb":"超高圧","composition":"超 高圧","dependencies":"超 高圧","kanji":"超 高 圧"}]}
 {"ent_seq":2872098,"k_ele":[{"keb":"死合","composition":"死 合","dependencies":"死 合わせ 合","kanji":"死 合"},{"keb":"死合い","composition":"死 合い","dependencies":"死 合う 合い","kanji":"死 合"}]}
 {"ent_seq":2872099,"k_ele":[{"keb":"牛頭鬼","composition":"牛頭 鬼","dependencies":"牛頭 鬼","kanji":"牛 頭 鬼"}]}
+{"ent_seq":2872100,"k_ele":[{"keb":"馬頭鬼","composition":"馬頭 鬼","dependencies":"馬頭 鬼","kanji":"馬 頭 鬼"}]}
 {"ent_seq":2872101,"k_ele":[{"keb":"判鑑","composition":"判 鑑","dependencies":"判 鑑","kanji":"判 鑑"}]}
 {"ent_seq":2872102,"k_ele":[{"keb":"低収入","composition":"低 収入","dependencies":"低 収入","kanji":"低 収 入"}]}
 {"ent_seq":2872103,"k_ele":[{"keb":"手持ち花火","composition":"手持ち 花火","dependencies":"手持ち 花火","kanji":"手 持 花 火"},{"keb":"手持花火","composition":"手持 花火","dependencies":"手持ち 手持 花火","kanji":"手 持 花 火"}]}
@@ -10653,11 +10667,191 @@
 {"ent_seq":2872132,"k_ele":[{"keb":"突撃銃","composition":"突撃 銃","dependencies":"突撃 銃","kanji":"突 撃 銃"}]}
 {"ent_seq":2872133,"k_ele":[{"keb":"無個性","composition":"無 個性","dependencies":"無 個性","kanji":"無 個 性"}]}
 {"ent_seq":2872134,"k_ele":[{"keb":"超高感度","composition":"超 高感度","dependencies":"超 高 感度 高感度","kanji":"超 高 感 度"}]}
+{"ent_seq":2872135,"k_ele":[{"keb":"黒ミサ","composition":"黒 ミサ","dependencies":"黒 ミサ","kanji":"黒"}]}
+{"ent_seq":2872136,"k_ele":[{"keb":"胴輪","composition":"胴 輪","dependencies":"胴 輪","kanji":"胴 輪"}]}
+{"ent_seq":2872137,"k_ele":[{"keb":"犯罪小説","composition":"犯罪 小説","dependencies":"犯罪 小説","kanji":"犯 罪 小 説"}]}
+{"ent_seq":2872138,"k_ele":[{"keb":"不可能犯罪","composition":"不可能 犯罪","dependencies":"不 可能 不可能 犯罪","kanji":"不 可 能 犯 罪"}]}
+{"ent_seq":2872139,"k_ele":[{"keb":"惨殺死体","composition":"惨殺 死体","dependencies":"惨殺 死体","kanji":"惨 殺 死 体"}]}
+{"ent_seq":2872140,"k_ele":[{"keb":"動脈出血","composition":"動脈 出血","dependencies":"動脈 出血","kanji":"動 脈 出 血"}]}
+{"ent_seq":2872141,"k_ele":[{"keb":"原質","dependents":"糖原質","kanji":"原 質"}]}
+{"ent_seq":2872142,"k_ele":[{"keb":"第一原理","composition":"第 一 原理","dependencies":"第 一 原理","kanji":"第 一 原 理"}]}
+{"ent_seq":2872143,"k_ele":[{"keb":"呪的","kanji":"呪 的"}]}
 {"ent_seq":2872144,"k_ele":[{"keb":"柴舟","kanji":"柴 舟"}]}
 {"ent_seq":2872145,"k_ele":[{"keb":"精説","kanji":"精 説"}]}
 {"ent_seq":2872146,"k_ele":[{"keb":"洪水吐","composition":"洪水 吐","dependencies":"洪水 吐く 吐き 吐","kanji":"洪 水 吐"},{"keb":"洪水吐き","composition":"洪水 吐き","dependencies":"洪水 吐く 吐き","kanji":"洪 水 吐"}]}
 {"ent_seq":2872147,"k_ele":[{"keb":"道悪","kanji":"道 悪"}]}
 {"ent_seq":2872148,"k_ele":[{"keb":"任意コード実行","composition":"任意 コード 実行","dependencies":"任意 コード 実行","kanji":"任 意 実 行"}]}
+{"ent_seq":2872149,"k_ele":[{"keb":"押しの一手","composition":"押し の 一手","dependencies":"押し の 一手","kanji":"押 一 手"}]}
+{"ent_seq":2872150,"k_ele":[{"keb":"暴帝","composition":"暴 帝","dependencies":"暴 帝","kanji":"暴 帝"}]}
+{"ent_seq":2872151,"k_ele":[{"keb":"大炊頭","kanji":"大 炊 頭"}]}
+{"ent_seq":2872152,"k_ele":[{"keb":"小人目付","composition":"小人 目付","dependencies":"小人 目付け 目付","kanji":"小 人 目 付"}]}
+{"ent_seq":2872153,"k_ele":[{"keb":"斯程","composition":"斯 程","dependencies":"斯 ほど 程","kanji":"斯 程"},{"keb":"か程","composition":"か 程","dependencies":"か ほど 程","kanji":"程"},{"keb":"斯ほど","composition":"斯 ほど","dependencies":"斯 ほど","kanji":"斯"}]}
+{"ent_seq":2872154,"k_ele":[{"keb":"止ん事無き","composition":"止ん 事 無き","dependencies":"止む 止ん 事 無し 無い 無き","kanji":"止 事 無"},{"keb":"止んごとなき","composition":"止ん ごと なき","dependencies":"止む 止ん ごと なし 無い なき","kanji":"止"}]}
+{"ent_seq":2872155,"k_ele":[{"keb":"書院番","composition":"書院 番","dependencies":"書院 番","kanji":"書 院 番"}]}
+{"ent_seq":2872156,"k_ele":[{"keb":"ベスト版","composition":"ベスト 版","dependencies":"ベスト 版","kanji":"版"}]}
+{"ent_seq":2872157,"k_ele":[{"keb":"相果てる","composition":"相 果てる","dependencies":"相 果てる","kanji":"相 果"}]}
+{"ent_seq":2872158,"k_ele":[{"keb":"報賞","kanji":"報 賞"}]}
+{"ent_seq":2872159,"k_ele":[{"keb":"血闘","kanji":"血 闘"}]}
+{"ent_seq":2872160,"k_ele":[{"keb":"食虫花","composition":"食虫 花","dependencies":"食虫 花","kanji":"食 虫 花"}]}
+{"ent_seq":2872161,"k_ele":[{"keb":"失踪事件","composition":"失踪 事件","dependencies":"失踪 事件","kanji":"失 踪 事 件"}]}
+{"ent_seq":2872162,"k_ele":[{"keb":"投げ渡す","composition":"投げ 渡す","dependencies":"投げ 渡す","kanji":"投 渡"},{"keb":"投渡す","composition":"投 渡す","dependencies":"投げ 投 渡す","kanji":"投 渡"},{"keb":"投げわたす","composition":"投げ わたす","dependencies":"投げ 渡す わたす","kanji":"投"}]}
+{"ent_seq":2872163,"k_ele":[{"keb":"爆破解体","composition":"爆破 解体","dependencies":"爆破 解体","kanji":"爆 破 解 体"}]}
+{"ent_seq":2872164,"k_ele":[{"keb":"吸いさし","composition":"吸い さし","dependencies":"吸う 吸い さ せる させる さし","kanji":"吸"},{"keb":"吸い差し","composition":"吸い 差し","dependencies":"吸う 吸い 差し","kanji":"吸 差"}]}
+{"ent_seq":2872165,"k_ele":[{"keb":"破滅的","composition":"破滅 的","dependencies":"破滅 的","kanji":"破 滅 的"}]}
+{"ent_seq":2872166,"k_ele":[{"keb":"聖堂騎士団","composition":"聖堂 騎士団","dependencies":"聖堂 騎士 団 騎士団","kanji":"聖 堂 騎 士 団"}]}
+{"ent_seq":2872167,"k_ele":[{"keb":"神殿騎士団","composition":"神殿 騎士団","dependencies":"神殿 騎士 団 騎士団","kanji":"神 殿 騎 士 団"}]}
+{"ent_seq":2872169,"k_ele":[{"keb":"和ろうそく","composition":"和 ろうそく","dependencies":"和 蝋燭 ろうそく","kanji":"和"},{"keb":"和蝋燭","composition":"和 蝋燭","dependencies":"和 蝋燭","kanji":"和 蝋 燭"},{"keb":"和ロウソク","composition":"和 ロウソク","dependencies":"和 蝋燭 ロウソク","kanji":"和"}]}
+{"ent_seq":2872170,"k_ele":[{"keb":"連邦共和国","composition":"連邦 共和国","dependencies":"連邦 共和 国 共和国","kanji":"連 邦 共 和 国"}]}
+{"ent_seq":2872171,"k_ele":[{"keb":"民主共和国","composition":"民主 共和国","dependencies":"民主 共和 国 共和国","kanji":"民 主 共 和 国"}]}
+{"ent_seq":2872172,"k_ele":[{"keb":"剣撃","kanji":"剣 撃"}]}
+{"ent_seq":2872173,"k_ele":[{"keb":"初撃","composition":"初 撃","dependencies":"初 撃","kanji":"初 撃"}]}
+{"ent_seq":2872174,"k_ele":[{"keb":"衣紋竹","composition":"衣紋 竹","dependencies":"衣紋 竹","kanji":"衣 紋 竹"}]}
+{"ent_seq":2872175}
+{"ent_seq":2872176,"k_ele":[{"keb":"人工気胸","composition":"人工 気胸","dependencies":"人工 気胸","kanji":"人 工 気 胸"}]}
+{"ent_seq":2872177}
+{"ent_seq":2872178,"k_ele":[{"keb":"構いつける","composition":"構い つける","dependencies":"構い つける","kanji":"構"},{"keb":"構い付ける","composition":"構い 付ける","dependencies":"構い 付ける","kanji":"構 付"},{"keb":"構付ける","composition":"構 付ける","dependencies":"構 付ける","kanji":"構 付"},{"keb":"かまい付ける","composition":"かまい 付ける","dependencies":"構い かまい 付ける","kanji":"付"}]}
+{"ent_seq":2872179,"k_ele":[{"keb":"上清","kanji":"上 清"}]}
+{"ent_seq":2872180,"k_ele":[{"keb":"惚れた欲目","composition":"惚れ た 欲目","dependencies":"惚れ た 欲目","kanji":"惚 欲 目"}]}
+{"ent_seq":2872181,"k_ele":[{"keb":"言外に","composition":"言外 に","dependencies":"言外 に","kanji":"言 外"}]}
+{"ent_seq":2872182,"k_ele":[{"keb":"ラマ僧","composition":"ラマ 僧","dependencies":"ラマ 僧","kanji":"僧"},{"keb":"喇嘛僧","composition":"喇嘛 僧","dependencies":"ラマ 喇嘛 僧","kanji":"喇 嘛 僧"}]}
+{"ent_seq":2872183,"k_ele":[{"keb":"肩骨","kanji":"肩 骨"}]}
+{"ent_seq":2872184}
+{"ent_seq":2872185,"k_ele":[{"keb":"底翳","dependents":"そこひ 黒そこひ 黒底翳","kanji":"底 翳"},{"keb":"内障","dependents":"内障眼 加齢性白内障 白内障 緑内障 緑内障濾過手術 縁内障 老人性白内障 閉塞隅角緑内障 青内障 黒内障","kanji":"内 障"},{"keb":"内障眼","composition":"内障 眼","dependencies":"内障 目 眼","kanji":"内 障 眼"}]}
+{"ent_seq":2872186,"k_ele":[{"keb":"解像感","composition":"解像 感","dependencies":"解像 感","kanji":"解 像 感"}]}
+{"ent_seq":2872187,"k_ele":[{"keb":"一脚","composition":"一 脚","dependencies":"一 足 脚","kanji":"一 脚"}]}
+{"ent_seq":2872188,"k_ele":[{"keb":"二脚","composition":"二 脚","dependencies":"二 足 脚","kanji":"二 脚"}]}
+{"ent_seq":2872189,"k_ele":[{"keb":"発送駅","composition":"発送 駅","dependencies":"発送 駅","kanji":"発 送 駅"}]}
+{"ent_seq":2872190,"k_ele":[{"keb":"簿記係","composition":"簿記 係","dependencies":"簿記 係","kanji":"簿 記 係"}]}
+{"ent_seq":2872191,"k_ele":[{"keb":"立ち飛び","composition":"立ち 飛び","dependencies":"立ち 飛ぶ 飛び","kanji":"立 飛"}]}
+{"ent_seq":2872192,"k_ele":[{"keb":"後勝ち","composition":"後 勝ち","dependencies":"後 勝ち","kanji":"後 勝"}]}
+{"ent_seq":2872193,"k_ele":[{"keb":"先勝ち","composition":"先 勝ち","dependencies":"先 勝ち","kanji":"先 勝"}]}
+{"ent_seq":2872194,"k_ele":[{"keb":"指図人","composition":"指図 人","dependencies":"指図 人","kanji":"指 図 人"}]}
+{"ent_seq":2872195}
+{"ent_seq":2872197}
+{"ent_seq":2872198,"k_ele":[{"keb":"ＢＬモーター","composition":"ＢＬ モーター","dependencies":"BL ＢＬ モーター"}]}
+{"ent_seq":2872200,"k_ele":[{"keb":"ちんぐり返し","composition":"ちん ぐり 返し","dependencies":"ちん ぐり 返し","kanji":"返"},{"keb":"チングリ返し","composition":"チングリ 返し","dependencies":"チングリ 返し","kanji":"返"}]}
+{"ent_seq":2872201,"k_ele":[{"keb":"水溶き片栗粉","composition":"水溶き 片栗粉","dependencies":"水溶き 片栗粉","kanji":"水 溶 片 栗 粉"},{"keb":"水溶きかたくり粉","composition":"水溶き かたくり粉","dependencies":"水溶き 片栗粉 かたくり粉","kanji":"水 溶 粉"},{"keb":"水とき片栗粉","composition":"水とき 片栗粉","dependencies":"水溶き 水とき 片栗粉","kanji":"水 片 栗 粉"}]}
+{"ent_seq":2872202,"k_ele":[{"keb":"最盛","dependents":"最盛期","kanji":"最 盛"}]}
+{"ent_seq":2872203,"k_ele":[{"keb":"こちら側","composition":"此方側","dependencies":"此方側","kanji":"側"},{"keb":"此方側","dependents":"こちら側","kanji":"此 方 側"}]}
+{"ent_seq":2872204,"k_ele":[{"keb":"高齢社会","composition":"高齢 社会","dependencies":"高齢 社会","kanji":"高 齢 社 会"}]}
+{"ent_seq":2872205,"k_ele":[{"keb":"小口切り","composition":"小口 切り","dependencies":"小口 切り","kanji":"小 口 切"},{"keb":"小口ぎり","composition":"小口 ぎり","dependencies":"小口 きり ぎり","kanji":"小 口"},{"keb":"こぐち切り","composition":"こぐち 切り","dependencies":"木口 こぐち 切り","kanji":"切"}]}
+{"ent_seq":2872206,"k_ele":[{"keb":"証拠調べ","composition":"証拠 調べ","dependencies":"証拠 調べ","kanji":"証 拠 調"}]}
+{"ent_seq":2872207,"k_ele":[{"keb":"本城","kanji":"本 城"}]}
+{"ent_seq":2872208,"k_ele":[{"keb":"商工会","composition":"商工 会","dependencies":"商工 会","kanji":"商 工 会"}]}
+{"ent_seq":2872209,"k_ele":[{"keb":"住民参加","composition":"住民 参加","dependencies":"住民 参加","kanji":"住 民 参 加"}]}
+{"ent_seq":2872210,"k_ele":[{"keb":"膝蓋","dependents":"膝蓋反射 膝蓋腱 膝蓋腱反射 膝蓋骨","kanji":"膝 蓋"}]}
+{"ent_seq":2872211,"k_ele":[{"keb":"二審","composition":"二 審","dependencies":"二 審","kanji":"二 審"}]}
+{"ent_seq":2872212,"k_ele":[{"keb":"変形労働時間制","composition":"変形 労働 時間制","dependencies":"変形 労働 時間 制 時間制","kanji":"変 形 労 働 時 間 制"}]}
+{"ent_seq":2872213,"k_ele":[{"keb":"裏布","kanji":"裏 布"}]}
+{"ent_seq":2872214,"k_ele":[{"keb":"枝先","kanji":"枝 先"}]}
+{"ent_seq":2872215,"k_ele":[{"keb":"困りもの","composition":"困り物","dependencies":"困り物","kanji":"困"},{"keb":"困り物","dependents":"困りもの 困り者","kanji":"困 物"}]}
+{"ent_seq":2872216,"k_ele":[{"keb":"賑わせる","kanji":"賑"}]}
+{"ent_seq":2872217,"k_ele":[{"keb":"濯ぎ","dependents":"夜濯ぎ","kanji":"濯"}]}
+{"ent_seq":2872218,"k_ele":[{"keb":"前近代","composition":"前 近代","dependencies":"前 近代","kanji":"前 近 代"}]}
+{"ent_seq":2872219,"k_ele":[{"keb":"斜度","kanji":"斜 度"}]}
+{"ent_seq":2872220,"k_ele":[{"keb":"木阿弥","dependents":"もくあみ 元のもくあみ 元の木阿弥 元の杢阿弥 杢阿弥","kanji":"木 阿 弥"}]}
+{"ent_seq":2872221,"k_ele":[{"keb":"文化部","composition":"文化 部","dependencies":"文化 部","kanji":"文 化 部"}]}
+{"ent_seq":2872222,"k_ele":[{"keb":"会話文","composition":"会話 文","dependencies":"会話 文","kanji":"会 話 文"}]}
+{"ent_seq":2872223,"k_ele":[{"keb":"主祭","kanji":"主 祭"}]}
+{"ent_seq":2872224,"k_ele":[{"keb":"神君","kanji":"神 君"}]}
+{"ent_seq":2872225,"k_ele":[{"keb":"常傭","kanji":"常 傭"}]}
+{"ent_seq":2872226,"k_ele":[{"keb":"晩発","kanji":"晩 発"}]}
+{"ent_seq":2872227,"k_ele":[{"keb":"投映","kanji":"投 映"}]}
+{"ent_seq":2872228}
+{"ent_seq":2872229}
+{"ent_seq":2872230,"k_ele":[{"keb":"土盛り","dependents":"土盛","kanji":"土 盛"},{"keb":"土盛","composition":"土盛り","dependencies":"土盛り","kanji":"土 盛"}]}
+{"ent_seq":2872231,"k_ele":[{"keb":"私傷","kanji":"私 傷"}]}
+{"ent_seq":2872232,"k_ele":[{"keb":"混生","kanji":"混 生"}]}
+{"ent_seq":2872233,"k_ele":[{"keb":"小体","dependents":"バー小体 マルピーギ小体 レビー小体 レビー小体病 レヴィー小体 中心小体 核小体 腎小体 頚動脈小体 頸動脈小体","kanji":"小 体"}]}
+{"ent_seq":2872234,"k_ele":[{"keb":"小問","kanji":"小 問"}]}
+{"ent_seq":2872235,"k_ele":[{"keb":"還元主義","composition":"還元 主義","dependencies":"還元 主義","kanji":"還 元 主 義"}]}
+{"ent_seq":2872236,"k_ele":[{"keb":"除虫","kanji":"除 虫"}]}
+{"ent_seq":2872237,"k_ele":[{"keb":"同日付","composition":"同 日付","dependencies":"同 日付け 日付","kanji":"同 日 付"},{"keb":"同日付け","composition":"同日 付け","dependencies":"同日 付け","kanji":"同 日 付"}]}
+{"ent_seq":2872238,"k_ele":[{"keb":"ヌン活","composition":"ヌン 活","dependencies":"ヌン 活","kanji":"活"}]}
+{"ent_seq":2872239}
+{"ent_seq":2872240,"k_ele":[{"keb":"液晶モニター","composition":"液晶 モニター","dependencies":"液晶 モニター","kanji":"液 晶"}]}
+{"ent_seq":2872241,"k_ele":[{"keb":"記憶色","composition":"記憶 色","dependencies":"記憶 色","kanji":"記 憶 色"}]}
+{"ent_seq":2872242,"k_ele":[{"keb":"印象色","composition":"印象 色","dependencies":"印象 色","kanji":"印 象 色"}]}
+{"ent_seq":2872243}
+{"ent_seq":2872244,"k_ele":[{"keb":"暗射地図","composition":"暗 射 地図","dependencies":"暗 射る 射 地図","kanji":"暗 射 地 図"}]}
+{"ent_seq":2872246,"k_ele":[{"keb":"減軽","dependents":"酌量減軽","kanji":"減 軽"}]}
+{"ent_seq":2872247,"k_ele":[{"keb":"轟雷","composition":"轟 雷","dependencies":"轟 雷","kanji":"轟 雷"}]}
+{"ent_seq":2872248,"k_ele":[{"keb":"豪雷","composition":"豪 雷","dependencies":"豪 雷","kanji":"豪 雷"},{"keb":"剛雷","composition":"剛 雷","dependencies":"剛 雷","kanji":"剛 雷"}]}
+{"ent_seq":2872249,"k_ele":[{"keb":"轟き渡る","composition":"轟き 渡る","dependencies":"轟き 渡る","kanji":"轟 渡"},{"keb":"轟きわたる","composition":"轟き わたる","dependencies":"轟き わたる","kanji":"轟"},{"keb":"とどろき渡る","composition":"とどろき 渡る","dependencies":"轟く とどろく とどろき 渡る","kanji":"渡"}]}
+{"ent_seq":2872250,"k_ele":[{"keb":"制圧射撃","composition":"制圧 射撃","dependencies":"制圧 射撃","kanji":"制 圧 射 撃"}]}
+{"ent_seq":2872251,"k_ele":[{"keb":"胴鎧","composition":"胴 鎧","dependencies":"胴 鎧","kanji":"胴 鎧"}]}
+{"ent_seq":2872252,"k_ele":[{"keb":"貸し与える","composition":"貸し 与える","dependencies":"貸し 与える","kanji":"貸 与"},{"keb":"貸与える","composition":"貸与 える","dependencies":"貸与 得る える","kanji":"貸 与"},{"keb":"貸しあたえる","composition":"貸し あたえる","dependencies":"貸し 与える あたえる","kanji":"貸"}]}
+{"ent_seq":2872253}
+{"ent_seq":2872254,"k_ele":[{"keb":"光柱","kanji":"光 柱"}]}
+{"ent_seq":2872255,"k_ele":[{"keb":"隣市","kanji":"隣 市"}]}
+{"ent_seq":2872256,"k_ele":[{"keb":"空洞レンガ","composition":"空洞 レンガ","dependencies":"空洞 煉瓦 レンガ","kanji":"空 洞"},{"keb":"空洞煉瓦","composition":"空洞 煉瓦","dependencies":"空洞 煉瓦","kanji":"空 洞 煉 瓦"},{"keb":"空胴煉瓦","composition":"空胴 煉瓦","dependencies":"空胴 煉瓦","kanji":"空 胴 煉 瓦"}]}
+{"ent_seq":2872258,"k_ele":[{"keb":"屈折光学","composition":"屈折 光学","dependencies":"屈折 光学","kanji":"屈 折 光 学"}]}
+{"ent_seq":2872260,"k_ele":[{"keb":"捜査第一課","composition":"捜査 第 一 課","dependencies":"捜査 第 一 課","kanji":"捜 査 第 一 課"},{"keb":"捜査第１課","composition":"捜査 第 １ 課","dependencies":"捜査 第 1 １ 課","kanji":"捜 査 第 課"}]}
+{"ent_seq":2872261,"k_ele":[{"keb":"捜査第二課","composition":"捜査 第 二 課","dependencies":"捜査 第 二 課","kanji":"捜 査 第 二 課"},{"keb":"捜査第２課","composition":"捜査 第 ２ 課","dependencies":"捜査 第 2 ２ 課","kanji":"捜 査 第 課"}]}
+{"ent_seq":2872262,"k_ele":[{"keb":"捜査第三課","composition":"捜査 第 三 課","dependencies":"捜査 第 三 課","kanji":"捜 査 第 三 課"},{"keb":"捜査第３課","composition":"捜査 第 ３ 課","dependencies":"捜査 第 3 ３ 課","kanji":"捜 査 第 課"}]}
+{"ent_seq":2872263,"k_ele":[{"keb":"捜査第四課","composition":"捜査 第 四 課","dependencies":"捜査 第 四 課","kanji":"捜 査 第 四 課"},{"keb":"捜査第４課","composition":"捜査 第 ４ 課","dependencies":"捜査 第 4 ４ 課","kanji":"捜 査 第 課"}]}
+{"ent_seq":2872264,"k_ele":[{"keb":"滑らか","dependents":"滑か","kanji":"滑"}]}
+{"ent_seq":2872265,"k_ele":[{"keb":"不適格者","composition":"不 適格 者","dependencies":"不 適格 者","kanji":"不 適 格 者"}]}
+{"ent_seq":2872266,"k_ele":[{"keb":"転がり出る","composition":"転がり 出る","dependencies":"転がり 出る","kanji":"転 出"},{"keb":"転がりでる","composition":"転がり でる","dependencies":"転がり 出る でる","kanji":"転"},{"keb":"ころがり出る","composition":"ころがり 出る","dependencies":"ころがる 転がる ころがり 出る","kanji":"出"}]}
+{"ent_seq":2872267,"k_ele":[{"keb":"神的","kanji":"神 的"}]}
+{"ent_seq":2872268,"k_ele":[{"keb":"琉金","kanji":"琉 金"}]}
+{"ent_seq":2872269,"k_ele":[{"keb":"市民参加","composition":"市民 参加","dependencies":"市民 参加","kanji":"市 民 参 加"}]}
+{"ent_seq":2872270,"k_ele":[{"keb":"縦位置","composition":"縦 位置","dependencies":"縦 位置","kanji":"縦 位 置"}]}
+{"ent_seq":2872271,"k_ele":[{"keb":"横位置","composition":"横 位置","dependencies":"横 位置","kanji":"横 位 置"}]}
+{"ent_seq":2872272,"k_ele":[{"keb":"鑑賞者","composition":"鑑賞 者","dependencies":"鑑賞 者","kanji":"鑑 賞 者"}]}
+{"ent_seq":2872273}
+{"ent_seq":2872274,"k_ele":[{"keb":"組代","composition":"組 代","dependencies":"組 代","kanji":"組 代"},{"keb":"組み代","composition":"組み 代","dependencies":"組 組み 代","kanji":"組 代"}]}
+{"ent_seq":2872275,"k_ele":[{"keb":"組台","composition":"組 台","dependencies":"組 台","kanji":"組 台"},{"keb":"組み台","composition":"組み 台","dependencies":"組 組み 台","kanji":"組 台"}]}
+{"ent_seq":2872277,"k_ele":[{"keb":"局勢","kanji":"局 勢"}]}
+{"ent_seq":2872278,"k_ele":[{"keb":"恐露病","composition":"恐 露 病","dependencies":"恐 露 病","kanji":"恐 露 病"}]}
+{"ent_seq":2872279,"k_ele":[{"keb":"大問","composition":"大 問","dependencies":"大 問い 問","kanji":"大 問"}]}
+{"ent_seq":2872280,"k_ele":[{"keb":"心の駒","composition":"心 の 駒","dependencies":"心 の 駒","kanji":"心 駒"}]}
+{"ent_seq":2872281,"k_ele":[{"keb":"吸蜜管","composition":"吸蜜 管","dependencies":"吸蜜 管","kanji":"吸 蜜 管"}]}
+{"ent_seq":2872283,"k_ele":[{"keb":"内戚","kanji":"内 戚"}]}
+{"ent_seq":2872285,"k_ele":[{"keb":"警備体制","composition":"警備 体制","dependencies":"警備 体制","kanji":"警 備 体 制"}]}
+{"ent_seq":2872286,"k_ele":[{"keb":"断罪者","composition":"断罪 者","dependencies":"断罪 者","kanji":"断 罪 者"}]}
+{"ent_seq":2872287,"k_ele":[{"keb":"幻想文学","composition":"幻想 文学","dependencies":"幻想 文学","kanji":"幻 想 文 学"}]}
+{"ent_seq":2872288,"k_ele":[{"keb":"研ぎ上げる","composition":"研ぎ 上げる","dependencies":"研ぎ 上げる","kanji":"研 上"},{"keb":"研ぎあげる","composition":"研ぎ あげる","dependencies":"研ぎ 上げる あげる","kanji":"研"},{"keb":"研上げる","composition":"研 上げる","dependencies":"研 上げる","kanji":"研 上"},{"keb":"とぎ上げる","composition":"とぎ 上げる","dependencies":"伽 とぎ 上げる","kanji":"上"}]}
+{"ent_seq":2872289,"k_ele":[{"keb":"心を致す","composition":"心 を 致す","dependencies":"心 を 致す","kanji":"心 致"},{"keb":"心をいたす","composition":"心 を いたす","dependencies":"心 を 致す いたす","kanji":"心"}]}
+{"ent_seq":2872290,"k_ele":[{"keb":"血気にはやる","composition":"血気 に はやる","dependencies":"血気 に はやる","kanji":"血 気"},{"keb":"血気に逸る","composition":"血気 に 逸る","dependencies":"血気 に 逸る","kanji":"血 気 逸"}]}
+{"ent_seq":2872291,"k_ele":[{"keb":"魔書","composition":"魔 書","dependencies":"魔 書","kanji":"魔 書"}]}
+{"ent_seq":2872292,"k_ele":[{"keb":"怪魔","kanji":"怪 魔"}]}
+{"ent_seq":2872293,"k_ele":[{"keb":"廃工場","composition":"廃 工場","dependencies":"廃 工場","kanji":"廃 工 場"}]}
+{"ent_seq":2872294,"k_ele":[{"keb":"濡れ光る","composition":"濡れ 光る","dependencies":"濡れ 光る","kanji":"濡 光"},{"keb":"濡れひかる","composition":"濡れ ひかる","dependencies":"濡れ ひかる","kanji":"濡"},{"keb":"ぬれ光る","composition":"ぬれ 光る","dependencies":"濡れ ぬれ 光る","kanji":"光"}]}
+{"ent_seq":2872295,"k_ele":[{"keb":"盟休","kanji":"盟 休"}]}
+{"ent_seq":2872296,"k_ele":[{"keb":"名目論","composition":"名目 論","dependencies":"名目 論","kanji":"名 目 論"}]}
+{"ent_seq":2872297,"k_ele":[{"keb":"途歩","composition":"途 歩","dependencies":"途 歩","kanji":"途 歩"},{"keb":"途足","kanji":"途 足"}]}
+{"ent_seq":2872298,"k_ele":[{"keb":"粳黍","composition":"粳 黍","dependencies":"粳 黍","kanji":"粳 黍"}]}
+{"ent_seq":2872300,"k_ele":[{"keb":"平調子","composition":"平 調子","dependencies":"平 調子","kanji":"平 調 子"}]}
+{"ent_seq":2872301,"k_ele":[{"keb":"欧州経済領域","composition":"欧州 経済 領域","dependencies":"欧州 経済 領域","kanji":"欧 州 経 済 領 域"}]}
+{"ent_seq":2872302,"k_ele":[{"keb":"キャビネ判写真","composition":"キャビネ判 写真","dependencies":"キャビネ 判 キャビネ判 写真","kanji":"判 写 真"}]}
+{"ent_seq":2872303,"k_ele":[{"keb":"丸ばつ式","composition":"丸ばつ 式","dependencies":"丸ばつ 式","kanji":"丸 式"},{"keb":"○×式","composition":"○ × 式","dependencies":"○ × 式","kanji":"式"}]}
+{"ent_seq":2872304,"k_ele":[{"keb":"前鰭","composition":"前 鰭","dependencies":"前 鰭","kanji":"前 鰭"},{"keb":"前びれ","composition":"前 びれ","dependencies":"前 鰭 びれ","kanji":"前"}]}
+{"ent_seq":2872305,"k_ele":[{"keb":"二本足","composition":"二 本 足","dependencies":"二 本 足","kanji":"二 本 足"},{"keb":"２本足","composition":"２ 本 足","dependencies":"2 ２ 本 足","kanji":"本 足"}]}
+{"ent_seq":2872306,"k_ele":[{"keb":"長衣","kanji":"長 衣"}]}
+{"ent_seq":2872307,"k_ele":[{"keb":"兵法書","composition":"兵法 書","dependencies":"兵法 書","kanji":"兵 法 書"}]}
+{"ent_seq":2872308,"k_ele":[{"keb":"挑みかかる","composition":"挑み かかる","dependencies":"挑む 挑み 掛かる かかる","kanji":"挑"},{"keb":"挑み掛かる","composition":"挑み 掛かる","dependencies":"挑む 挑み 掛かる","kanji":"挑 掛"}]}
+{"ent_seq":2872309}
+{"ent_seq":2872310,"k_ele":[{"keb":"桃山","dependents":"安土桃山 安土桃山時代 桃山学院大学 桃山学院教育大学 桃山時代","kanji":"桃 山"}]}
+{"ent_seq":2872311,"k_ele":[{"keb":"網を張る","composition":"網 を 張る","dependencies":"網 を 張る","kanji":"網 張"},{"keb":"網をはる","composition":"網 を はる","dependencies":"網 を はる","kanji":"網"},{"keb":"あみを張る","composition":"あみ を 張る","dependencies":"あみ を 張る","kanji":"張"}]}
+{"ent_seq":2872312,"k_ele":[{"keb":"笑み崩れる","composition":"笑み 崩れる","dependencies":"笑み 崩れる","kanji":"笑 崩"},{"keb":"笑みくずれる","composition":"笑み くずれる","dependencies":"笑み 崩れる くずれる","kanji":"笑"}]}
+{"ent_seq":2872314}
+{"ent_seq":2872315,"k_ele":[{"keb":"名詮自性","composition":"名詮 自性","dependencies":"名詮 自性","kanji":"名 詮 自 性"},{"keb":"名詮自称","composition":"名詮 自称","dependencies":"名詮 自称","kanji":"名 詮 自 称"}]}
+{"ent_seq":2872316,"k_ele":[{"keb":"投げ足","composition":"投げ 足","dependencies":"投げ 足","kanji":"投 足"}]}
+{"ent_seq":2872317,"k_ele":[{"keb":"新台","kanji":"新 台"}]}
+{"ent_seq":2872319,"k_ele":[{"keb":"葱南蛮","composition":"葱 南蛮","dependencies":"葱 南蛮","kanji":"葱 南 蛮"},{"keb":"ネギ南蛮","composition":"ネギ 南蛮","dependencies":"葱 ネギ 南蛮","kanji":"南 蛮"}]}
+{"ent_seq":2872322,"k_ele":[{"keb":"二塩化","composition":"二 塩化","dependencies":"二 塩化","kanji":"二 塩 化"}]}
+{"ent_seq":2872323,"k_ele":[{"keb":"日宋貿易","composition":"日宋 貿易","dependencies":"日宋 貿易","kanji":"日 宋 貿 易"}]}
+{"ent_seq":2872324,"k_ele":[{"keb":"作戦勝ち","composition":"作戦 勝ち","dependencies":"作戦 勝ち","kanji":"作 戦 勝"},{"keb":"作戦がち","composition":"作戦 がち","dependencies":"作戦 勝ち がち","kanji":"作 戦"}]}
+{"ent_seq":2872325,"k_ele":[{"keb":"膿血症","composition":"膿 血 症","dependencies":"膿 血 症","kanji":"膿 血 症"}]}
+{"ent_seq":2872326,"k_ele":[{"keb":"脳焮衝","composition":"脳 焮衝","dependencies":"脳 焮衝","kanji":"脳 焮 衝"}]}
+{"ent_seq":2872328}
+{"ent_seq":2872329}
+{"ent_seq":2872330}
+{"ent_seq":2872331}
+{"ent_seq":2872332,"k_ele":[{"keb":"暑熱順化","composition":"暑熱 順化","dependencies":"暑熱 馴化 順化","kanji":"暑 熱 順 化"}]}
+{"ent_seq":2872333,"k_ele":[{"keb":"重円錐構造","composition":"重 円錐 構造","dependencies":"重 円錐 構造","kanji":"重 円 錐 構 造"}]}
+{"ent_seq":2872334,"k_ele":[{"keb":"コーンインコーン構造","composition":"コーンインコーン 構造","dependencies":"コーンインコーン 構造","kanji":"構 造"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}

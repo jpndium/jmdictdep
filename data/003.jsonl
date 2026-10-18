@@ -1782,7 +1782,7 @@
 {"ent_seq":2862648}
 {"ent_seq":2862649}
 {"ent_seq":2862650,"k_ele":[{"keb":"洋食屋","composition":"洋食 屋","dependencies":"洋食 屋","kanji":"洋 食 屋"}]}
-{"ent_seq":2862651,"k_ele":[{"keb":"布","dependents":"こし布 ろか布 ろ過布 フジ布 ロカ布 三角布 二布 傘布 刀布 巴布 布えほん 布おむつ 布お襁褓 布のえほん 布の絵本 布オムツ 布マスク 布切 布哇 布基礎 布局 布延 布御襁褓 布絵本 布銭 忽布 拭布 掛け布 有り布 格魯布 棊布 濾過布 火浣布 綾布 聖骸布 脚布 薄布 藤布 防水布 面布 領布 黄麻布","kanji":"布"}]}
+{"ent_seq":2862651,"k_ele":[{"keb":"布","dependents":"こし布 ろか布 ろ過布 フジ布 ロカ布 三角布 二布 傘布 刀布 卓布 巴布 布えほん 布おむつ 布お襁褓 布のえほん 布の絵本 布オムツ 布マスク 布切 布哇 布基礎 布局 布延 布御襁褓 布絵本 布銭 忽布 拭布 掛け布 有り布 格魯布 棊布 濾過布 火浣布 綾布 聖骸布 脚布 薄布 藤布 防水布 面布 領布 黄麻布","kanji":"布"}]}
 {"ent_seq":2862652,"k_ele":[{"keb":"肉店","composition":"肉 店","dependencies":"肉 店","kanji":"肉 店"}]}
 {"ent_seq":2862653}
 {"ent_seq":2862655,"k_ele":[{"keb":"洋食店","composition":"洋食 店","dependencies":"洋食 店","kanji":"洋 食 店"}]}
@@ -11492,6 +11492,7 @@
 {"ent_seq":2873021,"k_ele":[{"keb":"旬菜","composition":"旬 菜","dependencies":"旬 菜","kanji":"旬 菜"},{"keb":"旬彩","composition":"旬 彩","dependencies":"旬 彩","kanji":"旬 彩"}]}
 {"ent_seq":2873022,"k_ele":[{"keb":"貸し自転車","composition":"貸し 自転車","dependencies":"貸し 自転車","kanji":"貸 自 転 車"},{"keb":"貸自転車","composition":"貸 自転車","dependencies":"貸し 貸 自転車","kanji":"貸 自 転 車"}]}
 {"ent_seq":2873023,"k_ele":[{"keb":"想定線","composition":"想定 線","dependencies":"想定 線","kanji":"想 定 線"}]}
+{"ent_seq":2873024,"k_ele":[{"keb":"発表日","composition":"発表 日","dependencies":"発表 日","kanji":"発 表 日"}]}
 {"ent_seq":2873025,"k_ele":[{"keb":"指紋センサー","composition":"指紋 センサー","dependencies":"指紋 センサー","kanji":"指 紋"}]}
 {"ent_seq":2873026,"k_ele":[{"keb":"越境者","composition":"越境 者","dependencies":"越境 者","kanji":"越 境 者"}]}
 {"ent_seq":2873027,"k_ele":[{"keb":"平野部","composition":"平野 部","dependencies":"平野 部","kanji":"平 野 部"}]}
@@ -11562,26 +11563,64 @@
 {"ent_seq":2873099}
 {"ent_seq":2873100,"k_ele":[{"keb":"正宮","kanji":"正 宮"}]}
 {"ent_seq":2873101,"k_ele":[{"keb":"省印","composition":"省 印","dependencies":"省 印","kanji":"省 印"}]}
+{"ent_seq":2873102,"k_ele":[{"keb":"森づくり","composition":"森作り","dependencies":"森作り","kanji":"森"},{"keb":"森作り","dependents":"森づくり","kanji":"森 作"},{"keb":"森造り","composition":"森 造り","dependencies":"森 造り","kanji":"森 造"},{"keb":"森造","composition":"森 造","dependencies":"森 造","kanji":"森 造"},{"keb":"森作","kanji":"森 作"}]}
 {"ent_seq":2873103,"k_ele":[{"keb":"超知能","composition":"超 知能","dependencies":"超 知能","kanji":"超 知 能"}]}
 {"ent_seq":2873104,"k_ele":[{"keb":"塵雲","composition":"塵 雲","dependencies":"塵 雲","kanji":"塵 雲"}]}
+{"ent_seq":2873105,"k_ele":[{"keb":"後付け設定","composition":"後付け 設定","dependencies":"後付け 設定","kanji":"後 付 設 定"},{"keb":"後づけ設定","composition":"後づけ 設定","dependencies":"後付け 後づけ 設定","kanji":"後 設 定"},{"keb":"あとづけ設定","composition":"あとづけ 設定","dependencies":"あとづける 跡付ける あとづけ 設定","kanji":"設 定"}]}
+{"ent_seq":2873106,"k_ele":[{"keb":"先を見る","composition":"先 を 見る","dependencies":"先 を 見る","kanji":"先 見"},{"keb":"先が見る","composition":"先 が 見る","dependencies":"先 が 見る","kanji":"先 見"}]}
 {"ent_seq":2873107,"k_ele":[{"keb":"天弓","kanji":"天 弓"}]}
+{"ent_seq":2873108,"k_ele":[{"keb":"非童貞","composition":"非 童貞","dependencies":"非 童貞","kanji":"非 童 貞"}]}
 {"ent_seq":2873109}
+{"ent_seq":2873110,"k_ele":[{"keb":"底を割る","composition":"底 を 割る","dependencies":"底 を 割る","kanji":"底 割"},{"keb":"そこを割る","composition":"そこ を 割る","dependencies":"そこ を 割る","kanji":"割"}]}
+{"ent_seq":2873111,"k_ele":[{"keb":"精霊迎え","composition":"精霊 迎え","dependencies":"精霊 迎える 迎え","kanji":"精 霊 迎"},{"keb":"精霊むかえ","composition":"精霊 むかえ","dependencies":"精霊 迎える 迎え むかえ","kanji":"精 霊"}]}
 {"ent_seq":2873112,"k_ele":[{"keb":"三七草","kanji":"三 七 草"},{"keb":"山漆草","composition":"山 漆草","dependencies":"山 漆草","kanji":"山 漆 草"}]}
 {"ent_seq":2873113,"k_ele":[{"keb":"燦点","composition":"燦 点","dependencies":"燦 点","kanji":"燦 点"}]}
 {"ent_seq":2873115,"k_ele":[{"keb":"小行李","composition":"小 行李","dependencies":"小 行李","kanji":"小 行 李"}]}
 {"ent_seq":2873116}
 {"ent_seq":2873117,"k_ele":[{"keb":"プロピオル酸","composition":"プロピオル 酸","dependencies":"プロピオル 酸","kanji":"酸"}]}
 {"ent_seq":2873118}
+{"ent_seq":2873119,"k_ele":[{"keb":"駐輪機","composition":"駐輪 機","dependencies":"駐輪 機","kanji":"駐 輪 機"}]}
+{"ent_seq":2873120,"k_ele":[{"keb":"笛声","dependents":"笛声音","kanji":"笛 声"}]}
+{"ent_seq":2873121}
 {"ent_seq":2873122,"k_ele":[{"keb":"星座早見盤","composition":"星座 早見 盤","dependencies":"星座 早見 盤","kanji":"星 座 早 見 盤"}]}
 {"ent_seq":2873123,"k_ele":[{"keb":"挟み紙","composition":"挟み 紙","dependencies":"はさみ 挟み 紙","kanji":"挟 紙"},{"keb":"挟紙","composition":"挟 紙","dependencies":"挟 紙","kanji":"挟 紙"}]}
 {"ent_seq":2873124}
 {"ent_seq":2873125,"k_ele":[{"keb":"肺ペスト","composition":"肺 ペスト","dependencies":"肺 ペスト","kanji":"肺"}]}
 {"ent_seq":2873126}
+{"ent_seq":2873127,"k_ele":[{"keb":"派生物","composition":"派生 物","dependencies":"派生 物","kanji":"派 生 物"}]}
 {"ent_seq":2873128,"k_ele":[{"keb":"火浣布","composition":"火浣 布","dependencies":"火浣 布","kanji":"火 浣 布"}]}
 {"ent_seq":2873129,"k_ele":[{"keb":"蝦夷梟","composition":"蝦夷 梟","dependencies":"蝦夷 梟","kanji":"蝦 夷 梟"},{"keb":"えぞ梟","composition":"えぞ 梟","dependencies":"えー え ぞ えぞ 梟","kanji":"梟"},{"keb":"蝦夷ふくろう","composition":"蝦夷 ふくろう","dependencies":"蝦夷 梟 ふくろう","kanji":"蝦 夷"}]}
 {"ent_seq":2873130,"k_ele":[{"keb":"華北山椒","composition":"華北 山椒","dependencies":"華北 山椒","kanji":"華 北 山 椒"}]}
 {"ent_seq":2873131,"k_ele":[{"keb":"見守りカメラ","composition":"見守り カメラ","dependencies":"見る 見 守り 見守り カメラ","kanji":"見 守"}]}
 {"ent_seq":2873132,"k_ele":[{"keb":"貝虫","composition":"貝 虫","dependencies":"貝 虫","kanji":"貝 虫"}]}
+{"ent_seq":2873133}
+{"ent_seq":2873134}
+{"ent_seq":2873135,"k_ele":[{"keb":"後付け設定変更","composition":"後付け 設定 変更","dependencies":"後付け 設定 変更","kanji":"後 付 設 定 変 更"}]}
+{"ent_seq":2873136,"k_ele":[{"keb":"相反性神経支配","composition":"相反 性 神経 支配","dependencies":"相反 性 神経 支配","kanji":"相 反 性 神 経 支 配"}]}
+{"ent_seq":2873137,"k_ele":[{"keb":"重力学","composition":"重力 学","dependencies":"重力 学","kanji":"重 力 学"}]}
+{"ent_seq":2873138}
+{"ent_seq":2873139,"k_ele":[{"keb":"チン騎士","composition":"チン 騎士","dependencies":"ちん チン 騎士","kanji":"騎 士"}]}
+{"ent_seq":2873140}
+{"ent_seq":2873141}
+{"ent_seq":2873142,"k_ele":[{"keb":"泛藍連盟","composition":"泛藍 連盟","dependencies":"泛藍 連盟","kanji":"泛 藍 連 盟"}]}
+{"ent_seq":2873143,"k_ele":[{"keb":"泛緑連盟","composition":"泛緑 連盟","dependencies":"泛緑 連盟","kanji":"泛 緑 連 盟"}]}
+{"ent_seq":2873144,"k_ele":[{"keb":"笛声音","composition":"笛声 音","dependencies":"笛声 音","kanji":"笛 声 音"}]}
+{"ent_seq":2873145,"k_ele":[{"keb":"満族","kanji":"満 族"}]}
+{"ent_seq":2873148,"k_ele":[{"keb":"副査","composition":"副 査","dependencies":"副 査","kanji":"副 査"}]}
+{"ent_seq":2873149}
+{"ent_seq":2873150}
+{"ent_seq":2873151}
+{"ent_seq":2873152,"k_ele":[{"keb":"主位","kanji":"主 位"}]}
+{"ent_seq":2873153}
+{"ent_seq":2873154}
+{"ent_seq":2873158}
+{"ent_seq":2873159}
+{"ent_seq":2873160,"k_ele":[{"keb":"規定語","composition":"規定 語","dependencies":"規定 語","kanji":"規 定 語"}]}
+{"ent_seq":2873161,"k_ele":[{"keb":"線維軟骨","composition":"線維 軟骨","dependencies":"線維 軟骨","kanji":"線 維 軟 骨"},{"keb":"繊維軟骨","composition":"繊維 軟骨","dependencies":"繊維 軟骨","kanji":"繊 維 軟 骨"}]}
+{"ent_seq":2873164,"k_ele":[{"keb":"卓布","composition":"卓 布","dependencies":"卓 布","kanji":"卓 布"}]}
+{"ent_seq":2873165}
+{"ent_seq":2873166,"k_ele":[{"keb":"忘備録","composition":"忘 備 録","dependencies":"忘れる 忘る 忘 備 録","kanji":"忘 備 録"}]}
+{"ent_seq":2873168,"k_ele":[{"keb":"ＭＩＡ","composition":"MIA","dependencies":"MIA"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}

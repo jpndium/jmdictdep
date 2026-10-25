@@ -1,4 +1,3 @@
-{"ent_seq":2860735,"k_ele":[{"keb":"首切り役人","composition":"首切り 役人","dependencies":"首切り 役人","kanji":"首 切 役 人"},{"keb":"首切役人","composition":"首 切 役人","dependencies":"首 切 役人","kanji":"首 切 役 人"}]}
 {"ent_seq":2860736,"k_ele":[{"keb":"拗れ","kanji":"拗"}]}
 {"ent_seq":2860737,"k_ele":[{"keb":"ご了承ください","composition":"ご 了承 ください","dependencies":"五 ご 了承 くださる 下さる ください","kanji":"了 承"},{"keb":"ご了承下さい","composition":"ご 了承 下さい","dependencies":"五 ご 了承 下さる 下さい","kanji":"了 承 下"},{"keb":"御了承下さい","composition":"御 了承 下さい","dependencies":"御 了承 下さる 下さい","kanji":"御 了 承 下"},{"keb":"御了承ください","composition":"御 了承 ください","dependencies":"御 了承 くださる 下さる ください","kanji":"御 了 承"}]}
 {"ent_seq":2860738,"k_ele":[{"keb":"愛及屋烏","composition":"愛 及 屋 烏","dependencies":"愛 及び 及 屋 烏","kanji":"愛 及 屋 烏"}]}
@@ -9250,7 +9249,7 @@
 {"ent_seq":2870650}
 {"ent_seq":2870651}
 {"ent_seq":2870652,"k_ele":[{"keb":"土をつける","composition":"土 を つける","dependencies":"土 を つける","kanji":"土"},{"keb":"土を付ける","composition":"土 を 付ける","dependencies":"土 を 付ける","kanji":"土 付"}]}
-{"ent_seq":2870653,"k_ele":[{"keb":"病性","dependents":"精神病性障害","kanji":"病 性"}]}
+{"ent_seq":2870653,"k_ele":[{"keb":"病性","dependents":"精神病性障害 糖尿病性昏睡","kanji":"病 性"}]}
 {"ent_seq":2870654,"k_ele":[{"keb":"絶対秘仏","composition":"絶対 秘仏","dependencies":"絶対 秘仏","kanji":"絶 対 秘 仏"}]}
 {"ent_seq":2870655,"k_ele":[{"keb":"ＡＭ","composition":"AM","dependencies":"AM","dependents":"ＡＭ休"},{"keb":"ａｍ","composition":"AM","dependencies":"AM"}]}
 {"ent_seq":2870656}
@@ -11606,6 +11605,8 @@
 {"ent_seq":2873143,"k_ele":[{"keb":"泛緑連盟","composition":"泛緑 連盟","dependencies":"泛緑 連盟","kanji":"泛 緑 連 盟"}]}
 {"ent_seq":2873144,"k_ele":[{"keb":"笛声音","composition":"笛声 音","dependencies":"笛声 音","kanji":"笛 声 音"}]}
 {"ent_seq":2873145,"k_ele":[{"keb":"満族","kanji":"満 族"}]}
+{"ent_seq":2873146,"k_ele":[{"keb":"棚出し","composition":"棚 出し","dependencies":"棚 出し","kanji":"棚 出"},{"keb":"棚だし","composition":"棚 だ し","dependencies":"棚 だ き し","kanji":"棚"}]}
+{"ent_seq":2873147,"k_ele":[{"keb":"号線","composition":"号 線","dependencies":"号 線","kanji":"号 線"}]}
 {"ent_seq":2873148,"k_ele":[{"keb":"副査","composition":"副 査","dependencies":"副 査","kanji":"副 査"}]}
 {"ent_seq":2873149}
 {"ent_seq":2873150}
@@ -11617,10 +11618,37 @@
 {"ent_seq":2873159}
 {"ent_seq":2873160,"k_ele":[{"keb":"規定語","composition":"規定 語","dependencies":"規定 語","kanji":"規 定 語"}]}
 {"ent_seq":2873161,"k_ele":[{"keb":"線維軟骨","composition":"線維 軟骨","dependencies":"線維 軟骨","kanji":"線 維 軟 骨"},{"keb":"繊維軟骨","composition":"繊維 軟骨","dependencies":"繊維 軟骨","kanji":"繊 維 軟 骨"}]}
+{"ent_seq":2873163,"k_ele":[{"keb":"ネット中毒","composition":"ネット 中毒","dependencies":"ネット 中毒","kanji":"中 毒"}]}
 {"ent_seq":2873164,"k_ele":[{"keb":"卓布","composition":"卓 布","dependencies":"卓 布","kanji":"卓 布"}]}
 {"ent_seq":2873165}
 {"ent_seq":2873166,"k_ele":[{"keb":"忘備録","composition":"忘 備 録","dependencies":"忘れる 忘る 忘 備 録","kanji":"忘 備 録"}]}
+{"ent_seq":2873167,"k_ele":[{"keb":"急からしい","composition":"急か らしい","dependencies":"急 か 急か らしい","kanji":"急"}]}
 {"ent_seq":2873168,"k_ele":[{"keb":"ＭＩＡ","composition":"MIA","dependencies":"MIA"}]}
+{"ent_seq":2873169,"k_ele":[{"keb":"樽生ビール","composition":"樽 生 ビール","dependencies":"樽 生 ビール","kanji":"樽 生"}]}
+{"ent_seq":2873170,"k_ele":[{"keb":"世界の警察官","composition":"世界 の 警察官","dependencies":"世界 の 警察 官 警察官","kanji":"世 界 警 察 官"}]}
+{"ent_seq":2873172}
+{"ent_seq":2873174,"k_ele":[{"keb":"肺癆","kanji":"肺 癆"}]}
+{"ent_seq":2873175}
+{"ent_seq":2873176,"k_ele":[{"keb":"足治療","composition":"足 治療","dependencies":"足 治療","kanji":"足 治 療"}]}
+{"ent_seq":2873177,"k_ele":[{"keb":"刀削麺","kanji":"刀 削 麺"}]}
+{"ent_seq":2873178,"k_ele":[{"keb":"造園家","composition":"造園 家","dependencies":"造園 家","kanji":"造 園 家"}]}
+{"ent_seq":2873179,"k_ele":[{"keb":"植木師","composition":"植木 師","dependencies":"植木 師","kanji":"植 木 師"}]}
+{"ent_seq":2873180,"k_ele":[{"keb":"網膜光凝固術","composition":"網膜 光 凝固 術","dependencies":"網膜 光 凝固 術","kanji":"網 膜 光 凝 固 術"}]}
+{"ent_seq":2873181,"k_ele":[{"keb":"光凝固術","composition":"光 凝固 術","dependencies":"光 凝固 術","kanji":"光 凝 固 術"}]}
+{"ent_seq":2873182,"k_ele":[{"keb":"網膜光凝固","composition":"網膜 光 凝固","dependencies":"網膜 光 凝固","kanji":"網 膜 光 凝 固"}]}
+{"ent_seq":2873183,"k_ele":[{"keb":"刀削麺","kanji":"刀 削 麺"}]}
+{"ent_seq":2873184,"k_ele":[{"keb":"陣構え","composition":"陣 構え","dependencies":"陣 構え","kanji":"陣 構"}]}
+{"ent_seq":2873185,"k_ele":[{"keb":"可観測性","composition":"可 観測 性","dependencies":"可 観測 性","kanji":"可 観 測 性"}]}
+{"ent_seq":2873188,"k_ele":[{"keb":"族","dependents":"かに族 みゆき族 アイヌ族 アウストロアジア語族 アウストロネシア語族 アステカ族 アフロアジア語族 アフロ・アジア語族 アラワク語族 アリ族 アルゴンキン族 アルタイ語族 インドゲルマン語族 インドシナ語族 インドヨーロッパ語族 インド・ゲルマン語族 インド・シナ語族 インド・ヨーロッパ語族 インド・太平洋語族 インド太平洋語族 ウシ族 ウラルアルタイ語族 ウラル・アルタイ語族 ウラル語族 オーストロアジア語族 オーストロネシア語族 カニ族 カミナリ族 カラス族 カレン族 キン族 ケチュア族 コイ族 ゴート族 サラール族 サラ族 サン族 シェルパ族 シナチベット語族 ジャラワ族 ズールー族 セマン族 セム族 セム語族 タイ族 タオ族 タガログ族 タミル族 タロコ族 チャム族 チワン族 ディンカ族 トダ族 トンシャン族 ドラビダ族 ドラビダ語族 ドラヴィダ族 ドラヴィダ語族 ドンシャン族 ナシ族 ナワ族 ニジェールコルドファン語族 ニジェールコンゴ語族 ニジェール・コルドファン語族 ニジェール・コンゴ語族 ハザル族 ハムセム語族 ハム語族 ハロゲン族元素 バンツー族 バントゥー族 ヒト族 ビート族 フン族 ブギス族 ホア族 ホタル族 マオリ族 マライポリネシア語族 マラヨポリネシア語族 マルハナバチ族 マレーポリネシア語族 マレー・ポリネシア語族 ミャオ族 メビウス芳香族性 モヒカン族 モンゴル族 ヤオ族 ラカンドン族 リー族 ルーレット族 ローラー族 ローリング族 三族 三族の罪 上簇 九族 五族共和 五族協和 亜族 京族 冥王星族 卒族 南アジア語族 南島語族 印欧語族 哈日族 団地族 夕暮れ族 多環芳香族炭化水素 大簇 太簇 太陽族 太魯閣族 寝そべり族 尊族 広西チワン族自治区 建設族 徒歩暴走族 撒拉族 支那チベット語族 文教族 斜陽族 族滅 族生 族誅 族議員 日本語族 日琉語族 暴走族 月光族 東亜諸民族 東郷族 深夜族 満州族 異族 白金族 白金族元素 社用族 窒素族元素 窓際族 竹の子族 簇 簇り 簇出 簇簇 納西族 胡族 脂肪族化合物 自民族 自民族中心主義 芳香族アミン 芳香族化 芳香族化合物 芳香族性 芳香族炭化水素 苗族 蒙古族 薔薇族 蛍族 蟻族 補欠分子族 親指族 語族 転勤族 道路族 達悟族 酸素族元素 関数族 集簇 雷族 食人族 首長族 高山族 鱗族 黎族","kanji":"族"}]}
+{"ent_seq":2873189,"k_ele":[{"keb":"嫌気性消化","composition":"嫌気 性 消化","dependencies":"嫌気 性 消化","kanji":"嫌 気 性 消 化"}]}
+{"ent_seq":2873190,"k_ele":[{"keb":"糖尿病性昏睡","composition":"糖尿 病性 昏睡","dependencies":"糖尿 病性 昏睡","kanji":"糖 尿 病 性 昏 睡"}]}
+{"ent_seq":2873191,"k_ele":[{"keb":"維摩","dependents":"維摩経","kanji":"維 摩"}]}
+{"ent_seq":2873192,"k_ele":[{"keb":"中華台北","composition":"中華 台北","dependencies":"中華 台北","kanji":"中 華 台 北"}]}
+{"ent_seq":2873194,"k_ele":[{"keb":"視野検査","composition":"視野 検査","dependencies":"視野 検査","kanji":"視 野 検 査"}]}
+{"ent_seq":2873196,"k_ele":[{"keb":"賑わしい","kanji":"賑"}]}
+{"ent_seq":2873197,"k_ele":[{"keb":"小児恐怖症","composition":"小児 恐怖症","dependencies":"小児 恐怖 症 恐怖症","kanji":"小 児 恐 怖 症"}]}
+{"ent_seq":2873198,"k_ele":[{"keb":"人形恐怖症","composition":"人形 恐怖症","dependencies":"人形 恐怖 症 恐怖症","kanji":"人 形 恐 怖 症"}]}
+{"ent_seq":2873199,"k_ele":[{"keb":"備中鍬","composition":"備中 鍬","dependencies":"備中 鍬","kanji":"備 中 鍬"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
@@ -12186,6 +12214,7 @@
 {"ent_seq":5042108,"k_ele":[{"keb":"ジュンク堂","kanji":"堂"}]}
 {"ent_seq":5042229}
 {"ent_seq":5042356}
+{"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗","composition":"ジンギス 汗","dependencies":"チンギス ジンギス 汗","kanji":"汗"}]}
 {"ent_seq":5042810}
 {"ent_seq":5042811,"k_ele":[{"keb":"スーパーフォース２","composition":"スーパー フォース ２","dependencies":"スーパー フォース 2 ２"}]}
 {"ent_seq":5042812}
@@ -12306,6 +12335,7 @@
 {"ent_seq":5050989}
 {"ent_seq":5051090}
 {"ent_seq":5051127}
+{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗","composition":"チンギスハン","dependencies":"チンギスハン","dependents":"成吉思汗料理 成吉思汗鍋","kanji":"成 吉 思 汗"}]}
 {"ent_seq":5051253}
 {"ent_seq":5051384}
 {"ent_seq":5051858}

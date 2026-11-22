@@ -1,4 +1,3 @@
-{"ent_seq":2860737,"k_ele":[{"keb":"ご了承ください","composition":"ご 了承 ください","dependencies":"五 ご 了承 くださる 下さる ください","kanji":"了 承"},{"keb":"ご了承下さい","composition":"ご 了承 下さい","dependencies":"五 ご 了承 下さる 下さい","kanji":"了 承 下"},{"keb":"御了承下さい","composition":"御 了承 下さい","dependencies":"御 了承 下さる 下さい","kanji":"御 了 承 下"},{"keb":"御了承ください","composition":"御 了承 ください","dependencies":"御 了承 くださる 下さる ください","kanji":"御 了 承"}]}
 {"ent_seq":2860738,"k_ele":[{"keb":"愛及屋烏","composition":"愛 及 屋 烏","dependencies":"愛 及び 及 屋 烏","kanji":"愛 及 屋 烏"}]}
 {"ent_seq":2860739,"k_ele":[{"keb":"養樹園","composition":"養 樹園","dependencies":"養 樹園","kanji":"養 樹 園"}]}
 {"ent_seq":2860740,"k_ele":[{"keb":"行政罰","composition":"行政 罰","dependencies":"行政 罰","kanji":"行 政 罰"}]}
@@ -11706,6 +11705,8 @@
 {"ent_seq":2873252,"k_ele":[{"keb":"旧居留地","composition":"旧 居留 地","dependencies":"旧 居留 地","kanji":"旧 居 留 地"}]}
 {"ent_seq":2873253}
 {"ent_seq":2873254,"k_ele":[{"keb":"おはようお帰り","composition":"おはよう お 帰り","dependencies":"御早う おはよう 御 お 帰り","kanji":"帰"},{"keb":"お早うお帰り","composition":"お早う お 帰り","dependencies":"御早う お早う 御 お 帰り","kanji":"早 帰"}]}
+{"ent_seq":2873255}
+{"ent_seq":2873256,"k_ele":[{"keb":"甘えた","composition":"甘え た","dependencies":"甘え た","kanji":"甘"},{"keb":"甘いた","composition":"甘い た","dependencies":"甘い た","kanji":"甘"}]}
 {"ent_seq":2873257,"k_ele":[{"keb":"味ない","composition":"味 ない","dependencies":"味 無い ない","kanji":"味"},{"keb":"味無い","composition":"味 無い","dependencies":"味 無い","kanji":"味 無"}]}
 {"ent_seq":2873258,"k_ele":[{"keb":"阿字観","composition":"阿字 観","dependencies":"阿字 見る 観る 観","kanji":"阿 字 観"}]}
 {"ent_seq":2873259,"k_ele":[{"keb":"一念三千","composition":"一念 三千","dependencies":"一念 三千","kanji":"一 念 三 千"}]}
@@ -11738,16 +11739,20 @@
 {"ent_seq":2873286}
 {"ent_seq":2873287,"k_ele":[{"keb":"うちの子","composition":"うち の 子","dependencies":"うち の 子","kanji":"子"},{"keb":"ウチの子","composition":"ウチ の 子","dependencies":"ウチ の 子","kanji":"子"},{"keb":"内の子","composition":"内 の 子","dependencies":"内 の 子","kanji":"内 子"}]}
 {"ent_seq":2873288,"k_ele":[{"keb":"消え物","kanji":"消 物"}]}
+{"ent_seq":2873289,"k_ele":[{"keb":"海賦","composition":"海 賦","dependencies":"海 賦","kanji":"海 賦"},{"keb":"海部","kanji":"海 部"}]}
 {"ent_seq":2873290,"k_ele":[{"keb":"毒血","dependents":"毒血症","kanji":"毒 血"}]}
 {"ent_seq":2873291,"k_ele":[{"keb":"懸濁物","composition":"懸濁 物","dependencies":"懸濁 物","kanji":"懸 濁 物"}]}
 {"ent_seq":2873292,"k_ele":[{"keb":"懸濁物食","composition":"懸濁 物 食","dependencies":"懸濁 物 食","kanji":"懸 濁 物 食"}]}
 {"ent_seq":2873296,"k_ele":[{"keb":"空き教室","composition":"空き 教室","dependencies":"空く 空き 教室","kanji":"空 教 室"}]}
 {"ent_seq":2873300,"k_ele":[{"keb":"探し","composition":"探す","dependencies":"探す","dependents":"さがし さがし出す さがし当てる しごと探し シゴト探し 人さがし 人捜し 人探し 仕事さがし 仕事探し 嫁さがし 嫁探し 宝さがし 宝捜し 宝探し 捜し 捜しあぐねる 捜しあてる 捜しだす 捜しもとめる 捜し中てる 捜し倦ねる 捜し出す 捜し回る 捜し廻る 捜し当てる 捜し求める 探しあぐねる 探しあてる 探しだす 探しに 探しまわる 探しもとめる 探しモノ 探し中てる 探し倦ねる 探し出す 探し回る 探し廻る 探し当てる 探し求める 枕捜し 犯人捜し 犯人探し 盲探し 職探し 自分探し 部屋探し 金探し 間違い探し","kanji":"探"},{"keb":"捜し","composition":"探し","dependencies":"探す 探し","dependents":"人捜し 宝捜し 捜しあぐねる 捜しあてる 捜しだす 捜しもとめる 捜し中てる 捜し倦ねる 捜し出す 捜し回る 捜し廻る 捜し当てる 捜し求める 枕捜し 犯人捜し","kanji":"捜"}]}
 {"ent_seq":2873301,"k_ele":[{"keb":"拉く","composition":"拉 く","dependencies":"拉る 拉げる 拉 九 く","dependents":"揉み拉く","kanji":"拉"}]}
+{"ent_seq":2873302,"k_ele":[{"keb":"付ける","dependents":"あたりを付ける あとを付ける あとを尾ける いちゃもんを付ける かたを付ける かっこ付ける かまい付ける くくり付ける けじめを付ける けちを付ける けち付ける けりを付ける こぎ付ける こすり付ける すり付ける たき付ける たたき付ける とろみを付ける どやし付ける なすり付ける にらみ付ける のしを付ける はくを付ける ひき付ける ひも付ける もったいを付ける やっ付ける やり付ける アタリを付ける カタを付ける ガンを付ける ガン付ける ケジメを付ける ケチを付ける ケチ付ける ケリを付ける ツケる バカに付ける薬はない バカに付ける薬は無い ページ番号を付ける メリハリを付ける 一段落付ける 丸を付ける 乗り付ける 乗付ける 付る 仰せ付ける 位置付ける 作り付ける 備え付ける 傷付る 優劣を付ける 元気を付ける 元気付ける 冠を付ける 切り付ける 切付ける 刻み付ける 割り付ける 割付ける 割付る 力を付ける 力水を付ける 勇気付ける 勿体を付ける 区別を付ける 印象付ける 取り付ける 取付ける 受け付ける 受付ける 口を付ける 叩き付ける 叱り付ける 名前を付ける 名称を付ける 吸い付ける 吸付ける 吹き付ける 吹付ける 味を付ける 味噌を付ける 味方に付ける 呶鳴り付ける 呼び付ける 呼付ける 唾を付ける 嗅ぎ付ける 噴き付ける 嚇し付ける 因縁を付ける 土を付ける 基礎付ける 塗り付ける 売り付ける 売付ける 始末を付ける 実を付ける 寄せ付ける 寝かし付ける 対応付ける 尾け 尾ける 尾け回す 尾ひれを付ける 尾行る 尾鰭を付ける 差し付ける 差を付ける 差付ける 巻き付ける 巻付ける 帳簿に付ける 引き付ける 引っ付ける 引付ける 弱い石にツケるな 弱い石に付けるな 張り付ける 張付ける 弾みを付ける 当たりを付ける 当て付ける 当りを付ける 彫り付ける 彫付ける 後を付ける 後を尾ける 怒鳴り付ける 恰好付ける 惹き付ける 意味付ける 手を付ける 打ち付ける 打っ付ける 打付ける 抑え付ける 投げ付ける 投付ける 折り紙を付ける 折紙を付ける 押え付ける 押さえ付ける 押し付ける 押付ける 括り付ける 振り付ける 据え付ける 据付ける 摩り付ける 摺り付ける 摺付ける 撥ね付ける 撫で付ける 擦り付ける 擦付ける 攻める石にツケるな 攻める石に付けるな 故事付ける 文を付ける 文付ける 文句を付ける 斬り付ける 方を付ける 方向付ける 日記を付ける 早附け木 曲を付ける 書き付ける 書付ける 札を付ける 来付ける 枠を付ける 染みを付ける 染め付ける 格好を付ける 格好付ける 桟を打ち付ける 植え付ける 構い付ける 構付ける 殴り付ける 気を付ける 決め付ける 決着を付ける 注文を付ける 活気付ける 渡りを付ける 漕ぎ付ける 瀞みを付ける 火を付ける 火を点ける 灯を付ける 灯を点ける 炒り付ける 点け 点けっぱなし 点けっ放し 点ける 焚き付ける 焼き付ける 焼き目を付ける 焼付ける 焼目を付ける 煎り付ける 照り付ける 照付ける 煮付ける 熨斗を付ける 片を付ける 特徴付ける 特色付ける 狙いを付ける 理由を付ける 理論付ける 生み付ける 産み付ける 申し付ける 申付ける 痕を付ける 痛め付ける 白黒を付ける 白黒付ける 盛り付ける 盛付ける 目に焼き付ける 目を付ける 目付ける 眉に唾を付ける 眼を付ける 眼付ける 着付ける 睨み付ける 睨め付ける 稽古を付ける 突き付ける 箔を付ける 節を付ける 紐付ける 組み付ける 結い付ける 結び付ける 結わえ付ける 結付ける 結論付ける 締め付ける 締付ける 縛り付ける 縫い付ける 義務付ける 習慣付ける 聞き付ける 聞付ける 肉を付ける 胸を締め付ける 脅し付ける 色を付ける 色付ける 落ち付ける 落とし前を付ける 落付ける 蒔き付ける 薬を付ける 行き付ける 行付ける 見せ付ける 見付る 見切りを付ける 見附け 見附ける 視付ける 言いがかりを付ける 言い付ける 言付ける 記録を付ける 話を付ける 説き付ける 説付ける 読み付ける 読付ける 護衛を付ける 責め付ける 買い付ける 貸し付ける 貼り付ける 貼付ける 跡を付ける 跡を尾ける 踏み付ける 踏ん付ける 踏付ける 蹴り付ける 身に付ける 送り付ける 造り付ける 運命付ける 道を付ける 道筋を付ける 遣っ付ける 遣り付ける 都合を付ける 門附け 関係付ける 関連付ける 阿呆に付ける薬なし 附け 附ける 附け加える 附け打ち 附け木 附け板 附け根 附け狙う 陰影を付ける 難癖を付ける 難癖付ける 電灯を点ける 順序付ける 順番付ける 頭を付ける 題を付ける 食べ付ける 飲み付ける 飲付ける 飾り付ける 馬鹿に付ける薬はない 馬鹿に付ける薬は無い 駆け付ける 駆付ける 駈け付ける 駈付ける 魅き付ける 𠮟り付ける","kanji":"付"},{"keb":"附ける","composition":"付ける","dependencies":"付ける","dependents":"早附け木 見附け 見附ける 門附け 附け 附け加える 附け打ち 附け木 附け板 附け根 附け狙う","kanji":"附"}]}
 {"ent_seq":2873303,"k_ele":[{"keb":"懸濁物質","composition":"懸濁 物質","dependencies":"懸濁 物質","kanji":"懸 濁 物 質"}]}
 {"ent_seq":2873304,"k_ele":[{"keb":"差し出し","dependents":"差し出し人 差し出し先 差出 差出がましい 差出し 差出し人 差出人 郵便差し出し箱 郵便差出箱","kanji":"差 出"},{"keb":"差出し","composition":"差し出し","dependencies":"差し出し","dependents":"差出し人","kanji":"差 出"},{"keb":"差出","composition":"差し出し","dependencies":"差し出し","dependents":"差出がましい 差出人 郵便差出箱","kanji":"差 出"}]}
 {"ent_seq":2873305,"k_ele":[{"keb":"お客","composition":"お 客","dependencies":"御 お 客","kanji":"客"},{"keb":"御客","composition":"御 客","dependencies":"御 客","dependents":"御客さま 御客さん","kanji":"御 客"}]}
+{"ent_seq":2873306}
 {"ent_seq":2873307,"k_ele":[{"keb":"物欲しい","dependents":"もの欲し もの欲しげ もの欲しそう 物ほし 物ほしそう 物欲し 物欲しげ 物欲しそう","kanji":"物 欲"}]}
+{"ent_seq":2873308,"k_ele":[{"keb":"巡らせる","composition":"巡ら せる","dependencies":"巡る 巡ら せる","kanji":"巡"},{"keb":"廻らせる","composition":"廻ら せる","dependencies":"回る 廻る 廻ら せる","kanji":"廻"},{"keb":"回らせる","composition":"回ら せる","dependencies":"回る 回ら せる","kanji":"回"},{"keb":"繞らせる","composition":"繞ら せる","dependencies":"巡る 繞る 繞ら せる","kanji":"繞"}]}
 {"ent_seq":2873309,"k_ele":[{"keb":"不可抗","dependents":"不可抗力","kanji":"不 可 抗"}]}
 {"ent_seq":2873310,"k_ele":[{"keb":"肉抜き","kanji":"肉 抜"}]}
 {"ent_seq":2873311,"k_ele":[{"keb":"ホモ嫌悪","composition":"ホモ 嫌悪","dependencies":"ホモ 嫌悪","kanji":"嫌 悪"}]}
@@ -11772,28 +11777,114 @@
 {"ent_seq":2873334,"k_ele":[{"keb":"小腸炎","composition":"小腸 炎","dependencies":"小腸 炎","kanji":"小 腸 炎"}]}
 {"ent_seq":2873335,"k_ele":[{"keb":"学校出","composition":"学校 出","dependencies":"学校 出","kanji":"学 校 出"}]}
 {"ent_seq":2873336}
+{"ent_seq":2873338}
+{"ent_seq":2873339,"k_ele":[{"keb":"中缶","composition":"中 缶","dependencies":"中 缶","kanji":"中 缶"}]}
 {"ent_seq":2873340}
+{"ent_seq":2873342,"k_ele":[{"keb":"鳴り止む","composition":"鳴り 止む","dependencies":"鳴る 鳴り 止む","kanji":"鳴 止"},{"keb":"鳴りやむ","composition":"鳴り やむ","dependencies":"鳴る 鳴り 止む やむ","kanji":"鳴"}]}
+{"ent_seq":2873343,"k_ele":[{"keb":"馳せ参ずる","composition":"馳せ 参ずる","dependencies":"馳せる 馳せ 参ずる","kanji":"馳 参"},{"keb":"はせ参ずる","composition":"はせ 参ずる","dependencies":"は せる せ はせ 参ずる","kanji":"参"}]}
+{"ent_seq":2873344,"k_ele":[{"keb":"焼き切れる","composition":"焼き 切れる","dependencies":"焼く 焼き 切れる","kanji":"焼 切"},{"keb":"焼ききれる","composition":"焼き きれる","dependencies":"焼く 焼き 切れる きれる","kanji":"焼"}]}
+{"ent_seq":2873345,"k_ele":[{"keb":"器楽編成法","composition":"器楽 編成 法","dependencies":"器楽 編成 法","kanji":"器 楽 編 成 法"}]}
 {"ent_seq":2873346}
 {"ent_seq":2873347,"k_ele":[{"keb":"撥捌き","composition":"撥 捌き","dependencies":"撥 捌き","kanji":"撥 捌"}]}
 {"ent_seq":2873348,"k_ele":[{"keb":"最高音","composition":"最高 音","dependencies":"最高 音","kanji":"最 高 音"}]}
+{"ent_seq":2873349,"k_ele":[{"keb":"十二音技法","composition":"十二 音 技法","dependencies":"十二 音 技法","kanji":"十 二 音 技 法"}]}
 {"ent_seq":2873350}
+{"ent_seq":2873351}
 {"ent_seq":2873352}
 {"ent_seq":2873353,"k_ele":[{"keb":"七重奏","composition":"七 重 奏","dependencies":"七 重 奏","kanji":"七 重 奏"}]}
+{"ent_seq":2873354}
+{"ent_seq":2873357}
+{"ent_seq":2873358,"k_ele":[{"keb":"ミクソリディア旋法","composition":"ミクソリディア 旋法","dependencies":"ミクソリディア 旋法","kanji":"旋 法"}]}
 {"ent_seq":2873359,"k_ele":[{"keb":"八調","composition":"八 調","dependencies":"八 調","kanji":"八 調"}]}
 {"ent_seq":2873360}
+{"ent_seq":2873361,"k_ele":[{"keb":"ピカルディの三度","composition":"ピカルディ の 三 度","dependencies":"ピカルディー ピカルディ の 三 度","kanji":"三 度"}]}
+{"ent_seq":2873362}
+{"ent_seq":2873363}
+{"ent_seq":2873364,"k_ele":[{"keb":"ロンドソナタ形式","composition":"ロンド ソナタ 形式","dependencies":"ロンド ソナタ 形式","kanji":"形 式"}]}
+{"ent_seq":2873365,"k_ele":[{"keb":"反復進行","composition":"反復 進行","dependencies":"反復 進行","kanji":"反 復 進 行"}]}
 {"ent_seq":2873366,"k_ele":[{"keb":"帰寮","kanji":"帰 寮"}]}
+{"ent_seq":2873367,"k_ele":[{"keb":"六の和音","composition":"六 の 和音","dependencies":"六 の 和音","kanji":"六 和 音"}]}
+{"ent_seq":2873368}
+{"ent_seq":2873369}
+{"ent_seq":2873370,"k_ele":[{"keb":"トリスタン和音","composition":"トリスタン 和音","dependencies":"トリスタン 和音","kanji":"和 音"}]}
 {"ent_seq":2873371}
 {"ent_seq":2873372}
 {"ent_seq":2873373}
+{"ent_seq":2873374}
+{"ent_seq":2873375,"k_ele":[{"keb":"積み上がる","composition":"積み 上がる","dependencies":"積み 上がる","kanji":"積 上"}]}
+{"ent_seq":2873376,"k_ele":[{"keb":"目遣い","kanji":"目 遣"}]}
+{"ent_seq":2873377,"k_ele":[{"keb":"日本すごい系","composition":"日本 すごい 系","dependencies":"日本 凄い すごい 系","kanji":"日 本 系"},{"keb":"日本スゴイ系","composition":"日本 スゴイ 系","dependencies":"日本 凄い スゴイ 系","kanji":"日 本 系"}]}
+{"ent_seq":2873378,"k_ele":[{"keb":"はしゃぎ回る","composition":"はしゃぎ 回る","dependencies":"はしゃぐ 燥ぐ はしゃぎ 回る","kanji":"回"},{"keb":"燥ぎ回る","composition":"燥ぎ 回る","dependencies":"燥ぐ 燥ぎ 回る","kanji":"燥 回"}]}
+{"ent_seq":2873379,"k_ele":[{"keb":"言い足りる","composition":"言い 足りる","dependencies":"言う 言い 足りる","kanji":"言 足"}]}
+{"ent_seq":2873380,"k_ele":[{"keb":"無いことはない","composition":"無い こと は ない","dependencies":"無い こと は ない","kanji":"無"},{"keb":"無いことは無い","composition":"無い こと は 無い","dependencies":"無い こと は","kanji":"無 無"},{"keb":"無い事は無い","composition":"無い 事 は 無い","dependencies":"無い 事 は","kanji":"無 事 無"},{"keb":"無い事はない","composition":"無い 事 は ない","dependencies":"無い 事 は ない","kanji":"無 事"}]}
+{"ent_seq":2873383}
 {"ent_seq":2873384,"k_ele":[{"keb":"溶け落ちる","composition":"溶け 落ちる","dependencies":"溶ける 溶け 落ちる","kanji":"溶 落"}]}
+{"ent_seq":2873385,"k_ele":[{"keb":"揉み潰す","composition":"揉み 潰す","dependencies":"揉み 潰す","kanji":"揉 潰"}]}
 {"ent_seq":2873386,"k_ele":[{"keb":"無くし物","dependents":"なくし物 失くし物","kanji":"無 物"},{"keb":"なくし物","composition":"無くし物","dependencies":"無くし物","kanji":"物"},{"keb":"失くし物","composition":"無くし物","dependencies":"無くし物","kanji":"失 物"},{"keb":"無くしもの","composition":"無くし もの","dependencies":"無くす 無くし 物 もの","kanji":"無"},{"keb":"失くしもの","composition":"失くし もの","dependencies":"無くす 失くす 失くし 物 もの","kanji":"失"}]}
+{"ent_seq":2873387,"k_ele":[{"keb":"逆回し","kanji":"逆 回"}]}
 {"ent_seq":2873388,"k_ele":[{"keb":"知ったか","dependents":"知ったかぶり 知ったかぶり屋 知ったか振り","kanji":"知"}]}
 {"ent_seq":2873390,"k_ele":[{"keb":"声出し","kanji":"声 出"},{"keb":"声だし","composition":"声 だ し","dependencies":"声 だ き し","kanji":"声"}]}
+{"ent_seq":2873391,"k_ele":[{"keb":"振れ","dependents":"ない袖は振れない ない袖は振れぬ 無い袖は振れない 無い袖は振れぬ","kanji":"振"}]}
 {"ent_seq":2873392,"k_ele":[{"keb":"聞き捨て","dependents":"聞きずて 聞きずてならない 聞き捨てならない 聞き捨てにする 聞捨て","kanji":"聞 捨"},{"keb":"聞きずて","composition":"聞き捨て","dependencies":"聞き捨て","dependents":"聞きずてならない","kanji":"聞"},{"keb":"聞捨て","composition":"聞き捨て","dependencies":"聞き捨て","kanji":"聞 捨"}]}
 {"ent_seq":2873393,"k_ele":[{"keb":"定価販売","composition":"定価 販売","dependencies":"定価 販売","kanji":"定 価 販 売"}]}
+{"ent_seq":2873394}
 {"ent_seq":2873395,"k_ele":[{"keb":"楽器編成","composition":"楽器 編成","dependencies":"楽器 編成","kanji":"楽 器 編 成"}]}
 {"ent_seq":2873396,"k_ele":[{"keb":"明日明後日","kanji":"明 日 明 後 日"}]}
 {"ent_seq":2873399}
+{"ent_seq":2873400,"k_ele":[{"keb":"秒刻み","kanji":"秒 刻"}]}
+{"ent_seq":2873401,"k_ele":[{"keb":"指通り","composition":"指 通り","dependencies":"指 通り","kanji":"指 通"}]}
+{"ent_seq":2873402,"k_ele":[{"keb":"透かし見る","composition":"透かし 見る","dependencies":"透かし 見る","kanji":"透 見"},{"keb":"透かしみる","composition":"透かし みる","dependencies":"透かし 見る みる","kanji":"透"},{"keb":"すかし見る","composition":"すかし 見る","dependencies":"透かし すかし 見る","kanji":"見"}]}
+{"ent_seq":2873403,"k_ele":[{"keb":"乱痴気","dependents":"乱痴気パーティー 乱痴気騒ぎ","kanji":"乱 痴 気"}]}
+{"ent_seq":2873404,"k_ele":[{"keb":"結わく","dependents":"結く","kanji":"結"}]}
+{"ent_seq":2873405,"k_ele":[{"keb":"欠け落ちる","composition":"欠け 落ちる","dependencies":"欠ける 欠け 落ちる","kanji":"欠 落"}]}
+{"ent_seq":2873406}
+{"ent_seq":2873407}
+{"ent_seq":2873408,"k_ele":[{"keb":"飛び下がる","composition":"飛び 下がる","dependencies":"飛ぶ 飛び 下がる","kanji":"飛 下"}]}
+{"ent_seq":2873409,"k_ele":[{"keb":"耳心地","kanji":"耳 心 地"}]}
+{"ent_seq":2873410,"k_ele":[{"keb":"稿を起こす","composition":"稿 を 起こす","dependencies":"稿 を 起こす","kanji":"稿 起"}]}
+{"ent_seq":2873411,"k_ele":[{"keb":"刃風","kanji":"刃 風"}]}
+{"ent_seq":2873412}
+{"ent_seq":2873413,"k_ele":[{"keb":"白鞘","kanji":"白 鞘"}]}
+{"ent_seq":2873414,"k_ele":[{"keb":"奸雄","dependents":"姦雄","kanji":"奸 雄"},{"keb":"姦雄","composition":"奸雄","dependencies":"奸雄","kanji":"姦 雄"}]}
+{"ent_seq":2873415,"k_ele":[{"keb":"安息香の木","composition":"安息 香の木","dependencies":"安息 香の木","kanji":"安 息 香 木"}]}
+{"ent_seq":2873416,"k_ele":[{"keb":"ＲＩＦ"}]}
+{"ent_seq":2873417}
+{"ent_seq":2873418}
+{"ent_seq":2873419}
+{"ent_seq":2873420,"k_ele":[{"keb":"縞源五郎","composition":"縞 源五郎","dependencies":"縞 源五郎","kanji":"縞 源 五 郎"}]}
+{"ent_seq":2873422,"k_ele":[{"keb":"潰し","composition":"潰す","dependencies":"潰す","dependents":"ごく潰し つぶし つぶしが利く つぶしが効く つぶし島田 ねた潰し ゴク潰し ネタ潰し プチプチ潰し 取潰し 噛みつぶし 塗りつぶし 時間つぶし 時間潰し 潰しがきく 潰しが利く 潰しが効く 潰しにする 潰し値 潰し値段 潰し島田 穀つぶし 組合つぶし 組合潰し 苦虫を噛みつぶしたよう 蝨潰し 領域塗りつぶし","kanji":"潰"}]}
+{"ent_seq":2873423,"k_ele":[{"keb":"取り越す","composition":"取り 越す","dependencies":"取る 取り 越す","kanji":"取 越"},{"keb":"取越す","composition":"取 越す","dependencies":"取る 取り 取 越す","kanji":"取 越"}]}
+{"ent_seq":2873424,"k_ele":[{"keb":"掴ます","dependents":"摑ます","kanji":"掴"},{"keb":"摑ます","composition":"掴ます","dependencies":"掴ます","kanji":"摑"}]}
+{"ent_seq":2873425,"k_ele":[{"keb":"鬱する","kanji":"鬱"}]}
+{"ent_seq":2873426,"k_ele":[{"keb":"素っ気","dependents":"そっけ 味もそっけもない 味もそっけも無い 味も素っ気もない 味も素っ気も無い 素気 素気無い","kanji":"素 気"}]}
+{"ent_seq":2873427}
+{"ent_seq":2873428,"k_ele":[{"keb":"沈み","dependents":"沈みこむ 沈み込む","kanji":"沈"}]}
+{"ent_seq":2873429,"k_ele":[{"keb":"吹きこぼす","composition":"吹き こぼす","dependencies":"吹き 零す こぼす","kanji":"吹"},{"keb":"噴きこぼす","composition":"噴き こぼす","dependencies":"噴き 零す こぼす","kanji":"噴"},{"keb":"吹き零す","composition":"吹き 零す","dependencies":"吹き 零す","kanji":"吹 零"},{"keb":"噴き零す","composition":"噴き 零す","dependencies":"噴き 零す","kanji":"噴 零"}]}
+{"ent_seq":2873430,"k_ele":[{"keb":"通わす","kanji":"通"}]}
+{"ent_seq":2873431}
+{"ent_seq":2873432,"k_ele":[{"keb":"習い覚える","composition":"習い 覚える","dependencies":"習い 覚える","kanji":"習 覚"},{"keb":"習いおぼえる","composition":"習い おぼえる","dependencies":"習い 覚える おぼえる","kanji":"習"}]}
+{"ent_seq":2873433,"k_ele":[{"keb":"延ばし延ばし","kanji":"延 延"},{"keb":"延ばしのばし","composition":"延ばし のばし","dependencies":"延ばす 延ばし のばす のばし","kanji":"延"},{"keb":"延し延し","composition":"延し 延し","dependencies":"伸し 延し","kanji":"延 延"}]}
+{"ent_seq":2873434,"k_ele":[{"keb":"寝乱れる","composition":"寝 乱れる","dependencies":"寝 乱れる","kanji":"寝 乱"}]}
+{"ent_seq":2873435,"k_ele":[{"keb":"通わせる","composition":"通わ せる","dependencies":"通う 通わ せる","kanji":"通"}]}
+{"ent_seq":2873437,"k_ele":[{"keb":"方言差別","composition":"方言 差別","dependencies":"方言 差別","kanji":"方 言 差 別"}]}
+{"ent_seq":2873438,"k_ele":[{"keb":"空城の計","composition":"空城 の 計","dependencies":"空城 の 計","kanji":"空 城 計"}]}
+{"ent_seq":2873439,"k_ele":[{"keb":"数打","composition":"数 打","dependencies":"数 打","kanji":"数 打"},{"keb":"数打ち","composition":"数 打ち","dependencies":"数 打ち","kanji":"数 打"}]}
+{"ent_seq":2873440,"k_ele":[{"keb":"上顎洞炎","composition":"上顎 洞 炎","dependencies":"上顎 洞 炎","kanji":"上 顎 洞 炎"}]}
+{"ent_seq":2873443,"k_ele":[{"keb":"無印","dependents":"無印商品 無印良品","kanji":"無 印"}]}
+{"ent_seq":2873445,"k_ele":[{"keb":"笑わす","kanji":"笑"},{"keb":"嗤わす","composition":"嗤わ す","dependencies":"笑う 嗤う 嗤わ です す","kanji":"嗤"}]}
+{"ent_seq":2873446,"k_ele":[{"keb":"突き当てる","composition":"突き 当てる","dependencies":"突き 当てる","kanji":"突 当"},{"keb":"突当てる","composition":"突当 てる","dependencies":"突当 てる","kanji":"突 当"}]}
+{"ent_seq":2873448,"k_ele":[{"keb":"征旅","kanji":"征 旅"}]}
+{"ent_seq":2873449,"k_ele":[{"keb":"眼球炎","composition":"眼球 炎","dependencies":"眼球 炎","kanji":"眼 球 炎"}]}
+{"ent_seq":2873450,"k_ele":[{"keb":"踏ん切る","composition":"踏ん 切る","dependencies":"踏む 踏ん 切る","kanji":"踏 切"}]}
+{"ent_seq":2873451,"k_ele":[{"keb":"潜まる","kanji":"潜"}]}
+{"ent_seq":2873452,"k_ele":[{"keb":"初太刀","kanji":"初 太 刀"}]}
+{"ent_seq":2873453,"k_ele":[{"keb":"水切れ","dependents":"水切 水切かご 水切棚","kanji":"水 切"},{"keb":"水切","composition":"水切れ","dependencies":"水切れ","dependents":"水切かご 水切棚","kanji":"水 切"}]}
+{"ent_seq":2873454,"k_ele":[{"keb":"お湿り","composition":"お 湿り","dependencies":"御 お 湿り","kanji":"湿"},{"keb":"御湿り","composition":"御 湿り","dependencies":"御 湿り","kanji":"御 湿"},{"keb":"御湿","composition":"襁褓","dependencies":"襁褓","kanji":"御 湿"}]}
+{"ent_seq":2873455,"k_ele":[{"keb":"不貞腐る","composition":"不貞 腐る","dependencies":"不貞 腐る","kanji":"不 貞 腐"}]}
+{"ent_seq":2873456,"k_ele":[{"keb":"深酔い","kanji":"深 酔"}]}
+{"ent_seq":2873457,"k_ele":[{"keb":"寝そびれる","composition":"寝 そびれる","dependencies":"寝 そびれる","kanji":"寝"}]}
+{"ent_seq":2873458,"k_ele":[{"keb":"枕上","kanji":"枕 上"}]}
+{"ent_seq":2873459,"k_ele":[{"keb":"手になる","composition":"手 に なる","dependencies":"手 に 成る なる","kanji":"手"},{"keb":"手に成る","composition":"手 に 成る","dependencies":"手 に 成る","kanji":"手 成"}]}
 {"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる","composition":"２ ちゃんねる","dependencies":"2 ２ チャンネル ちゃんねる"}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ","composition":"3M","dependencies":"3M"}]}
